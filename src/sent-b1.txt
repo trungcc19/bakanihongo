@@ -1,0 +1,124 @@
+l|j|en|vi
+5|おはようございます。今日[きょう]もいい天気[てんき]ですね。|Good morning. The weather is nice today too, isn't it?|Chào buổi sáng. Hôm nay thời tiết cũng đẹp nhỉ.
+5|私[わたし]は毎朝[まいあさ]六時[ろくじ]に起[お]きます。|I get up at six every morning.|Mỗi sáng tôi thức dậy lúc 6 giờ.
+5|朝[あさ]ご飯[はん]にパンと卵[たまご]を食[た]べます。|I eat bread and eggs for breakfast.|Bữa sáng tôi ăn bánh mì và trứng.
+5|コーヒーを飲[の]みますか。|Do you drink coffee?|Bạn có uống cà phê không?
+5|毎日[まいにち]電車[でんしゃ]で会社[かいしゃ]へ行[い]きます。|I go to the company by train every day.|Mỗi ngày tôi đi làm bằng tàu điện.
+5|駅[えき]は学校[がっこう]の前[まえ]にあります。|The station is in front of the school.|Ga ở phía trước trường học.
+5|先生[せんせい]は日本語[にほんご]を教[おし]えます。|The teacher teaches Japanese.|Thầy giáo dạy tiếng Nhật.
+5|友達[ともだち]と一緒[いっしょ]に映画[えいが]を見[み]ました。|I watched a movie with a friend.|Tôi đã xem phim cùng bạn.
+5|この本[ほん]は高[たか]いです。|This book is expensive.|Quyển sách này đắt.
+5|あの店[みせ]は安[やす]くて、おいしいです。|That shop is cheap and the food is delicious.|Cửa hàng kia rẻ và ngon.
+5|私[わたし]の家[いえ]は駅[えき]から近[ちか]いです。|My house is close to the station.|Nhà tôi gần ga.
+5|犬[いぬ]と猫[ねこ]が好[す]きです。|I like dogs and cats.|Tôi thích chó và mèo.
+5|昨日[きのう]は忙[いそが]しかったです。|I was busy yesterday.|Hôm qua tôi bận.
+5|明日[あした]は友達[ともだち]に会[あ]います。|Tomorrow I will meet a friend.|Ngày mai tôi sẽ gặp bạn.
+5|日本語[にほんご]は難[むずか]しいですが、面白[おもしろ]いです。|Japanese is difficult, but interesting.|Tiếng Nhật khó nhưng thú vị.
+5|水[みず]をください。|Water, please.|Làm ơn cho tôi nước.
+5|これはいくらですか。|How much is this?|Cái này giá bao nhiêu?
+5|トイレはどこですか。|Where is the toilet?|Nhà vệ sinh ở đâu?
+5|今[いま]、何時[なんじ]ですか。|What time is it now?|Bây giờ là mấy giờ?
+5|今[いま]は三時[さんじ]半[はん]です。|It is half past three now.|Bây giờ là 3 giờ rưỡi.
+5|毎晩[まいばん]十一時[じゅういちじ]に寝[ね]ます。|I go to bed at eleven every night.|Mỗi tối tôi đi ngủ lúc 11 giờ.
+5|私[わたし]は学生[がくせい]ではありません。|I am not a student.|Tôi không phải là học sinh.
+5|兄[あに]は会社員[かいしゃいん]です。|My older brother is a company employee.|Anh trai tôi là nhân viên công ty.
+5|母[はは]は料理[りょうり]が上手[じょうず]です。|My mother is good at cooking.|Mẹ tôi nấu ăn giỏi.
+5|父[ちち]は新聞[しんぶん]を読[よ]んでいます。|My father is reading the newspaper.|Bố tôi đang đọc báo.
+5|妹[いもうと]は歌[うた]を歌[うた]っています。|My younger sister is singing a song.|Em gái tôi đang hát.
+5|公園[こうえん]で友達[ともだち]と遊[あそ]びます。|I play with a friend in the park.|Tôi chơi với bạn ở công viên.
+5|図書館[としょかん]で本[ほん]を借[か]りました。|I borrowed a book at the library.|Tôi đã mượn sách ở thư viện.
+5|この傘[かさ]は私[わたし]のです。|This umbrella is mine.|Chiếc ô này là của tôi.
+5|雨[あめ]ですから、家[いえ]にいます。|Since it is raining, I will stay home.|Vì trời mưa nên tôi ở nhà.
+5|今日[きょう]は寒[さむ]いですね。|It is cold today, isn't it?|Hôm nay lạnh nhỉ.
+5|夏[なつ]は暑[あつ]いです。|Summer is hot.|Mùa hè nóng.
+5|冬[ふゆ]は雪[ゆき]が降[ふ]ります。|It snows in winter.|Mùa đông có tuyết rơi.
+5|日曜日[にちようび]は何[なに]をしますか。|What do you do on Sunday?|Chủ nhật bạn làm gì?
+5|土曜日[どようび]に買[か]い物[もの]に行[い]きます。|I go shopping on Saturday.|Thứ Bảy tôi đi mua sắm.
+5|来週[らいしゅう]は友達[ともだち]の誕生日[たんじょうび]です。|Next week is my friend's birthday.|Tuần sau là sinh nhật bạn tôi.
+5|手紙[てがみ]を書[か]きました。|I wrote a letter.|Tôi đã viết thư.
+5|写真[しゃしん]を撮[と]ってもいいですか。|May I take a photo?|Tôi chụp ảnh được không?
+5|ここで食[た]べないでください。|Please do not eat here.|Xin đừng ăn ở đây.
+5|右[みぎ]に曲[ま]がってください。|Please turn right.|Hãy rẽ phải.
+5|まっすぐ行[い]ってください。|Please go straight.|Hãy đi thẳng.
+5|銀行[ぎんこう]は郵便局[ゆうびんきょく]の隣[となり]です。|The bank is next to the post office.|Ngân hàng ở cạnh bưu điện.
+5|机[つくえ]の上[うえ]に辞書[じしょ]があります。|There is a dictionary on the desk.|Trên bàn có một cuốn từ điển.
+5|部屋[へや]に誰[だれ]もいません。|There is no one in the room.|Trong phòng không có ai.
+5|窓[まど]を開[あ]けてください。|Please open the window.|Hãy mở cửa sổ.
+5|ドアを閉[し]めます。|I close the door.|Tôi đóng cửa.
+5|電気[でんき]を消[け]してください。|Please turn off the light.|Hãy tắt đèn.
+5|本[ほん]を二冊[にさつ]買[か]いました。|I bought two books.|Tôi đã mua hai quyển sách.
+5|りんごを三[みっ]つください。|Please give me three apples.|Cho tôi ba quả táo.
+5|学生[がくせい]が五人[ごにん]います。|There are five students.|Có năm học sinh.
+5|私[わたし]は日本[にほん]に住[す]んでいます。|I live in Japan.|Tôi đang sống ở Nhật Bản.
+5|兄弟[きょうだい]は何人[なんにん]いますか。|How many siblings do you have?|Bạn có mấy anh chị em?
+5|姉[あね]が二人[ふたり]います。|I have two older sisters.|Tôi có hai chị gái.
+5|彼女[かのじょ]はいつも元気[げんき]です。|She is always cheerful.|Cô ấy lúc nào cũng khỏe khoắn.
+5|私[わたし]は泳[およ]ぐのが好[す]きです。|I like swimming.|Tôi thích bơi.
+5|山[やま]に登[のぼ]りたいです。|I want to climb a mountain.|Tôi muốn leo núi.
+5|海[うみ]はきれいですね。|The sea is beautiful, isn't it?|Biển đẹp nhỉ.
+5|空[そら]が青[あお]いです。|The sky is blue.|Bầu trời xanh.
+5|花[はな]を買[か]いました。|I bought flowers.|Tôi đã mua hoa.
+5|魚[さかな]と野菜[やさい]を食[た]べます。|I eat fish and vegetables.|Tôi ăn cá và rau.
+5|肉[にく]は食[た]べません。|I do not eat meat.|Tôi không ăn thịt.
+5|お茶[ちゃ]を飲[の]みませんか。|Would you like some tea?|Bạn uống trà nhé?
+5|牛乳[ぎゅうにゅう]を毎朝[まいあさ]飲[の]みます。|I drink milk every morning.|Mỗi sáng tôi uống sữa.
+5|昼[ひる]ご飯[はん]は何[なに]を食[た]べましたか。|What did you eat for lunch?|Bữa trưa bạn đã ăn gì?
+5|晩[ばん]ご飯[はん]は七時[しちじ]です。|Dinner is at seven.|Bữa tối lúc 7 giờ.
+5|病院[びょういん]は駅[えき]の近[ちか]くです。|The hospital is near the station.|Bệnh viện ở gần ga.
+5|頭[あたま]が痛[いた]いです。|I have a headache.|Tôi bị đau đầu.
+5|薬[くすり]を飲[の]んでください。|Please take your medicine.|Hãy uống thuốc.
+5|今日[きょう]は休[やす]みです。|Today is a day off.|Hôm nay là ngày nghỉ.
+5|毎日[まいにち]日本語[にほんご]を勉強[べんきょう]します。|I study Japanese every day.|Mỗi ngày tôi học tiếng Nhật.
+5|漢字[かんじ]を書[か]くのは難[むずか]しいです。|Writing kanji is difficult.|Viết chữ Hán thì khó.
+5|ゆっくり話[はな]してください。|Please speak slowly.|Xin hãy nói chậm thôi.
+5|もう一度[いちど]言[い]ってください。|Please say it once more.|Xin hãy nói lại một lần nữa.
+5|分[わ]かりません。|I do not understand.|Tôi không hiểu.
+5|質問[しつもん]があります。|I have a question.|Tôi có câu hỏi.
+5|宿題[しゅくだい]はもう終[お]わりました。|I have already finished my homework.|Tôi đã làm xong bài tập rồi.
+5|十二月[じゅうにがつ]に日本[にほん]へ行[い]きます。|I will go to Japan in December.|Tháng 12 tôi sẽ đi Nhật.
+5|誕生日[たんじょうび]は三月[さんがつ]五日[いつか]です。|My birthday is March 5th.|Sinh nhật tôi là ngày 5 tháng 3.
+5|来年[らいねん]、大学[だいがく]に入[はい]ります。|I will enter university next year.|Năm sau tôi vào đại học.
+5|去年[きょねん]、結婚[けっこん]しました。|I got married last year.|Năm ngoái tôi đã kết hôn.
+5|自転車[じてんしゃ]で公園[こうえん]へ行[い]きます。|I go to the park by bicycle.|Tôi đi công viên bằng xe đạp.
+5|バスは十分[じっぷん]ぐらいかかります。|The bus takes about ten minutes.|Xe buýt mất khoảng 10 phút.
+5|空港[くうこう]までタクシーで行[い]きます。|I will go to the airport by taxi.|Tôi sẽ đi đến sân bay bằng taxi.
+5|切符[きっぷ]を二枚[にまい]買[か]いました。|I bought two tickets.|Tôi đã mua hai vé.
+5|すみません、駅[えき]はどこですか。|Excuse me, where is the station?|Xin lỗi, ga ở đâu ạ?
+5|白[しろ]い猫[ねこ]が好[す]きです。|I like white cats.|Tôi thích mèo trắng.
+5|新[あたら]しい靴[くつ]を買[か]いました。|I bought new shoes.|Tôi đã mua giày mới.
+5|大[おお]きい犬[いぬ]が庭[にわ]にいます。|There is a big dog in the garden.|Có một con chó lớn ở trong vườn.
+5|夜[よる]は静[しず]かです。|It is quiet at night.|Ban đêm yên tĩnh.
+5|彼[かれ]は歌[うた]が上手[じょうず]です。|He is good at singing.|Anh ấy hát giỏi.
+5|私[わたし]は料理[りょうり]が下手[へた]です。|I am bad at cooking.|Tôi nấu ăn kém.
+5|毎週[まいしゅう]日曜日[にちようび]に洗濯[せんたく]をします。|I do laundry every Sunday.|Mỗi Chủ nhật tôi giặt đồ.
+5|部屋[へや]を掃除[そうじ]しました。|I cleaned my room.|Tôi đã dọn phòng.
+5|電話[でんわ]番号[ばんごう]を教[おし]えてください。|Please tell me your phone number.|Xin hãy cho tôi số điện thoại.
+5|名前[なまえ]は何[なん]ですか。|What is your name?|Tên bạn là gì?
+5|初[はじ]めまして。どうぞよろしく。|Nice to meet you. Please treat me well.|Rất hân hạnh được gặp. Mong được giúp đỡ.
+5|ありがとうございました。|Thank you very much (for what you did).|Cảm ơn bạn rất nhiều.
+5|毎年[まいとし]、夏[なつ]に海[うみ]へ行[い]きます。|Every year I go to the sea in summer.|Mỗi năm vào mùa hè tôi đi biển.
+5|日本語[にほんご]の先生[せんせい]は女[おんな]の人[ひと]です。|My Japanese teacher is a woman.|Cô giáo tiếng Nhật là một phụ nữ.
+4|日本[にほん]に行[い]ったことがありますか。|Have you ever been to Japan?|Bạn đã từng đến Nhật chưa?
+4|雨[あめ]が降[ふ]っているので、出[で]かけません。|Because it is raining, I will not go out.|Vì trời đang mưa nên tôi không ra ngoài.
+4|日本語[にほんご]が話[はな]せるようになりました。|I have become able to speak Japanese.|Tôi đã nói được tiếng Nhật.
+4|宿題[しゅくだい]をしなければなりません。|I have to do my homework.|Tôi phải làm bài tập.
+4|試験[しけん]の準備[じゅんび]をしています。|I am preparing for the exam.|Tôi đang chuẩn bị cho kỳ thi.
+4|約束[やくそく]を忘[わす]れてしまいました。|I forgot the appointment.|Tôi lỡ quên mất cuộc hẹn.
+4|友達[ともだち]に手紙[てがみ]を送[おく]るつもりです。|I plan to send a letter to a friend.|Tôi định gửi thư cho bạn.
+4|先生[せんせい]に説明[せつめい]してもらいました。|The teacher explained it to me.|Thầy giáo đã giải thích cho tôi.
+4|心配[しんぱい]しないでください。|Please do not worry.|Xin đừng lo lắng.
+4|都合[つごう]がいい日[ひ]を教[おし]えてください。|Please tell me a convenient day.|Xin hãy cho tôi biết ngày thuận tiện.
+4|運転[うんてん]するとき、電話[でんわ]を使[つか]ってはいけません。|You must not use the phone while driving.|Khi lái xe không được dùng điện thoại.
+4|旅行[りょこう]の経験[けいけん]がたくさんあります。|I have a lot of travel experience.|Tôi có nhiều kinh nghiệm đi du lịch.
+4|この店[みせ]の料理[りょうり]は特別[とくべつ]においしいです。|The food at this shop is especially delicious.|Món ăn ở cửa hàng này đặc biệt ngon.
+4|毎朝[まいあさ]走[はし]る習慣[しゅうかん]があります。|I have a habit of running every morning.|Tôi có thói quen chạy bộ mỗi sáng.
+3|環境[かんきょう]問題[もんだい]は私[わたし]たちの生活[せいかつ]に大[おお]きな影響[えいきょう]を与[あた]えています。|Environmental problems have a big impact on our lives.|Vấn đề môi trường ảnh hưởng lớn đến cuộc sống của chúng ta.
+3|彼[かれ]との関係[かんけい]を大切[たいせつ]にしたいと思[おも]います。|I want to value my relationship with him.|Tôi muốn trân trọng mối quan hệ với anh ấy.
+3|目的[もくてき]を決[き]めてから、計画[けいかく]を立[た]てましょう。|Let us make a plan after deciding the purpose.|Hãy lập kế hoạch sau khi quyết định mục đích.
+3|状況[じょうきょう]によって、予定[よてい]が変[か]わるかもしれません。|Depending on the situation, the schedule may change.|Tùy tình hình mà lịch trình có thể thay đổi.
+3|実験[じっけん]の結果[けっか]は、予想[よそう]と違[ちが]っていました。|The experiment result was different from the prediction.|Kết quả thí nghiệm khác với dự đoán.
+3|将来[しょうらい]のために、経済[けいざい]を勉強[べんきょう]しています。|I am studying economics for my future.|Tôi đang học kinh tế vì tương lai.
+3|この問題[もんだい]の解決[かいけつ]には、時間[じかん]がかかりそうです。|It looks like solving this problem will take time.|Giải quyết vấn đề này có vẻ sẽ mất thời gian.
+3|参加[さんか]する人[ひと]が増[ふ]えているそうです。|I hear the number of participants is increasing.|Nghe nói số người tham gia đang tăng.
+3|以前[いぜん]は、この町[まち]に電車[でんしゃ]がありませんでした。|In the past, there was no train in this town.|Trước đây thị trấn này không có tàu điện.
+3|意見[いけん]を比較[ひかく]してから、決[き]めます。|I will decide after comparing the opinions.|Tôi sẽ quyết định sau khi so sánh các ý kiến.

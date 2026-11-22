@@ -1,0 +1,194 @@
+l|j|en|vi
+5|あなたの名前[なまえ]は何[なん]ですか。|What is your name?|Tên của bạn là gì?
+5|男[おとこ]の子[こ]と女[おんな]の子[こ]が公園[こうえん]で遊[あそ]んでいます。|A boy and a girl are playing in the park.|Một bé trai và một bé gái đang chơi ở công viên.
+5|家族[かぞく]は四人[よにん]です。|My family has four people.|Gia đình tôi có bốn người.
+5|医者[いしゃ]は病院[びょういん]で働[はたら]いています。|The doctor works at the hospital.|Bác sĩ làm việc ở bệnh viện.
+5|友達[ともだち]の話[はなし]を聞[き]きます。|I listen to my friend's story.|Tôi nghe câu chuyện của bạn.
+5|目[め]と口[くち]と耳[みみ]と鼻[はな]があります。|There are eyes, a mouth, ears and a nose.|Có mắt, miệng, tai và mũi.
+5|足[あし]が痛[いた]いです。体[からだ]も疲[つか]れました。|My legs hurt. My body is tired too.|Chân tôi đau. Cơ thể cũng mệt.
+5|顔[かお]を洗[あら]います。髪[かみ]も洗[あら]います。|I wash my face. I wash my hair too.|Tôi rửa mặt. Tôi cũng gội đầu.
+5|歯[は]を磨[みが]きます。|I brush my teeth.|Tôi đánh răng.
+5|お父[とう]さんは医者[いしゃ]です。お母[かあ]さんは先生[せんせい]です。|Your father is a doctor. Your mother is a teacher.|Bố bạn là bác sĩ. Mẹ bạn là giáo viên.
+5|お兄[にい]さんとお姉[ねえ]さんは大学[だいがく]にいます。|Your older brother and sister are at university.|Anh trai và chị gái của bạn đang ở đại học.
+5|両親[りょうしん]は田舎[いなか]に住[す]んでいます。|My parents live in the countryside.|Bố mẹ tôi sống ở quê.
+5|大人[おとな]は五百[ごひゃく]円[えん]、子供[こども]は三百[さんびゃく]円[えん]です。|Adults are 500 yen and children are 300 yen.|Người lớn 500 yên, trẻ em 300 yên.
+5|私[わたし]は仕事[しごと]が好[す]きです。|I like my work.|Tôi thích công việc của mình.
+5|外国人[がいこくじん]の友達[ともだち]がいます。外国[がいこく]に住[す]みたいです。|I have a foreign friend. I want to live abroad.|Tôi có một người bạn nước ngoài. Tôi muốn sống ở nước ngoài.
+5|中国[ちゅうごく]と韓国[かんこく]とアメリカへ行[い]きたいです。|I want to go to China, Korea and America.|Tôi muốn đi Trung Quốc, Hàn Quốc và Mỹ.
+5|英語[えいご]を勉強[べんきょう]しています。|I am studying English.|Tôi đang học tiếng Anh.
+5|私[わたし]の国[くに]は暑[あつ]いです。|My country is hot.|Đất nước tôi nóng.
+5|言葉[ことば]を覚[おぼ]えます。|I memorize words.|Tôi ghi nhớ từ ngữ.
+5|駅[えき]の外[そと]で待[ま]っています。|I am waiting outside the station.|Tôi đang đợi ở bên ngoài nhà ga.
+5|かばんの中[なか]に本[ほん]があります。|There is a book in the bag.|Trong cặp có một quyển sách.
+5|椅子[いす]の後[うし]ろに猫[ねこ]がいます。|There is a cat behind the chair.|Có một con mèo ở phía sau cái ghế.
+5|郵便局[ゆうびんきょく]は左[ひだり]にあります。|The post office is on the left.|Bưu điện ở bên trái.
+5|太陽[たいよう]は東[ひがし]から出[で]て、西[にし]へ沈[しず]みます。|The sun rises from the east and sets in the west.|Mặt trời mọc ở phía đông và lặn ở phía tây.
+5|南[みなみ]は暖[あたた]かく、北[きた]は寒[さむ]いです。|The south is warm and the north is cold.|Phía nam ấm, phía bắc lạnh.
+5|机[つくえ]の下[した]に猫[ねこ]がいます。|There is a cat under the desk.|Có một con mèo dưới gầm bàn.
+5|そこにかばんを置[お]いてください。|Please put the bag there.|Hãy đặt cặp ở đó.
+5|あそこにコンビニがあります。|There is a convenience store over there.|Ở đằng kia có một cửa hàng tiện lợi.
+5|それは私[わたし]の傘[かさ]です。あれは先生[せんせい]の傘[かさ]です。|That is my umbrella. That one over there is the teacher's.|Cái đó là ô của tôi. Cái kia là ô của thầy giáo.
+5|学校[がっこう]はいつ始[はじ]まりますか。|When does school start?|Khi nào trường bắt đầu?
+5|どうして遅[おそ]くなりましたか。|Why are you late?|Tại sao bạn đến muộn?
+5|全部[ぜんぶ]食[た]べました。|I ate it all.|Tôi đã ăn hết.
+5|まだ宿題[しゅくだい]が終[お]わっていません。|I have not finished my homework yet.|Tôi vẫn chưa làm xong bài tập.
+5|お酒[さけ]は飲[の]みません。|I do not drink alcohol.|Tôi không uống rượu.
+5|紅茶[こうちゃ]に砂糖[さとう]を入[い]れる。|I put sugar in black tea.|Tôi cho đường vào trà đen.
+5|塩[しお]を取[と]ってください。|Please pass me the salt.|Làm ơn đưa giúp tôi lọ muối.
+5|飲[の]み物[もの]と食[た]べ物[もの]を買[か]います。|I buy drinks and food.|Tôi mua đồ uống và đồ ăn.
+5|喫茶店[きっさてん]でコーヒーを飲[の]みます。|I drink coffee at a coffee shop.|Tôi uống cà phê ở quán cà phê.
+5|レストランで晩[ばん]ご飯[はん]を食[た]べます。|I eat dinner at a restaurant.|Tôi ăn tối ở nhà hàng.
+5|果物[くだもの]が好[す]きです。|I like fruit.|Tôi thích trái cây.
+5|豚肉[ぶたにく]と牛肉[ぎゅうにく]と鶏肉[とりにく]を買[か]いました。|I bought pork, beef and chicken.|Tôi đã mua thịt heo, thịt bò và thịt gà.
+5|毎日[まいにち]お弁当[べんとう]を作[つく]ります。|I make a boxed lunch every day.|Mỗi ngày tôi làm cơm hộp.
+5|ジュースを飲[の]みますか。|Would you like some juice?|Bạn uống nước ép không?
+5|スプーンとフォークとナイフを使[つか]います。|I use a spoon, a fork and a knife.|Tôi dùng thìa, nĩa và dao.
+5|コップで水[みず]を飲[の]みます。|I drink water from a glass.|Tôi uống nước bằng cốc.
+5|皿[さら]と茶碗[ちゃわん]と箸[はし]を洗[あら]います。|I wash the plates, bowls and chopsticks.|Tôi rửa đĩa, bát và đũa.
+5|カレーとサラダとスープを作[つく]りました。|I made curry, salad and soup.|Tôi đã nấu cà ri, sa lát và súp.
+5|この料理[りょうり]は甘[あま]いですが、あの料理[りょうり]は辛[から]いです。|This dish is sweet, but that dish is spicy.|Món này ngọt nhưng món kia cay.
+5|かばんの中[なか]にノートとペンと鉛筆[えんぴつ]があります。|There are a notebook, a pen and a pencil in the bag.|Trong cặp có vở, bút và bút chì.
+5|雑誌[ざっし]と紙[かみ]を買[か]いました。|I bought a magazine and paper.|Tôi đã mua một cuốn tạp chí và giấy.
+5|切手[きって]を貼[は]って、手紙[てがみ]を出[だ]す。|I put a stamp on the letter and mail it.|Tôi dán tem rồi gửi thư.
+5|服[ふく]と帽子[ぼうし]を買[か]いました。|I bought clothes and a hat.|Tôi đã mua quần áo và một chiếc mũ.
+5|時計[とけい]と眼鏡[めがね]を忘[わす]れました。|I forgot my watch and glasses.|Tôi đã quên đồng hồ và kính.
+5|テレビとラジオとカメラがあります。|There are a TV, a radio and a camera.|Có tivi, đài và máy ảnh.
+5|映画館[えいがかん]で映画[えいが]を見[み]ます。|I watch a movie at the cinema.|Tôi xem phim ở rạp.
+5|高校[こうこう]の教室[きょうしつ]は三階[さんがい]です。|The high school classroom is on the third floor.|Lớp học của trường cấp ba ở tầng 3.
+5|玄関[げんかん]で靴[くつ]を脱[ぬ]ぎます。|I take off my shoes at the entrance.|Tôi cởi giày ở lối vào nhà.
+5|台所[だいどころ]で母[はは]が料理[りょうり]をしています。|My mother is cooking in the kitchen.|Mẹ tôi đang nấu ăn trong bếp.
+5|鳥[とり]が空[そら]を飛[と]んでいます。動物[どうぶつ]が好[す]きです。|Birds are flying in the sky. I like animals.|Chim đang bay trên trời. Tôi thích động vật.
+5|今日[きょう]は風[かぜ]が強[つよ]いです。|The wind is strong today.|Hôm nay gió mạnh.
+5|友達[ともだち]に写真[しゃしん]を見[み]せる。|I show a photo to a friend.|Tôi cho bạn xem ảnh.
+5|友達[ともだち]に本[ほん]を貸[か]す。|I lend a book to a friend.|Tôi cho bạn mượn sách.
+5|ここで煙草[たばこ]を吸[す]ってはいけません。|You must not smoke here.|Không được hút thuốc ở đây.
+5|友達[ともだち]に電話[でんわ]を掛[か]ける。|I make a phone call to a friend.|Tôi gọi điện cho bạn.
+5|紙[かみ]を切[き]る。|I cut the paper.|Tôi cắt giấy.
+5|暗[くら]いので、電気[でんき]を付[つ]ける。|It is dark, so I turn on the light.|Vì tối nên tôi bật đèn.
+5|靴下[くつした]を履[は]きます。|I put on socks.|Tôi đi tất.
+5|あの本[ほん]を取[と]ってください。|Please take that book for me.|Làm ơn lấy giúp tôi quyển sách kia.
+5|机[つくえ]の上[うえ]に本[ほん]を置[お]く。|I put the book on the desk.|Tôi đặt sách lên bàn.
+5|ドアを押[お]してください。|Please push the door.|Hãy đẩy cửa.
+5|道[みち]を渡[わた]ります。|I cross the road.|Tôi băng qua đường.
+5|魚[さかな]が死[し]にました。|The fish died.|Con cá đã chết.
+5|毎日[まいにち]ピアノを練習[れんしゅう]します。|I practice the piano every day.|Mỗi ngày tôi luyện tập piano.
+5|小[ちい]さい犬[いぬ]が好[す]きです。|I like small dogs.|Tôi thích chó nhỏ.
+5|汚[きたな]い部屋[へや]ですね。|It is a dirty room, isn't it?|Căn phòng bẩn nhỉ.
+5|この机[つくえ]は低[ひく]いです。|This desk is low.|Chiếc bàn này thấp.
+5|新[あたら]しいカメラが欲[ほ]しいです。|I want a new camera.|Tôi muốn có một chiếc máy ảnh mới.
+5|ここは危[あぶ]ないです。|It is dangerous here.|Ở đây nguy hiểm.
+5|私[わたし]と同[おな]じ名前[なまえ]です。|It is the same name as mine.|Tên giống với tên tôi.
+5|大丈夫[だいじょうぶ]ですか。|Are you all right?|Bạn có sao không?
+5|好[す]きな色[いろ]は茶色[ちゃいろ]です。|My favorite color is brown.|Màu tôi thích là màu nâu.
+5|時々[ときどき]、友達[ともだち]に会[あ]います。|I sometimes meet my friends.|Thỉnh thoảng tôi gặp bạn bè.
+5|私[わたし]はよく映画[えいが]を見[み]ます。|I often watch movies.|Tôi thường xem phim.
+5|全然[ぜんぜん]分[わ]かりません。|I do not understand at all.|Tôi hoàn toàn không hiểu.
+5|あまり好[す]きではありません。|I do not like it very much.|Tôi không thích lắm.
+5|本当[ほんとう]ですか。|Is that true?|Thật không?
+5|どんな音楽[おんがく]が好[す]きですか。|What kind of music do you like?|Bạn thích loại nhạc nào?
+5|日本[にほん]はどうですか。|How is Japan?|Nhật Bản thế nào?
+5|どちらがいいですか。|Which one is better?|Cái nào tốt hơn?
+5|春[はる]は花[はな]がきれいです。秋[あき]は涼[すず]しいです。|Flowers are beautiful in spring. Autumn is cool.|Mùa xuân hoa đẹp. Mùa thu mát mẻ.
+5|地下鉄[ちかてつ]で会社[かいしゃ]へ行[い]きます。|I go to the office by subway.|Tôi đi làm bằng tàu điện ngầm.
+5|月[つき]がきれいです。火[ひ]は熱[あつ]いです。|The moon is beautiful. Fire is hot.|Mặt trăng đẹp. Lửa thì nóng.
+5|この問題[もんだい]は易[やさ]しいです。|This question is easy.|Câu hỏi này dễ.
+5|薄[うす]いお茶[ちゃ]と厚[あつ]い本[ほん]。|Weak tea and a thick book.|Trà nhạt và quyển sách dày.
+5|黄色[きいろ]い花[はな]は可愛[かわい]いです。|Yellow flowers are cute.|Hoa màu vàng thật dễ thương.
+5|彼[かれ]にはお金[かね]が無[な]い。|He has no money.|Anh ấy không có tiền.
+5|この問題[もんだい]は簡単[かんたん]です。|This problem is simple.|Bài này đơn giản.
+5|色々[いろいろ]な果物[くだもの]があります。|There are various kinds of fruit.|Có nhiều loại trái cây.
+5|私[わたし]は犬[いぬ]が大好[だいす]きです。猫[ねこ]は大嫌[だいきら]いです。|I love dogs. I hate cats.|Tôi rất thích chó. Tôi rất ghét mèo.
+5|真[ま]っ直[す]ぐ行[い]ってください。|Please go straight.|Hãy đi thẳng.
+5|急[いそ]ぎましょう。|Let us hurry.|Chúng ta nhanh lên nào.
+5|明日[あした]は傘[かさ]が要[い]る。|I will need an umbrella tomorrow.|Ngày mai tôi cần ô.
+5|来月[らいげつ]、子供[こども]が生[う]まれます。|My child will be born next month.|Tháng sau con tôi sẽ chào đời.
+5|先生[せんせい]の質問[しつもん]に答[こた]えます。|I answer the teacher's question.|Tôi trả lời câu hỏi của thầy giáo.
+5|母[はは]を手伝[てつだ]います。|I help my mother.|Tôi giúp mẹ.
+5|友達[ともだち]に本[ほん]を返[かえ]す。|I return the book to a friend.|Tôi trả sách cho bạn.
+5|窓[まど]が開[あ]く。ドアが閉[し]まる。|The window opens. The door closes.|Cửa sổ mở. Cửa ra vào đóng.
+5|京都[きょうと]のホテルに泊[と]まる。|I stay at a hotel in Kyoto.|Tôi ở khách sạn ở Kyoto.
+5|車[くるま]が止[と]まる。運転手[うんてんしゅ]は車[くるま]を止[と]める。|The car stops. The driver parks the car.|Xe dừng lại. Tài xế đỗ xe.
+5|本[ほん]を持[も]って行[い]く。|I take a book with me.|Tôi mang theo một quyển sách.
+5|店[みせ]でお金[かね]を払[はら]う。|I pay money at the shop.|Tôi trả tiền ở cửa hàng.
+5|試験[しけん]を受[う]ける。|I take an exam.|Tôi dự thi.
+5|古[ふる]い本[ほん]を売[う]る。|I sell old books.|Tôi bán sách cũ.
+5|子供[こども]が笑[わら]う。赤[あか]ちゃんが泣[な]く。|The child laughs. The baby cries.|Đứa trẻ cười. Em bé khóc.
+5|シャワーを浴[あ]びる。|I take a shower.|Tôi tắm vòi sen.
+5|時間[じかん]が掛[か]かる。|It takes time.|Mất thời gian.
+5|友達[ともだち]にプレゼントを貰[もら]いました。|I received a present from a friend.|Tôi đã nhận quà từ bạn.
+5|妹[いもうと]に本[ほん]を上[あ]げる。|I give my younger sister a book.|Tôi tặng em gái một quyển sách.
+5|友達[ともだち]が私[わたし]に本[ほん]を呉[く]れる。|A friend gives me a book.|Bạn tặng tôi một quyển sách.
+5|九時[くじ]に駅[えき]に着[つ]く。|I arrive at the station at nine.|Tôi đến ga lúc 9 giờ.
+5|兄[あに]はギターを弾[ひ]きます。|My older brother plays the guitar.|Anh trai tôi chơi ghi-ta.
+5|ドアを引[ひ]く。|I pull the door.|Tôi kéo cửa.
+5|ここから山[やま]が見[み]える。|I can see the mountain from here.|Từ đây có thể nhìn thấy núi.
+5|雨[あめ]ですから、傘[かさ]を差[さ]す。|It is raining, so I put up an umbrella.|Vì trời mưa nên tôi che ô.
+5|帽子[ぼうし]を被[かぶ]る。|I wear a hat.|Tôi đội mũ.
+5|森[もり]の中[なか]に池[いけ]がある。石[いし]もある。|There is a pond in the forest. There are stones too.|Trong rừng có một cái ao. Cũng có đá.
+5|絵[え]を描[か]きます。音[おと]が聞[き]こえます。|I draw a picture. I can hear a sound.|Tôi vẽ tranh. Tôi nghe thấy tiếng động.
+5|階段[かいだん]は右[みぎ]にあります。|The stairs are on the right.|Cầu thang ở bên phải.
+5|牛[うし]が草[くさ]を食[た]べています。虫[むし]もいます。|A cow is eating grass. There are insects too.|Con bò đang ăn cỏ. Cũng có côn trùng.
+5|村[むら]は静[しず]かです。|The village is quiet.|Ngôi làng yên tĩnh.
+5|兄[あに]は自動車[じどうしゃ]の会社[かいしゃ]で働[はたら]いています。|My older brother works at a car company.|Anh trai tôi làm việc ở công ty ô tô.
+5|週[しゅう]に三回[さんかい]泳[およ]ぎます。|I swim three times a week.|Mỗi tuần tôi bơi ba lần.
+5|店員[てんいん]に質問[しつもん]しました。|I asked the shop clerk a question.|Tôi đã hỏi nhân viên cửa hàng.
+5|交番[こうばん]で道[みち]を聞[き]きました。|I asked for directions at the police box.|Tôi đã hỏi đường ở đồn cảnh sát.
+5|封筒[ふうとう]に切手[きって]を貼[は]ります。郵便[ゆうびん]を出[だ]します。|I put a stamp on the envelope. I send the mail.|Tôi dán tem vào phong bì. Tôi gửi thư.
+5|細[ほそ]い道[みち]に太[ふと]い木[き]があります。|There is a thick tree on the narrow road.|Trên con đường hẹp có một cái cây to.
+5|丸[まる]い皿[さら]と四角[しかく]い皿[さら]があります。|There is a round plate and a square plate.|Có một cái đĩa tròn và một cái đĩa vuông.
+5|眠[ねむ]いので、寝[ね]ます。|I am sleepy, so I will go to bed.|Vì buồn ngủ nên tôi đi ngủ.
+5|合格[ごうかく]して、嬉[うれ]しいです。|I passed, and I am happy.|Tôi đã đậu nên rất vui.
+5|映画[えいが]は悲[かな]しかったです。|The movie was sad.|Bộ phim buồn.
+5|犬[いぬ]が怖[こわ]いです。|I am scared of dogs.|Tôi sợ chó.
+5|大変[たいへん]ですね。|That is tough, isn't it?|Vất vả nhỉ.
+5|駅[えき]から遠[とお]くて不便[ふべん]です。|It is far from the station and inconvenient.|Xa ga nên bất tiện.
+5|立派[りっぱ]な家[いえ]ですね。|What a splendid house.|Căn nhà thật nguy nga.
+5|この机[つくえ]は丈夫[じょうぶ]です。|This desk is sturdy.|Chiếc bàn này chắc chắn.
+5|先[さき]に行[い]ってください。|Please go ahead.|Xin hãy đi trước.
+5|後[あと]で電話[でんわ]します。|I will call you later.|Lát nữa tôi sẽ gọi cho bạn.
+5|三時[さんじ]ごろ、帰[かえ]ります。|I will go home around three.|Khoảng 3 giờ tôi về.
+5|病気[びょうき]です。風邪[かぜ]をひきました。熱[ねつ]があります。|I am sick. I caught a cold. I have a fever.|Tôi bị ốm. Tôi bị cảm. Tôi bị sốt.
+5|お腹[なか]が痛[いた]いです。|My stomach hurts.|Tôi bị đau bụng.
+5|お風呂[ふろ]に入[はい]ります。石[せっ]けんで手[て]を洗[あら]います。|I take a bath. I wash my hands with soap.|Tôi đi tắm. Tôi rửa tay bằng xà phòng.
+5|地図[ちず]を見[み]てください。世界[せかい]は広[ひろ]いです。|Please look at the map. The world is wide.|Hãy xem bản đồ. Thế giới thật rộng lớn.
+5|いい所[ところ]ですね。|It is a nice place, isn't it?|Nơi này tuyệt nhỉ.
+5|大切[たいせつ]な事[こと]を話[はな]します。|I will talk about an important matter.|Tôi sẽ nói về một việc quan trọng.
+5|高[たか]い物[もの]は買[か]いません。|I do not buy expensive things.|Tôi không mua đồ đắt tiền.
+5|生徒[せいと]が教室[きょうしつ]にいます。|The pupils are in the classroom.|Các học sinh đang ở trong lớp.
+5|誕生日[たんじょうび]のプレゼントを買[か]いました。|I bought a birthday present.|Tôi đã mua quà sinh nhật.
+5|冬[ふゆ]はスキーをします。|I ski in winter.|Mùa đông tôi trượt tuyết.
+5|アルバイトをしています。レポートを書[か]きました。|I have a part-time job. I wrote a report.|Tôi đang làm thêm. Tôi đã viết báo cáo.
+5|スーパーとデパートに行[い]きました。|I went to the supermarket and the department store.|Tôi đã đi siêu thị và trung tâm thương mại.
+5|ホテルにプールがあります。|The hotel has a pool.|Khách sạn có hồ bơi.
+5|部屋[へや]のエアコンをつけます。|I turn on the air conditioner in the room.|Tôi bật điều hòa trong phòng.
+5|スポーツではテニスが好[す]きです。|Among sports, I like tennis.|Về thể thao, tôi thích tennis.
+5|スカートとシャツとズボンとセーターを買[か]いました。|I bought a skirt, a shirt, trousers and a sweater.|Tôi đã mua váy, áo sơ mi, quần dài và áo len.
+5|彼[かれ]はネクタイをしています。シャツのボタンが取[と]れました。|He is wearing a necktie. A button came off the shirt.|Anh ấy đang đeo cà vạt. Cúc áo sơ mi bị bung ra.
+5|学校[がっこう]まで五百[ごひゃく]メートルです。十[じゅっ]キロ走[はし]りました。|It is 500 meters to school. I ran ten kilometers.|Đến trường là 500 mét. Tôi đã chạy 10 ki-lô-mét.
+5|三十[さんじゅう]ページを読[よ]みました。|I read thirty pages.|Tôi đã đọc 30 trang.
+5|テーブルの上[うえ]にりんごがあります。ベッドの隣[となり]に机[つくえ]があります。|There is an apple on the table. There is a desk next to the bed.|Trên bàn có quả táo. Cạnh giường có một cái bàn học.
+5|ポストはどこですか。|Where is the mailbox?|Hòm thư ở đâu?
+5|小[ちい]さいアパートに住[す]んでいます。|I live in a small apartment.|Tôi sống trong một căn hộ nhỏ.
+5|皆[みな]さん、こんにちは。|Hello, everyone.|Xin chào mọi người.
+5|あの方[かた]は先生[せんせい]です。|That person is a teacher.|Vị kia là giáo viên.
+5|自分[じぶん]で作[つく]りました。|I made it myself.|Tôi tự làm.
+5|この辺[へん]に銀行[ぎんこう]がありますか。|Is there a bank around here?|Quanh đây có ngân hàng không?
+5|学校[がっこう]の横[よこ]に公園[こうえん]があります。|There is a park beside the school.|Bên cạnh trường có công viên.
+5|次[つぎ]の駅[えき]で降[お]ります。|I will get off at the next station.|Tôi sẽ xuống ở ga tiếp theo.
+5|他[ほか]に質問[しつもん]がありますか。|Do you have any other questions?|Bạn còn câu hỏi nào khác không?
+5|一番[いちばん]好[す]きな色[いろ]は青[あお]です。|My favorite color is blue.|Màu tôi thích nhất là màu xanh dương.
+5|そちらは雨[あめ]ですか。あちらは晴[は]れです。|Is it raining over there? It is sunny over there.|Bên đó có mưa không? Bên kia thì nắng.
+5|こんな本[ほん]を探[さが]しています。|I am looking for a book like this.|Tôi đang tìm một quyển sách như thế này.
+5|ちょっと待[ま]ってください。|Please wait a moment.|Xin hãy đợi một chút.
+5|もっと大[おお]きい声[こえ]で話[はな]してください。|Please speak in a louder voice.|Xin hãy nói to hơn nữa.
+5|ずっと家[いえ]にいました。|I was at home all the time.|Tôi đã ở nhà suốt.
+5|多分[たぶん]、明日[あした]は雨[あめ]です。|It will probably rain tomorrow.|Có lẽ ngày mai trời mưa.
+5|高[たか]いです。でも、おいしいです。|It is expensive. But it is delicious.|Đắt. Nhưng ngon.
+5|朝[あさ]ご飯[はん]を食[た]べて、そして学校[がっこう]へ行[い]きます。|I eat breakfast, and then I go to school.|Tôi ăn sáng rồi đi học.
+5|宿題[しゅくだい]をします。それから、寝[ね]ます。|I do my homework. After that, I sleep.|Tôi làm bài tập. Sau đó tôi đi ngủ.
+5|雨[あめ]です。だから、家[いえ]にいます。|It is raining. So I stay home.|Trời mưa. Vì vậy tôi ở nhà.
+5|じゃあ、また明日[あした]。|Well then, see you tomorrow.|Vậy hẹn mai gặp lại.
+5|どれが一番[いちばん]好[す]きですか。どの本[ほん]が面白[おもしろ]いですか。|Which one do you like best? Which book is interesting?|Bạn thích cái nào nhất? Quyển sách nào thú vị?
+5|あの方[かた]はどなたですか。|Who is that person?|Vị kia là ai ạ?
+5|作文[さくぶん]を書[か]きました。|I wrote a composition.|Tôi đã viết một bài văn.
+5|留学生[りゅうがくせい]が三人[さんにん]います。|There are three international students.|Có ba du học sinh.

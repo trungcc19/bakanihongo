@@ -1,0 +1,172 @@
+j|r|en|vi|l
+一日|ついたち|1st of the month|mùng 1|5
+二日|ふつか|2nd / two days|mùng 2, hai ngày|5
+三日|みっか|3rd / three days|mùng 3, ba ngày|5
+四日|よっか|4th / four days|mùng 4, bốn ngày|5
+五日|いつか|5th / five days|mùng 5, năm ngày|5
+六日|むいか|6th / six days|mùng 6, sáu ngày|5
+七日|なのか|7th / seven days|mùng 7, bảy ngày|5
+八日|ようか|8th / eight days|mùng 8, tám ngày|5
+九日|ここのか|9th / nine days|mùng 9, chín ngày|5
+十日|とおか|10th / ten days|mùng 10, mười ngày|5
+十四日|じゅうよっか|14th|ngày 14|5
+二十日|はつか|20th / twenty days|ngày 20, hai mươi ngày|5
+何日|なんにち|what day of the month|ngày mấy|5
+何月|なんがつ|what month|tháng mấy|5
+一月|いちがつ|January|tháng 1|5
+二月|にがつ|February|tháng 2|5
+三月|さんがつ|March|tháng 3|5
+四月|しがつ|April|tháng 4|5
+五月|ごがつ|May|tháng 5|5
+六月|ろくがつ|June|tháng 6|5
+七月|しちがつ|July|tháng 7|5
+八月|はちがつ|August|tháng 8|5
+九月|くがつ|September|tháng 9|5
+十月|じゅうがつ|October|tháng 10|5
+十一月|じゅういちがつ|November|tháng 11|5
+十二月|じゅうにがつ|December|tháng 12|5
+〜時|じ|o'clock|~ giờ|5
+〜分|ふん|minutes|~ phút|5
+〜時間|じかん|hours (duration)|~ tiếng (khoảng thời gian)|5
+〜週間|しゅうかん|weeks (duration)|~ tuần (khoảng thời gian)|5
+〜か月|かげつ|months (duration)|~ tháng (khoảng thời gian)|5
+〜年|ねん|year(s)|~ năm|5
+〜人|にん|counter for people|đếm người|5
+〜枚|まい|counter for flat things|đếm vật mỏng, phẳng|5
+〜本|ほん|counter for long things|đếm vật dài|5
+〜冊|さつ|counter for books|đếm sách, vở|5
+〜台|だい|counter for machines, vehicles|đếm máy móc, xe cộ|5
+〜匹|ひき|counter for small animals|đếm động vật nhỏ|5
+〜個|こ|counter for small objects|đếm vật nhỏ|5
+〜杯|はい|counter for cups, glassfuls|đếm ly, chén|5
+〜階|かい|floor|~ tầng|5
+〜回|かい|times|~ lần|5
+〜番|ばん|number ~|số ~|5
+今夜|こんや|tonight|đêm nay|5
+おととい|おととい|day before yesterday|hôm kia|5
+あさって|あさって|day after tomorrow|ngày kia|5
+夕方|ゆうがた|evening|chiều tối|5
+日|ひ|day, sun|ngày, mặt trời|5
+月|つき|moon|mặt trăng|5
+火|ひ|fire|lửa|5
+易しい|やさしい|easy|dễ|5
+薄い|うすい|thin, light (color)|mỏng, nhạt|5
+厚い|あつい|thick|dày|5
+黄色い|きいろい|yellow|màu vàng|5
+可愛い|かわいい|cute|dễ thương|5
+無い|ない|not exist, do not have|không có|5
+簡単|かんたん|easy, simple|đơn giản|5
+暇|ひま|free time|rảnh rỗi|5
+色々|いろいろ|various|nhiều loại, đủ thứ|5
+大好き|だいすき|love, like very much|rất thích|5
+大嫌い|だいきらい|hate, dislike very much|rất ghét|5
+真っ直ぐ|まっすぐ|straight|thẳng|5
+急ぐ|いそぐ|to hurry|vội, nhanh lên|5
+要る|いる|to need|cần|5
+生まれる|うまれる|to be born|được sinh ra|5
+覚える|おぼえる|to memorize, to remember|nhớ, ghi nhớ|5
+答える|こたえる|to answer|trả lời|5
+手伝う|てつだう|to help|giúp đỡ|5
+返す|かえす|to return (a thing)|trả lại|5
+開く|あく|to open (by itself)|mở (tự động từ)|5
+閉まる|しまる|to close (by itself)|đóng (tự động từ)|5
+泊まる|とまる|to stay overnight|ở trọ, trọ lại|5
+止まる|とまる|to stop (by itself)|dừng lại|5
+止める|とめる|to stop, to park|dừng, đỗ|5
+持って行く|もっていく|to take (something)|mang đi|5
+払う|はらう|to pay|trả tiền|5
+送る|おくる|to send|gửi|5
+受ける|うける|to take (an exam), to receive|thi, nhận|5
+登る|のぼる|to climb|leo, trèo|5
+売る|うる|to sell|bán|5
+笑う|わらう|to laugh|cười|5
+泣く|なく|to cry|khóc|5
+飛ぶ|とぶ|to fly|bay|5
+磨く|みがく|to brush, to polish|đánh (răng), đánh bóng|5
+浴びる|あびる|to take (a shower)|tắm (vòi sen)|5
+入れる|いれる|to put in|cho vào, bỏ vào|5
+出す|だす|to take out, to submit|lấy ra, nộp|5
+掛かる|かかる|to take (time, money)|mất (thời gian, tiền)|5
+違う|ちがう|to differ, to be wrong|khác, sai|5
+貰う|もらう|to receive|nhận|5
+上げる|あげる|to give|cho, tặng|5
+呉れる|くれる|to give (to me)|cho (tôi)|5
+授業|じゅぎょう|class, lesson|giờ học, tiết học|5
+漢字|かんじ|kanji|chữ Hán|5
+作文|さくぶん|composition|bài văn|5
+留学生|りゅうがくせい|international student|du học sinh|5
+りんご|りんご|apple|táo|5
+バナナ|バナナ|banana|chuối|5
+豚肉|ぶたにく|pork|thịt heo|5
+牛肉|ぎゅうにく|beef|thịt bò|5
+鶏肉|とりにく|chicken (meat)|thịt gà|5
+弁当|べんとう|boxed lunch|cơm hộp|5
+ケーキ|ケーキ|cake|bánh ngọt|5
+ジュース|ジュース|juice|nước ép|5
+スプーン|スプーン|spoon|cái thìa|5
+ナイフ|ナイフ|knife|con dao|5
+フォーク|フォーク|fork|cái nĩa|5
+コップ|コップ|cup, glass|cái cốc|5
+皿|さら|plate, dish|cái đĩa|5
+箸|はし|chopsticks|đũa|5
+茶碗|ちゃわん|rice bowl|cái bát|5
+スーパー|スーパー|supermarket|siêu thị|5
+デパート|デパート|department store|trung tâm thương mại|5
+ホテル|ホテル|hotel|khách sạn|5
+プール|プール|swimming pool|hồ bơi|5
+エレベーター|エレベーター|elevator|thang máy|5
+エアコン|エアコン|air conditioner|điều hòa|5
+スポーツ|スポーツ|sports|thể thao|5
+テニス|テニス|tennis|quần vợt|5
+スカート|スカート|skirt|váy|5
+シャツ|シャツ|shirt|áo sơ mi|5
+ズボン|ズボン|trousers|quần dài|5
+セーター|セーター|sweater|áo len|5
+コート|コート|coat|áo khoác|5
+ネクタイ|ネクタイ|necktie|cà vạt|5
+ボタン|ボタン|button|nút, cúc áo|5
+メートル|メートル|meter|mét|5
+キロ|キロ|kilo|ki-lô|5
+ページ|ページ|page|trang|5
+テーブル|テーブル|table|cái bàn|5
+ベッド|ベッド|bed|giường|5
+ポスト|ポスト|mailbox|hòm thư|5
+アパート|アパート|apartment|căn hộ, nhà trọ|5
+ギター|ギター|guitar|đàn ghi-ta|5
+ピアノ|ピアノ|piano|đàn piano|5
+皆さん|みなさん|everyone|mọi người|5
+方|かた|person (polite)|vị, người (lịch sự)|5
+私たち|わたしたち|we, us|chúng tôi|5
+自分|じぶん|oneself|bản thân|5
+近く|ちかく|nearby|gần đây|5
+辺|へん|area, vicinity|vùng, khu vực|5
+間|あいだ|between, interval|giữa, khoảng|5
+横|よこ|side, width|bên cạnh, chiều ngang|5
+次|つぎ|next|tiếp theo|5
+他|ほか|other|khác|5
+一番|いちばん|most, number one|nhất, số một|5
+こちら|こちら|this way, this person (polite)|phía này, vị này|5
+そちら|そちら|that way, that person (polite)|phía đó, vị đó|5
+あちら|あちら|that way over there (polite)|phía kia, vị kia|5
+この|この|this ~|~ này|5
+その|その|that ~|~ đó|5
+あの|あの|that ~ over there|~ kia|5
+こんな|こんな|this kind of|như thế này|5
+すぐ|すぐ|immediately|ngay lập tức|5
+ちょっと|ちょっと|a little, a moment|một chút|5
+もっと|もっと|more|hơn nữa|5
+ずっと|ずっと|all the time, much more|suốt, hơn nhiều|5
+多分|たぶん|probably|có lẽ|5
+では|では|well then|vậy thì|5
+でも|でも|but|nhưng|5
+そして|そして|and then|và, rồi thì|5
+それから|それから|after that|sau đó|5
+だから|だから|so, therefore|vì vậy|5
+じゃあ|じゃあ|well then (casual)|vậy thì (thân mật)|5
+何歳|なんさい|how old|bao nhiêu tuổi|5
+いくつ|いくつ|how many, how old|mấy cái, mấy tuổi|5
+何番|なんばん|what number|số mấy|5
+何曜日|なんようび|what day of the week|thứ mấy|5
+どれ|どれ|which one (of three or more)|cái nào|5
+どの|どの|which ~|~ nào|5
+どなた|どなた|who (polite)|ai (lịch sự)|5

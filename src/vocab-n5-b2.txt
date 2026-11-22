@@ -1,0 +1,161 @@
+j|r|en|vi|l
+はい|はい|yes|vâng, dạ|5
+いいえ|いいえ|no|không|5
+おはよう|おはよう|good morning|chào buổi sáng|5
+こんにちは|こんにちは|hello, good afternoon|xin chào|5
+こんばんは|こんばんは|good evening|chào buổi tối|5
+ありがとう|ありがとう|thank you|cảm ơn|5
+すみません|すみません|excuse me, sorry|xin lỗi, xin phép|5
+ごめんなさい|ごめんなさい|I am sorry|xin lỗi (thân mật)|5
+さようなら|さようなら|goodbye|tạm biệt|5
+お願いします|おねがいします|please|làm ơn, xin nhờ|5
+いただきます|いただきます|(said before eating)|xin mời (nói trước khi ăn)|5
+ごちそうさま|ごちそうさま|(said after eating)|cảm ơn bữa ăn (nói sau khi ăn)|5
+おやすみなさい|おやすみなさい|good night|chúc ngủ ngon|5
+パン|パン|bread|bánh mì|5
+朝ご飯|あさごはん|breakfast|bữa sáng|5
+昼ご飯|ひるごはん|lunch|bữa trưa|5
+晩ご飯|ばんごはん|dinner|bữa tối|5
+コーヒー|コーヒー|coffee|cà phê|5
+酒|さけ|alcohol, sake|rượu|5
+紅茶|こうちゃ|black tea|trà đen|5
+砂糖|さとう|sugar|đường|5
+塩|しお|salt|muối|5
+飲み物|のみもの|drink|đồ uống|5
+食べ物|たべもの|food|đồ ăn|5
+食堂|しょくどう|cafeteria|nhà ăn|5
+喫茶店|きっさてん|coffee shop|quán cà phê|5
+レストラン|レストラン|restaurant|nhà hàng|5
+かばん|かばん|bag|cái cặp, túi xách|5
+靴|くつ|shoes|giày|5
+服|ふく|clothes|quần áo|5
+帽子|ぼうし|hat|mũ|5
+時計|とけい|clock, watch|đồng hồ|5
+眼鏡|めがね|glasses|kính mắt|5
+鉛筆|えんぴつ|pencil|bút chì|5
+ペン|ペン|pen|bút|5
+ノート|ノート|notebook|vở|5
+辞書|じしょ|dictionary|từ điển|5
+新聞|しんぶん|newspaper|báo|5
+雑誌|ざっし|magazine|tạp chí|5
+紙|かみ|paper|giấy|5
+切符|きっぷ|ticket|vé|5
+切手|きって|stamp|tem|5
+テレビ|テレビ|television|tivi|5
+ラジオ|ラジオ|radio|đài|5
+カメラ|カメラ|camera|máy ảnh|5
+椅子|いす|chair|cái ghế|5
+ドア|ドア|door|cửa ra vào|5
+電気|でんき|electricity, light|điện, đèn|5
+公園|こうえん|park|công viên|5
+映画館|えいがかん|cinema|rạp chiếu phim|5
+空港|くうこう|airport|sân bay|5
+大学|だいがく|university|đại học|5
+高校|こうこう|high school|trường cấp ba|5
+教室|きょうしつ|classroom|lớp học|5
+玄関|げんかん|entrance hall|lối vào nhà|5
+トイレ|トイレ|toilet|nhà vệ sinh|5
+台所|だいどころ|kitchen|nhà bếp|5
+庭|にわ|garden|vườn|5
+町|まち|town|thị trấn|5
+鳥|とり|bird|chim|5
+動物|どうぶつ|animal|động vật|5
+風|かぜ|wind|gió|5
+見せる|みせる|to show|cho xem|5
+貸す|かす|to lend|cho mượn|5
+借りる|かりる|to borrow|mượn|5
+住む|すむ|to live (reside)|sống, cư trú|5
+吸う|すう|to smoke, to inhale|hút|5
+掛ける|かける|to hang, to make (a call)|treo, gọi (điện thoại)|5
+切る|きる|to cut|cắt|5
+付ける|つける|to turn on, to attach|bật, gắn|5
+消す|けす|to turn off, to erase|tắt, xóa|5
+脱ぐ|ぬぐ|to take off (clothes)|cởi|5
+履く|はく|to wear (shoes, pants)|mặc, đi (giày, quần)|5
+撮る|とる|to take (a photo)|chụp (ảnh)|5
+取る|とる|to take, to pick up|lấy|5
+置く|おく|to put, to place|đặt, để|5
+押す|おす|to push, to press|đẩy, nhấn|5
+出かける|でかける|to go out|đi ra ngoài|5
+降る|ふる|to fall (rain, snow)|rơi (mưa, tuyết)|5
+曲がる|まがる|to turn|rẽ|5
+渡る|わたる|to cross|băng qua|5
+死ぬ|しぬ|to die|chết|5
+結婚|けっこん|marriage|kết hôn|5
+散歩|さんぽ|walk, stroll|đi dạo|5
+買い物|かいもの|shopping|mua sắm|5
+掃除|そうじ|cleaning|dọn dẹp|5
+洗濯|せんたく|laundry|giặt giũ|5
+練習|れんしゅう|practice|luyện tập|5
+小さい|ちいさい|small|nhỏ|5
+甘い|あまい|sweet|ngọt|5
+辛い|からい|spicy|cay|5
+汚い|きたない|dirty|bẩn|5
+低い|ひくい|low|thấp|5
+欲しい|ほしい|to want (a thing)|muốn có|5
+危ない|あぶない|dangerous|nguy hiểm|5
+同じ|おなじ|same|giống nhau|5
+大丈夫|だいじょうぶ|all right, OK|ổn, không sao|5
+色|いろ|color|màu sắc|5
+茶色|ちゃいろ|brown|màu nâu|5
+毎晩|まいばん|every night|mỗi tối|5
+毎週|まいしゅう|every week|mỗi tuần|5
+毎月|まいつき|every month|mỗi tháng|5
+毎年|まいとし|every year|mỗi năm|5
+今朝|けさ|this morning|sáng nay|5
+今晩|こんばん|tonight|tối nay|5
+先月|せんげつ|last month|tháng trước|5
+来月|らいげつ|next month|tháng sau|5
+時々|ときどき|sometimes|thỉnh thoảng|5
+いつも|いつも|always|luôn luôn|5
+よく|よく|often, well|thường, giỏi|5
+全然|ぜんぜん|not at all|hoàn toàn không|5
+あまり|あまり|not very|không ... lắm|5
+本当|ほんとう|truth, really|thật, sự thật|5
+一人|ひとり|one person|một người|5
+二人|ふたり|two people|hai người|5
+何人|なんにん|how many people|mấy người|5
+一つ|ひとつ|one (thing)|một cái|5
+二つ|ふたつ|two (things)|hai cái|5
+三つ|みっつ|three (things)|ba cái|5
+四つ|よっつ|four (things)|bốn cái|5
+五つ|いつつ|five (things)|năm cái|5
+六つ|むっつ|six (things)|sáu cái|5
+七つ|ななつ|seven (things)|bảy cái|5
+八つ|やっつ|eight (things)|tám cái|5
+九つ|ここのつ|nine (things)|chín cái|5
+どんな|どんな|what kind of|như thế nào, loại nào|5
+どう|どう|how|thế nào|5
+どちら|どちら|which (of two), where (polite)|cái nào, đâu (lịch sự)|5
+お金|おかね|money|tiền|5
+日本|にほん|Japan|Nhật Bản|5
+日本語|にほんご|Japanese language|tiếng Nhật|5
+英語|えいご|English language|tiếng Anh|5
+外国|がいこく|foreign country|nước ngoài|5
+外国人|がいこくじん|foreigner|người nước ngoài|5
+中国|ちゅうごく|China|Trung Quốc|5
+韓国|かんこく|South Korea|Hàn Quốc|5
+アメリカ|アメリカ|America|nước Mỹ|5
+大人|おとな|adult|người lớn|5
+番号|ばんごう|number|số (thứ tự)|5
+電話番号|でんわばんごう|phone number|số điện thoại|5
+休み|やすみ|rest, holiday|ngày nghỉ|5
+夏|なつ|summer|mùa hè|5
+冬|ふゆ|winter|mùa đông|5
+春|はる|spring|mùa xuân|5
+秋|あき|autumn|mùa thu|5
+顔|かお|face|khuôn mặt|5
+耳|みみ|ear|tai|5
+鼻|はな|nose|mũi|5
+歯|は|tooth|răng|5
+髪|かみ|hair|tóc|5
+お父さん|おとうさん|father (someone else's)|bố (của người khác)|5
+お母さん|おかあさん|mother (someone else's)|mẹ (của người khác)|5
+お兄さん|おにいさん|older brother (someone else's)|anh trai (của người khác)|5
+お姉さん|おねえさん|older sister (someone else's)|chị gái (của người khác)|5
+両親|りょうしん|parents|bố mẹ|5
+兄弟|きょうだい|siblings|anh chị em|5
+歳|さい|years old|tuổi|5
+バス|バス|bus|xe buýt|5
+タクシー|タクシー|taxi|taxi|5
+地下鉄|ちかてつ|subway|tàu điện ngầm|5

@@ -1,0 +1,27 @@
+{
+ "vocab": [
+  "vocab/n5.json",
+  "vocab/n4.json",
+  "vocab/n3.json"
+ ],
+ "kanji": [
+  "kanji/n5.json",
+  "kanji/n4.json",
+  "kanji/n3.json"
+ ],
+ "grammar": [
+  "grammar/n5.json",
+  "grammar/n4.json",
+  "grammar/n3.json"
+ ],
+ "reading": [
+  "reading/n5.json",
+  "reading/n4.json",
+  "reading/n3.json"
+ ],
+ "sentence": [
+  "sentence/n3.json",
+  "sentence/n4.json",
+  "sentence/n5.json"
+ ]
+}

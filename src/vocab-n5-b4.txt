@@ -1,0 +1,84 @@
+j|r|en|vi|l
+被る|かぶる|to wear (on the head)|đội (mũ)|5
+差す|さす|to hold up (an umbrella)|che (ô), giương|5
+着く|つく|to arrive|đến nơi|5
+弾く|ひく|to play (piano, guitar)|chơi (đàn)|5
+引く|ひく|to pull|kéo|5
+見える|みえる|to be visible|nhìn thấy được|5
+池|いけ|pond|cái ao, hồ|5
+石|いし|stone|hòn đá|5
+絵|え|picture, painting|bức tranh|5
+音|おと|sound|âm thanh|5
+階段|かいだん|stairs|cầu thang|5
+牛|うし|cow|con bò|5
+薬|くすり|medicine|thuốc|5
+靴下|くつした|socks|tất, vớ|5
+自動車|じどうしゃ|automobile|ô tô|5
+週|しゅう|week|tuần|5
+森|もり|forest|rừng|5
+村|むら|village|làng|5
+草|くさ|grass|cỏ|5
+虫|むし|insect|côn trùng|5
+店員|てんいん|shop clerk|nhân viên cửa hàng|5
+交番|こうばん|police box|đồn cảnh sát nhỏ|5
+郵便|ゆうびん|mail|bưu chính, thư từ|5
+封筒|ふうとう|envelope|phong bì|5
+暖かい|あたたかい|warm|ấm áp|5
+涼しい|すずしい|cool (weather)|mát mẻ|5
+細い|ほそい|thin, narrow|mảnh, gầy, hẹp|5
+太い|ふとい|thick, fat|to, dày (vật)|5
+丸い|まるい|round|tròn|5
+四角い|しかくい|square|vuông|5
+眠い|ねむい|sleepy|buồn ngủ|5
+痛い|いたい|painful|đau|5
+嬉しい|うれしい|happy, glad|vui mừng|5
+悲しい|かなしい|sad|buồn|5
+怖い|こわい|scary|đáng sợ|5
+大切|たいせつ|important, precious|quan trọng, quý giá|5
+大変|たいへん|hard, serious|vất vả, nghiêm trọng|5
+不便|ふべん|inconvenient|bất tiện|5
+立派|りっぱ|splendid, impressive|tuyệt vời, nguy nga|5
+丈夫|じょうぶ|sturdy, healthy|bền chắc, khỏe mạnh|5
+早く|はやく|early, quickly|sớm, nhanh lên|5
+先に|さきに|before, ahead|trước, đi trước|5
+後で|あとで|later|sau đó, lát nữa|5
+ごろ|ごろ|around (time)|khoảng (thời điểm)|5
+ぐらい|ぐらい|about, approximately|khoảng, chừng|5
+二十|にじゅう|twenty|hai mươi|5
+三十|さんじゅう|thirty|ba mươi|5
+零|れい|zero|số không|5
+ゼロ|ゼロ|zero|số không|5
+病気|びょうき|illness|bệnh|5
+風邪|かぜ|common cold|cảm lạnh|5
+熱|ねつ|fever|sốt, nhiệt độ|5
+お腹|おなか|stomach|bụng|5
+風呂|ふろ|bath|bồn tắm, phòng tắm|5
+シャワー|シャワー|shower|vòi sen|5
+石けん|せっけん|soap|xà phòng|5
+地図|ちず|map|bản đồ|5
+世界|せかい|world|thế giới|5
+所|ところ|place|nơi, chỗ|5
+事|こと|thing, matter|việc, chuyện|5
+物|もの|thing, object|đồ vật|5
+生徒|せいと|pupil|học sinh|5
+プレゼント|プレゼント|present, gift|quà tặng|5
+パーティー|パーティー|party|bữa tiệc|5
+スキー|スキー|skiing|trượt tuyết|5
+アルバイト|アルバイト|part-time job|việc làm thêm|5
+レポート|レポート|report|báo cáo|5
+ラーメン|ラーメン|ramen|mì ramen|5
+カレー|カレー|curry|cà ri|5
+サラダ|サラダ|salad|sa lát|5
+スープ|スープ|soup|súp|5
+どうぞ|どうぞ|please (go ahead)|xin mời|5
+どうも|どうも|thanks (casual)|cảm ơn|5
+どういたしまして|どういたしまして|you are welcome|không có gì|5
+失礼します|しつれいします|excuse me (entering/leaving)|xin phép, xin thất lễ|5
+初めまして|はじめまして|nice to meet you|rất hân hạnh được gặp|5
+よろしく|よろしく|best regards|xin chiếu cố, rất mong được giúp đỡ|5
+行ってきます|いってきます|I am leaving (home)|tôi đi đây|5
+行ってらっしゃい|いってらっしゃい|have a good day|đi nhé, đi cẩn thận|5
+ただいま|ただいま|I am home|tôi về rồi|5
+お帰りなさい|おかえりなさい|welcome home|bạn về rồi à|5
+お元気ですか|おげんきですか|how are you?|bạn khỏe không?|5
+いらっしゃいませ|いらっしゃいませ|welcome (to a shop)|xin chào quý khách|5

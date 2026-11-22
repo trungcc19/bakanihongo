@@ -1,0 +1,24 @@
+p|l|en|vi|j|xe|xv
+この／その／あの|5|Demonstratives: this / that / that over there|Từ chỉ thị: này / đó / kia|この本は私のです。|This book is mine.|Quyển sách này là của tôi.
+〜に（時間・場所）|5|Particle に: time, destination, location|Trợ từ に: thời gian, đích đến, nơi chốn|七時に起きます。|I get up at seven.|Tôi thức dậy lúc 7 giờ.
+〜へ|5|Toward (direction)|Hướng đến|日本へ行きます。|I go to Japan.|Tôi đi Nhật.
+〜と一緒に|5|Together with ~ (person)|Cùng với ~|友達と一緒に行きます。|I go with a friend.|Tôi đi cùng bạn.
+〜や〜|5|A, B, and so on (non-exhaustive)|A, B, v.v. (liệt kê không đầy đủ)|机の上に本やペンがあります。|There are books, pens, etc. on the desk.|Trên bàn có sách, bút, v.v.
+〜だけ|5|Only ~|Chỉ ~|水だけ飲みます。|I drink only water.|Tôi chỉ uống nước.
+〜ませんでした|5|Past negative (polite)|Phủ định quá khứ (lịch sự)|昨日は勉強しませんでした。|I did not study yesterday.|Hôm qua tôi đã không học.
+〜かったです|5|i-adjective past|Quá khứ của tính từ đuôi い|昨日は寒かったです。|It was cold yesterday.|Hôm qua trời lạnh.
+〜くて|5|i-adjective て-form (connecting)|Thể て của tính từ い (nối câu)|この部屋は広くて明るいです。|This room is spacious and bright.|Phòng này rộng và sáng.
+〜で（名詞・な形容詞）|5|Connecting nouns / na-adjectives with で|Nối danh từ / tính từ な bằng で|彼は先生で、私の友達です。|He is a teacher and my friend.|Anh ấy là giáo viên và là bạn tôi.
+〜て（動詞の連結）|5|Connecting actions with て-form|Nối các hành động bằng thể て|起きて、顔を洗います。|I wake up and wash my face.|Tôi thức dậy rồi rửa mặt.
+〜てはいけません|5|Must not ~|Không được ~|ここで食べてはいけません。|You must not eat here.|Không được ăn ở đây.
+〜ないでください|5|Please do not ~|Xin đừng ~|写真を撮らないでください。|Please do not take photos.|Xin đừng chụp ảnh.
+〜が分かります|5|Understand ~|Hiểu ~|日本語が分かります。|I understand Japanese.|Tôi hiểu tiếng Nhật.
+〜の中で〜が一番|5|~ is the most ... among ~|~ nhất trong số ~|スポーツの中でテニスが一番好きです。|Of all sports, I like tennis the most.|Trong các môn thể thao, tôi thích tennis nhất.
+〜をあげます／もらいます|5|Give / receive|Cho, tặng / nhận|友達に本をあげました。|I gave a book to a friend.|Tôi đã tặng bạn một quyển sách.
+〜は〜にあります|5|~ is located at ~|~ ở ~|銀行は駅の前にあります。|The bank is in front of the station.|Ngân hàng ở trước nhà ga.
+〜ね|5|Sentence-ending ね (seeking agreement)|Trợ từ cuối câu ね (tìm sự đồng tình)|いい天気ですね。|Nice weather, isn't it?|Thời tiết đẹp nhỉ.
+〜よ|5|Sentence-ending よ (informing)|Trợ từ cuối câu よ (thông báo)|これはおいしいですよ。|This is delicious, you know.|Cái này ngon lắm đấy.
+いくらですか|5|Asking the price|Hỏi giá tiền|これはいくらですか。|How much is this?|Cái này giá bao nhiêu?
+〜か〜|5|Either A or B|A hoặc B|コーヒーか紅茶を飲みます。|I drink coffee or tea.|Tôi uống cà phê hoặc trà.
+〜はどうですか|5|How about ~?|~ thì thế nào?|お茶はどうですか。|How about some tea?|Uống trà nhé?
+〜ぐらい／〜ごろ|5|About (amount) / around (time)|Khoảng (số lượng) / vào khoảng (thời gian)|毎日二時間ぐらい勉強します。|I study about two hours every day.|Mỗi ngày tôi học khoảng hai tiếng.

@@ -1,0 +1,35 @@
+j|r|en|vi|l
+入口|いりぐち|entrance|lối vào|5
+出口|でぐち|exit|lối ra|5
+歌|うた|song|bài hát|5
+おじいさん|おじいさん|grandfather, old man|ông|5
+おばあさん|おばあさん|grandmother, old woman|bà|5
+お手洗い|おてあらい|restroom|nhà vệ sinh|5
+男の人|おとこのひと|man|người đàn ông|5
+女の人|おんなのひと|woman|người phụ nữ|5
+男の子|おとこのこ|boy|bé trai|5
+女の子|おんなのこ|girl|bé gái|5
+曇り|くもり|cloudy weather|trời nhiều mây|5
+晴れ|はれ|sunny weather|trời nắng|5
+財布|さいふ|wallet|cái ví|5
+煙草|たばこ|cigarette|thuốc lá|5
+始める|はじめる|to start (something)|bắt đầu (cái gì đó)|5
+話|はなし|talk, story|câu chuyện, bài nói|5
+半分|はんぶん|half|một nửa|5
+晩|ばん|evening|buổi tối|5
+ボールペン|ボールペン|ballpoint pen|bút bi|5
+本棚|ほんだな|bookshelf|giá sách|5
+緑|みどり|green|màu xanh lá|5
+問題|もんだい|problem, question|vấn đề, câu hỏi|5
+八百屋|やおや|greengrocer|cửa hàng rau quả|5
+洋服|ようふく|Western-style clothes|quần áo kiểu Tây|5
+ハンカチ|ハンカチ|handkerchief|khăn tay|5
+ストーブ|ストーブ|heater, stove|lò sưởi|5
+カップ|カップ|cup|tách, cốc|5
+グラム|グラム|gram|gam|5
+ビール|ビール|beer|bia|5
+咲く|さく|to bloom|nở (hoa)|5
+君|きみ|you (casual)|cậu, em (thân mật)|5
+僕|ぼく|I (male, casual)|tớ, tôi (nam, thân mật)|5
+夕飯|ゆうはん|dinner|bữa tối|5
+乗り物|のりもの|vehicle|phương tiện giao thông|5

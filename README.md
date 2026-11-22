@@ -1,0 +1,68 @@
+# 日本語 N5→N3 (web app, không cần build)
+
+Site tĩnh thuần HTML/CSS/JS. Dữ liệu nằm trong `data/` dạng JSON, app tự đọc `data/manifest.json`, nên thêm dữ liệu không cần sửa code.
+
+## Chạy thử trên máy
+`python3 -m http.server 8000` trong thư mục này, rồi mở http://localhost:8000 (không mở trực tiếp file index.html vì trình duyệt chặn fetch JSON).
+
+## Deploy (chọn 1)
+- **Netlify**: vào app.netlify.com/drop, kéo thả cả thư mục.
+- **Cloudflare Pages / Vercel**: tạo project, chọn thư mục này, không cần build command, output là thư mục gốc.
+- **GitHub Pages**: đẩy lên repo, Settings → Pages → branch main, thư mục root.
+
+Trên iPhone: mở link bằng Safari → Chia sẻ → Thêm vào Màn hình chính. Service worker sẽ lưu cache để học offline (cần HTTPS, các host trên đều có).
+
+## Cấu trúc dữ liệu
+- `data/vocab/nX.json`, `data/kanji/nX.json`: `{j, r, en, vi, l}` (chữ, cách đọc, nghĩa Anh, nghĩa Việt, cấp 5/4/3)
+- `data/grammar/nX.json`: `{p, l, en, vi, j, xe, xv}` (mẫu câu, cấp, giải thích Anh/Việt, câu ví dụ, dịch Anh/Việt)
+- `data/reading/nX.json`: `{l, ti, j, en, vi, q:{en, vi, o:[...], a}}`. Furigana viết dạng `私[わたし]`.
+- Nét chữ Kanji/Kana trong tab Viết được tải từ KanjiVG (CDN jsDelivr) và cache lại, nên mọi chữ có trong KanjiVG đều luyện viết được mà không cần thêm dữ liệu.
+
+## Thêm hàng nghìn từ
+1. Soạn file TSV (xuất từ Google Sheets) có dòng tiêu đề `j r en vi l`.
+2. `node tools/import.mjs vocab words.tsv` (gộp vào file theo cấp, trùng thì cập nhật, tự cập nhật manifest).
+3. Làm tương tự cho `kanji` và `grammar`.
+
+Nguồn dữ liệu mở thường dùng (hãy kiểm tra giấy phép trước khi dùng): danh sách từ JLPT của Jonathan Waller (tanos.co.uk), JMdict và KANJIDIC2 (EDRDG), câu ví dụ Tatoeba, nét chữ KanjiVG. Các nguồn này không có cột tiếng Việt, cần dịch thêm.
+
+## Lưu ý
+Tiến độ học lưu trong localStorage của trình duyệt trên từng thiết bị.
+
+## Tính năng mới (v3)
+- **Lịch ôn (SRS):** mỗi thẻ có ngày ôn kế tiếp (10 phút → 1 → 3 → 7 → 16 → 35 ngày). Trang chủ hiện số thẻ cần ôn và thẻ mới hôm nay. Số thẻ mới mỗi ngày chỉnh trong ⚙️ Cài đặt.
+- **Bài (Lesson):** trong ⚙️ Cài đặt, dán các từ của bài đang học kèm số bài để gắn nhãn hàng loạt; từ không có trong dữ liệu sẽ được liệt kê. Trên thẻ học cũng có ô chọn bài cho từng thẻ. Khi có nhãn, hàng nút "Bài" xuất hiện để lọc thẻ, kiểm tra và ngữ pháp. Khi nhập bằng TSV, thêm cột `lesson`.
+- **Chia động từ:** Kiểm tra → Chia động từ (ます / て / ない / た), tự nhận nhóm 1, 2, 3 và hiện bảng chia sau mỗi câu.
+- **Giao diện tablet:** tự rộng ra trên màn hình từ 720px. Bút S Pen dùng được trong tab Viết.
+
+## Đồng bộ iPhone ↔ Galaxy Tab (Supabase, miễn phí)
+1. Tạo project tại supabase.com, vào SQL Editor và chạy:
+```sql
+create table progress(id text primary key, data jsonb not null, updated_at timestamptz default now());
+alter table progress enable row level security;
+create policy "anon all" on progress for all to anon using (true) with check (true);
+```
+2. Vào Project Settings → API, lấy **Project URL** và **anon / publishable key**.
+3. Trên thiết bị thứ nhất: ⚙️ Cài đặt → dán URL và key → bấm "Tạo mã" → "Lưu và đồng bộ". Ghi lại mã đồng bộ.
+4. Trên thiết bị thứ hai: nhập đúng URL, key và mã đó. Tiến độ được gộp theo thời gian của từng thẻ, nên học ở cả hai máy không bị mất.
+
+Lưu ý bảo mật: URL, key và mã chỉ lưu trong trình duyệt của bạn, không nằm trong mã nguồn site. Mã đồng bộ đóng vai trò mật khẩu, nên đừng chia sẻ. Đây là cách đơn giản cho một người dùng, không phải hệ thống tài khoản.
+
+## Cài như app trên Galaxy Tab / Android
+Mở link bằng Chrome → menu ⋮ → "Cài đặt ứng dụng" (Install app). Để nghe tiếng Nhật, cài giọng Nhật trong Cài đặt → Quản lý chung → Chuyển văn bản thành giọng nói.
+
+## Tính năng v4
+- **Từ đã quên (🧠):** từ bạn bấm "Chưa nhớ" sau khi đã học, và từ trả lời sai trong kiểm tra hoặc chính tả nghe, được gom vào danh sách riêng (Thẻ học → Đã quên). Một từ rời khỏi danh sách sau 2 lần liên tiếp bấm "Đã nhớ" hoặc "Dễ". Danh sách cũng được đồng bộ giữa các thiết bị.
+- **Đọc:** furigana có 3 chế độ (bật, tự động ẩn với từ bạn đã thuộc, tắt), nghe từng câu hoặc cả đoạn, bản dịch Anh/Việt, danh sách từ có trong bài (chạm để xem nghĩa và nghe).
+- **Nghe:** gõ lại từ (hiragana), gõ lại câu, hoặc nghe cả đoạn rồi trả lời câu hỏi. Nút 🐢 phát chậm.
+
+## Tính năng v5: câu ví dụ gắn với từ vựng
+- Dữ liệu câu ví dụ: `data/sentence/nX.json` với `{l, j (có furigana dạng 私[わたし]), en, vi}`. Thêm bằng `node tools/import.mjs sentence file.tsv` (cột `l j en vi`).
+- App tự dò từ vựng có trong mỗi câu, nên không cần gắn thẻ thủ công. Mặt sau thẻ từ vựng hiện tối đa 2 câu ví dụ chứa từ đó.
+- **Đọc → 💬 Câu:** duyệt câu ví dụ (10 câu mỗi trang), furigana 3 chế độ, nghe từng câu, bản dịch Anh/Việt, chạm vào từ để xem nghĩa.
+- **Kiểm tra → Điền từ:** chọn từ vựng điền vào chỗ trống trong câu (có gợi ý nghĩa của câu).
+- **Nghe → Câu / Hiểu câu:** gõ lại câu nghe được, hoặc nghe câu rồi chọn nghĩa đúng.
+
+## N5 hoàn chỉnh (v6)
+- N5 hiện có 697 từ vựng, 102 Kanji, 53 mẫu ngữ pháp, 449 câu ví dụ và 19 đoạn đọc. Gần như mọi từ N5 đều có ít nhất 1 câu ví dụ (hiện trên mặt sau thẻ, trong Đọc → Câu, Điền từ và Nghe).
+- Ba mục đếm 〜人, 〜本, 〜時間 dùng chung câu ví dụ với 人, 本, 時間.
+- File nguồn của từng đợt nằm trong `src/` (định dạng TSV, nhập lại được bằng `tools/import.mjs`).

@@ -1,0 +1,33 @@
+l|j|en|vi
+5|疲[つか]れたので、少[すこ]し休[やす]む。|I am tired, so I will rest a little.|Vì mệt nên tôi nghỉ một chút.
+5|川[かわ]で魚[さかな]を見[み]ました。|I saw fish in the river.|Tôi đã nhìn thấy cá ở sông.
+5|飛行機[ひこうき]で日本[にほん]へ行[い]きます。|I go to Japan by airplane.|Tôi đi Nhật bằng máy bay.
+5|番号[ばんごう]を書[か]いてください。|Please write the number.|Hãy viết số vào.
+5|入口[いりぐち]はあちらで、出口[でぐち]はこちらです。|The entrance is over there, and the exit is here.|Lối vào ở phía kia, lối ra ở đây.
+5|私[わたし]はこの歌[うた]が好[す]きです。|I like this song.|Tôi thích bài hát này.
+5|おじいさんは公園[こうえん]を散歩[さんぽ]します。おばあさんは家[いえ]で本[ほん]を読[よ]みます。|Grandfather walks in the park. Grandmother reads a book at home.|Ông đi dạo trong công viên. Bà đọc sách ở nhà.
+5|お手洗[てあら]いはどこですか。|Where is the restroom?|Nhà vệ sinh ở đâu ạ?
+5|あの男[おとこ]の人[ひと]は先生[せんせい]で、女[おんな]の人[ひと]は医者[いしゃ]です。|That man is a teacher, and that woman is a doctor.|Người đàn ông kia là giáo viên, người phụ nữ là bác sĩ.
+5|男[おとこ]の子[こ]はサッカーが好[す]きで、女[おんな]の子[こ]は歌[うた]が好[す]きです。|The boy likes soccer, and the girl likes singing.|Bé trai thích bóng đá, bé gái thích hát.
+5|今日[きょう]は曇[くも]りですが、明日[あした]は晴[は]れです。|It is cloudy today, but tomorrow will be sunny.|Hôm nay trời nhiều mây nhưng ngày mai nắng.
+5|財布[さいふ]の中[なか]にお金[かね]があります。|There is money in my wallet.|Trong ví có tiền.
+5|煙草[たばこ]は体[からだ]によくないです。|Cigarettes are bad for the body.|Thuốc lá không tốt cho cơ thể.
+5|先生[せんせい]は授業[じゅぎょう]を始[はじ]める。|The teacher starts the class.|Thầy giáo bắt đầu giờ học.
+5|先生[せんせい]の話[はなし]は面白[おもしろ]いです。|The teacher's talk is interesting.|Bài nói của thầy rất thú vị.
+5|ケーキを半分[はんぶん]食[た]べました。|I ate half of the cake.|Tôi đã ăn một nửa cái bánh.
+5|晩[ばん]は家[いえ]で勉強[べんきょう]します。|I study at home in the evening.|Buổi tối tôi học ở nhà.
+5|ボールペンで名前[なまえ]を書[か]きます。|I write my name with a ballpoint pen.|Tôi viết tên bằng bút bi.
+5|本棚[ほんだな]に本[ほん]がたくさんあります。|There are many books on the bookshelf.|Trên giá sách có rất nhiều sách.
+5|緑[みどり]のセーターを着[き]ています。|I am wearing a green sweater.|Tôi đang mặc áo len màu xanh lá.
+5|問題[もんだい]が三[みっ]つあります。|There are three questions.|Có ba câu hỏi.
+5|八百屋[やおや]で野菜[やさい]と果物[くだもの]を買[か]います。|I buy vegetables and fruit at the greengrocer.|Tôi mua rau và trái cây ở cửa hàng rau quả.
+5|洋服[ようふく]を買[か]いに行[い]きます。|I am going to buy clothes.|Tôi đi mua quần áo.
+5|ハンカチで手[て]を拭[ふ]きます。|I wipe my hands with a handkerchief.|Tôi lau tay bằng khăn tay.
+5|寒[さむ]いので、ストーブをつけます。|It is cold, so I turn on the heater.|Vì lạnh nên tôi bật lò sưởi.
+5|カップにコーヒーを入[い]れます。|I pour coffee into a cup.|Tôi rót cà phê vào tách.
+5|砂糖[さとう]を百[ひゃく]グラム買[か]いました。|I bought 100 grams of sugar.|Tôi đã mua 100 gam đường.
+5|夜[よる]はビールを飲[の]みます。|I drink beer at night.|Buổi tối tôi uống bia.
+5|春[はる]に花[はな]が咲[さ]きます。|Flowers bloom in spring.|Mùa xuân hoa nở.
+5|君[きみ]は学生[がくせい]ですか。僕[ぼく]は会社員[かいしゃいん]です。|Are you a student? I am an office worker.|Cậu là học sinh à? Tớ là nhân viên công ty.
+5|夕飯[ゆうはん]は七時[しちじ]です。|Dinner is at seven.|Bữa tối lúc 7 giờ.
+5|バスと電車[でんしゃ]は乗[の]り物[もの]です。|Buses and trains are vehicles.|Xe buýt và tàu điện là phương tiện giao thông.
