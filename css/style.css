@@ -20,8 +20,8 @@ details{background:var(--cd);border:1px solid var(--bd);border-radius:14px;paddi
 .badge{font-size:12px;background:var(--bd);border-radius:6px;padding:1px 6px;margin-right:6px}
 nav{position:fixed;left:0;right:0;bottom:0;display:flex;background:var(--cd);border-top:1px solid var(--bd);padding:6px 4px calc(6px + env(safe-area-inset-bottom,0px))}
 nav button{flex:1;border:0;background:none;font-size:10px;color:var(--mu);padding:4px 0}nav button span{display:block;font-size:20px}nav .on{color:var(--ac);font-weight:600}
-.stage{position:relative;width:min(100%,340px,calc(100vh - 385px));min-width:220px;aspect-ratio:1;margin:auto;border:2px dashed var(--bd);border-radius:14px;background:linear-gradient(var(--bd),var(--bd)) center/1px 100% no-repeat,linear-gradient(var(--bd),var(--bd)) center/100% 1px no-repeat}
-.stage{width:min(100%,340px,calc(100dvh - 385px))}
+.stage{position:relative;width:min(100%,340px,calc(100vh - 540px));min-width:220px;aspect-ratio:1;margin:auto;border:2px dashed var(--bd);border-radius:14px;background:linear-gradient(var(--bd),var(--bd)) center/1px 100% no-repeat,linear-gradient(var(--bd),var(--bd)) center/100% 1px no-repeat}
+.stage{width:min(100%,340px,calc(100dvh - 540px))}
 .stage svg,.stage canvas{position:absolute;inset:0;width:100%;height:100%}.stage canvas{touch-action:none}
 .sp{fill:none;stroke:var(--tx);stroke-width:3.2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1;stroke-dashoffset:1}
 .w .sp{animation:dr .8s forwards}.t .sp{stroke:var(--gr);stroke-width:4.4;stroke-dashoffset:0}.r .sp{opacity:0;stroke-dashoffset:0}
@@ -34,7 +34,7 @@ nav button{flex:1;border:0;background:none;font-size:10px;color:var(--mu);paddin
 input,select,textarea{font:inherit;color:inherit;background:var(--cd);border:1px solid var(--bd);border-radius:10px;padding:8px;box-sizing:border-box}
 input:not([type=number]),textarea{width:100%}
 /* tablet (Galaxy Tab S9, iPad) */
-@media (min-width:720px){html,body{font-size:18px}#app{max-width:900px;padding-left:28px;padding-right:28px}.big{font-size:104px}.fc{min-height:340px}.kg{grid-template-columns:repeat(10,1fr)}.stage{width:min(100%,500px,calc(100dvh - 385px))}nav{justify-content:center}nav button{max-width:140px}.pk button{font-size:22px}}
+@media (min-width:720px){html,body{font-size:18px}#app{max-width:900px;padding-left:28px;padding-right:28px}.big{font-size:104px}.fc{min-height:340px}.kg{grid-template-columns:repeat(10,1fr)}.stage{width:min(100%,500px,calc(100dvh - 540px))}nav{justify-content:center}nav button{max-width:140px}.pk button{font-size:22px}}
 @media (min-width:1000px){#app{max-width:1000px}}
 .sen{display:flex;gap:8px;align-items:center;margin:8px 0}.sen .pill{padding:2px 10px;flex:none}.jp{font-size:20px;line-height:2.2}rt{font-size:.55em}
 @media (min-width:720px){.jp{font-size:24px}}
@@ -54,3 +54,15 @@ mark{background:var(--hl);color:var(--ac);font-weight:700;border-radius:5px;padd
 .gb{padding:0 14px 14px}.form{background:var(--hl);border-radius:12px;padding:10px 12px}.form b{font-size:17px;color:var(--ac)}
 .gex{display:flex;gap:10px;align-items:flex-start;padding:10px 0;border-top:1px solid var(--bd)}.gex:first-of-type{border-top:0}.gex .pill{flex:none;margin-top:6px}.gex .jp{font-size:20px;line-height:2.1}
 @media (min-width:720px){.thg{grid-template-columns:repeat(3,1fr)}.gt{font-size:22px}.gex .jp{font-size:24px}}
+/* v9: writing prompt, study history */
+.wp{padding:8px 12px;margin-top:6px}
+.wp .wl{font-size:12px}
+.wp .ro{font-size:26px;font-weight:700;letter-spacing:.5px;color:var(--ac);line-height:1.3;word-break:break-word}
+.wp .wm{font-size:16px}
+.wp .ans{font-size:36px;line-height:1.15;margin-top:2px}
+.wp .ans .mu{font-size:15px}
+button[disabled]{opacity:.4}
+.hc{display:grid;grid-template-columns:repeat(14,1fr);gap:4px;height:84px;margin:10px 0 6px;align-items:end}
+.hc div{height:100%;display:flex;flex-direction:column;justify-content:flex-end;align-items:center}
+.hc i{display:block;width:100%;min-height:2px;background:var(--g);border-radius:4px 4px 0 0}
+.hc span{font-size:10px;color:var(--mu);margin-top:2px}

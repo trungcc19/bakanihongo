@@ -1,0 +1,172 @@
+[
+ {
+  "l": 4,
+  "ti": "初めてのアルバイト",
+  "j": "先月[せんげつ]から駅[えき]の近[ちか]くのコンビニでアルバイトをしています。最初[さいしょ]は日本語[にほんご]の敬語[けいご]が難[むずか]しくて、お客[きゃく]さんと話[はな]すのが怖[こわ]かったです。でも、店長[てんちょう]がとても優[やさ]しくて、丁寧[ていねい]に教[おし]えてくれました。今[いま]はだいぶ慣[な]れて、仕事[しごと]が楽[たの]しくなりました。給料[きゅうりょう]で、国[くに]の母[はは]にプレゼントを送[おく]るつもりです。",
+  "en": "Since last month I have been working part-time at a convenience store near the station. At first, Japanese honorific language was difficult and I was scared of talking with customers. But the manager was very kind and taught me carefully. Now I have gotten quite used to it and the work has become fun. I plan to send a present to my mother back home with my pay.",
+  "vi": "Từ tháng trước tôi làm thêm ở cửa hàng tiện lợi gần ga. Lúc đầu kính ngữ tiếng Nhật khó nên tôi sợ nói chuyện với khách. Nhưng cửa hàng trưởng rất tốt bụng và đã chỉ dạy tôi cẩn thận. Bây giờ tôi đã khá quen và công việc trở nên vui hơn. Tôi định dùng tiền lương gửi quà cho mẹ ở quê.",
+  "q": {
+   "en": "What does the writer plan to do with the pay?",
+   "vi": "Người viết định dùng tiền lương làm gì?",
+   "o": [
+    "母にプレゼントを送る",
+    "新しいパソコンを買う",
+    "旅行に行く"
+   ],
+   "a": 0
+  }
+ },
+ {
+  "l": 4,
+  "ti": "雨の日の失敗",
+  "j": "今朝[けさ]は天気予報[てんきよほう]を見[み]ないで家[いえ]を出[で]ました。駅[えき]に着[つ]いたとき、急[きゅう]に雨[あめ]が降[ふ]ってきました。傘[かさ]を持[も]っていなかったので、コンビニで買[か]おうと思[おも]いましたが、財布[さいふ]も家[いえ]に忘[わす]れてしまいました。困[こま]っていたら、同[おな]じクラスの山田[やまだ]さんが傘[かさ]に入[い]れてくれました。明日[あした]から、出[で]かける前[まえ]に必[かなら]ず天気予報[てんきよほう]を見[み]るようにします。",
+  "en": "This morning I left home without checking the weather forecast. When I arrived at the station, it suddenly started to rain. I did not have an umbrella, so I thought I would buy one at a convenience store, but I had also left my wallet at home. While I was in trouble, Yamada from my class let me share her umbrella. From tomorrow, I will make sure to check the forecast before going out.",
+  "vi": "Sáng nay tôi ra khỏi nhà mà không xem dự báo thời tiết. Khi đến ga thì trời đột nhiên mưa. Vì không mang ô nên tôi định mua ở cửa hàng tiện lợi, nhưng tôi lại lỡ để quên cả ví ở nhà. Đang lúng túng thì bạn Yamada cùng lớp đã cho tôi che chung ô. Từ mai, tôi sẽ cố gắng nhất định xem dự báo thời tiết trước khi ra ngoài.",
+  "q": {
+   "en": "Why could the writer not buy an umbrella?",
+   "vi": "Tại sao người viết không mua được ô?",
+   "o": [
+    "店が閉まっていたから",
+    "財布を忘れたから",
+    "傘が高かったから"
+   ],
+   "a": 1
+  }
+ },
+ {
+  "l": 4,
+  "ti": "日本のお正月",
+  "j": "日本[にほん]では、一月[いちがつ]一日[ついたち]から三日[みっか]までをお正月[しょうがつ]と言[い]います。多[おお]くの人[ひと]が田舎[いなか]に帰[かえ]って、家族[かぞく]と一緒[いっしょ]に過[す]ごします。お正月[しょうがつ]には特別[とくべつ]な料理[りょうり]を食[た]べたり、神社[じんじゃ]へお参[まい]りに行[い]ったりします。子供[こども]たちは大人[おとな]からお年玉[としだま]をもらうので、お正月[しょうがつ]が大好[だいす]きです。",
+  "en": "In Japan, January 1st to 3rd is called Oshogatsu (New Year). Many people go back to their hometowns and spend time with their families. At New Year, people eat special dishes and go to shrines to pray. Children love New Year because they receive otoshidama (money gifts) from adults.",
+  "vi": "Ở Nhật, từ mùng 1 đến mùng 3 tháng 1 được gọi là Tết (Oshogatsu). Nhiều người về quê và đón Tết cùng gia đình. Vào dịp Tết, người ta ăn những món đặc biệt và đi đền cầu nguyện. Trẻ em rất thích Tết vì được người lớn cho tiền mừng tuổi.",
+  "q": {
+   "en": "Why do children love New Year?",
+   "vi": "Tại sao trẻ em rất thích Tết?",
+   "o": [
+    "学校が休みだから",
+    "旅行に行くから",
+    "お年玉をもらうから"
+   ],
+   "a": 2
+  }
+ },
+ {
+  "l": 4,
+  "ti": "図書館の規則",
+  "j": "この図書館[としょかん]では、本[ほん]を一人[ひとり]五冊[ごさつ]まで借[か]りることができます。借[か]りた本[ほん]は二週間[にしゅうかん]以内[いない]に返[かえ]さなければなりません。館内[かんない]で食[た]べたり飲[の]んだりしてはいけませんが、水[みず]は飲[の]んでもいいです。また、携帯電話[けいたいでんわ]で話[はな]すときは、外[そと]に出[で]てください。",
+  "en": "At this library, each person can borrow up to five books. Borrowed books must be returned within two weeks. You must not eat or drink inside, but you may drink water. Also, when talking on your mobile phone, please go outside.",
+  "vi": "Ở thư viện này, mỗi người có thể mượn tối đa 5 cuốn sách. Sách đã mượn phải trả trong vòng 2 tuần. Không được ăn uống trong thư viện nhưng được phép uống nước. Ngoài ra, khi nói chuyện điện thoại thì hãy ra bên ngoài.",
+  "q": {
+   "en": "What is allowed inside the library?",
+   "vi": "Điều gì được phép trong thư viện?",
+   "o": [
+    "水を飲むこと",
+    "パンを食べること",
+    "電話で話すこと"
+   ],
+   "a": 0
+  }
+ },
+ {
+  "l": 4,
+  "ti": "病院で",
+  "j": "昨日[きのう]の夜[よる]から熱[ねつ]があって、頭[あたま]も痛[いた]かったので、今朝[けさ]病院[びょういん]へ行[い]きました。お医者[いしゃ]さんは「風邪[かぜ]ですね。三日[みっか]ぐらい薬[くすり]を飲[の]んで、ゆっくり休[やす]んでください。お風呂[ふろ]には入[はい]らないほうがいいですよ」と言[い]いました。会社[かいしゃ]に電話[でんわ]して、今日[きょう]と明日[あした]は休[やす]むことにしました。",
+  "en": "I had a fever and a headache since last night, so I went to the hospital this morning. The doctor said, 'It is a cold. Take medicine for about three days and rest well. It is better not to take a bath.' I called my company and decided to take today and tomorrow off.",
+  "vi": "Từ tối qua tôi bị sốt và đau đầu nên sáng nay đã đến bệnh viện. Bác sĩ nói: \"Cảm rồi. Hãy uống thuốc khoảng 3 ngày và nghỉ ngơi thoải mái. Không nên tắm bồn đâu.\" Tôi đã gọi điện cho công ty và quyết định nghỉ hôm nay và ngày mai.",
+  "q": {
+   "en": "What did the doctor say not to do?",
+   "vi": "Bác sĩ dặn không nên làm gì?",
+   "o": [
+    "薬を飲むこと",
+    "お風呂に入ること",
+    "寝ること"
+   ],
+   "a": 1
+  }
+ },
+ {
+  "l": 3,
+  "ti": "在宅勤務",
+  "j": "最近[さいきん]、家[いえ]で仕事[しごと]をする人[ひと]が増[ふ]えている。通勤[つうきん]の時間[じかん]がなくなるので、その分[ぶん]、家族[かぞく]と過[す]ごしたり、趣味[しゅみ]を楽[たの]しんだりできるようになった。一方[いっぽう]で、同僚[どうりょう]と直接[ちょくせつ]話[はな]す機会[きかい]が減[へ]って、寂[さび]しいと感[かん]じる人[ひと]も少[すく]なくない。仕事[しごと]と生活[せいかつ]の区別[くべつ]をつけるのが難[むずか]しいという意見[いけん]もある。",
+  "en": "Recently, more people are working from home. Since there is no commute, they can spend that time with family or enjoy hobbies. On the other hand, quite a few people feel lonely because they have fewer chances to talk directly with colleagues. Some also say it is hard to separate work and private life.",
+  "vi": "Gần đây, số người làm việc tại nhà đang tăng lên. Vì không mất thời gian đi lại nên họ có thể dành thời gian đó cho gia đình hoặc tận hưởng sở thích. Mặt khác, không ít người cảm thấy cô đơn vì ít có cơ hội nói chuyện trực tiếp với đồng nghiệp. Cũng có ý kiến cho rằng khó phân tách giữa công việc và cuộc sống.",
+  "q": {
+   "en": "What is a disadvantage mentioned in the text?",
+   "vi": "Bài viết nêu nhược điểm nào?",
+   "o": [
+    "給料が下がる",
+    "通勤時間が長くなる",
+    "同僚と話す機会が減る"
+   ],
+   "a": 2
+  }
+ },
+ {
+  "l": 3,
+  "ti": "ごみの分別",
+  "j": "日本[にほん]に来[き]て一番[いちばん]驚[おどろ]いたのは、ごみの分[わ]け方[かた]が細[こま]かいことだ。燃[も]えるごみ、燃[も]えないごみ、ペットボトル、缶[かん]など、種類[しゅるい]によって出[だ]す日[ひ]が決[き]まっている。最初[さいしょ]は面倒[めんどう]だと思[おも]ったが、資源[しげん]を大切[たいせつ]にするためには必要[ひつよう]なことだと分[わ]かった。今[いま]では国[くに]に帰[かえ]っても続[つづ]けたいと思[おも]っている。",
+  "en": "What surprised me most after coming to Japan was how detailed garbage sorting is. Burnable garbage, non-burnable garbage, plastic bottles, cans and so on each have a set collection day by type. At first I thought it was a hassle, but I came to understand that it is necessary to value resources. Now I want to continue it even after I go back to my country.",
+  "vi": "Điều khiến tôi ngạc nhiên nhất khi đến Nhật là cách phân loại rác rất chi tiết. Rác cháy được, rác không cháy được, chai nhựa, lon… mỗi loại đều có ngày đổ cố định. Lúc đầu tôi nghĩ thật phiền phức, nhưng rồi hiểu ra đó là việc cần thiết để trân trọng tài nguyên. Bây giờ tôi muốn tiếp tục làm vậy kể cả khi về nước.",
+  "q": {
+   "en": "How does the writer feel now?",
+   "vi": "Bây giờ người viết cảm thấy thế nào?",
+   "o": [
+    "国に帰っても続けたい",
+    "まだ面倒だと思う",
+    "やめたいと思う"
+   ],
+   "a": 0
+  }
+ },
+ {
+  "l": 3,
+  "ti": "スマホと睡眠",
+  "j": "寝[ね]る直前[ちょくぜん]までスマホを見[み]ていると、なかなか眠[ねむ]れなくなるそうだ。画面[がめん]の光[ひかり]が脳[のう]を刺激[しげき]して、体[からだ]が「まだ昼[ひる]だ」と感[かん]じてしまうからだ。睡眠[すいみん]不足[ぶそく]が続[つづ]くと、集中力[しゅうちゅうりょく]が下[さ]がったり、病気[びょうき]になりやすくなったりする。専門家[せんもんか]によると、寝[ね]る一時間[いちじかん]前[まえ]にはスマホを置[お]いたほうがいいということだ。",
+  "en": "Apparently, if you look at your smartphone right up until bedtime, it becomes hard to fall asleep. This is because the light from the screen stimulates the brain and the body feels it is still daytime. If lack of sleep continues, concentration drops and you get sick more easily. According to experts, it is better to put your phone down an hour before bed.",
+  "vi": "Nghe nói nếu xem điện thoại cho đến ngay trước khi ngủ thì sẽ khó ngủ. Đó là vì ánh sáng màn hình kích thích não, khiến cơ thể cảm thấy \"vẫn còn ban ngày\". Nếu thiếu ngủ kéo dài thì khả năng tập trung giảm và dễ bị bệnh. Theo các chuyên gia, nên bỏ điện thoại xuống một tiếng trước khi ngủ.",
+  "q": {
+   "en": "What do experts recommend?",
+   "vi": "Chuyên gia khuyên điều gì?",
+   "o": [
+    "寝る前に運動する",
+    "寝る一時間前にスマホを置く",
+    "朝早く起きる"
+   ],
+   "a": 1
+  }
+ },
+ {
+  "l": 3,
+  "ti": "ボランティア",
+  "j": "大学[だいがく]に入[はい]ってから、週末[しゅうまつ]に子供[こども]たちに勉強[べんきょう]を教[おし]えるボランティアをしている。最初[さいしょ]は自分[じぶん]にできるかどうか不安[ふあん]だったが、子供[こども]たちが「分[わ]かった！」と笑顔[えがお]を見[み]せてくれるたびに、やってよかったと思[おも]う。教[おし]えることで、自分[じぶん]も多[おお]くのことを学[まな]んでいる。将来[しょうらい]は教師[きょうし]を目指[めざ]したい。",
+  "en": "Since entering university, I have been volunteering on weekends teaching children. At first I was anxious about whether I could do it, but every time the children smile and say 'I get it!', I feel glad I did it. By teaching, I am also learning many things. In the future I want to aim to become a teacher.",
+  "vi": "Từ khi vào đại học, cuối tuần tôi làm tình nguyện dạy học cho trẻ em. Lúc đầu tôi lo không biết mình có làm được không, nhưng mỗi lần các em cười và nói \"Em hiểu rồi!\", tôi lại thấy thật may vì đã làm. Thông qua việc dạy, bản thân tôi cũng học được nhiều điều. Tương lai tôi muốn trở thành giáo viên.",
+  "q": {
+   "en": "What does the writer want to become?",
+   "vi": "Người viết muốn trở thành gì?",
+   "o": [
+    "医者",
+    "会社員",
+    "教師"
+   ],
+   "a": 2
+  }
+ },
+ {
+  "l": 3,
+  "ti": "手紙のよさ",
+  "j": "メールやメッセージが便利[べんり]になった今[いま]、手紙[てがみ]を書[か]く人[ひと]はずいぶん減[へ]った。しかし、先日[せんじつ]祖母[そぼ]から手書[てが]きの手紙[てがみ]が届[とど]き、とても温[あたた]かい気持[きも]ちになった。字[じ]から書[か]いた人[ひと]の気持[きも]ちが伝[つた]わってくるのは、手紙[てがみ]ならではだと思[おも]う。忙[いそが]しくても、大切[たいせつ]な人[ひと]には時々[ときどき]手紙[てがみ]を書[か]こうと思[おも]う。",
+  "en": "Now that email and messaging have become convenient, far fewer people write letters. However, the other day a handwritten letter arrived from my grandmother, and it gave me a very warm feeling. I think the way the writer's feelings come through the handwriting is unique to letters. Even when I am busy, I intend to write letters to the people who matter to me from time to time.",
+  "vi": "Ngày nay khi email và tin nhắn đã trở nên tiện lợi, số người viết thư đã giảm đi nhiều. Tuy nhiên, hôm trước tôi nhận được lá thư viết tay của bà và cảm thấy rất ấm lòng. Tôi nghĩ cảm xúc của người viết truyền qua từng nét chữ là điều chỉ thư tay mới có. Dù bận, tôi cũng định thỉnh thoảng viết thư cho những người quan trọng.",
+  "q": {
+   "en": "How did the writer feel when the letter arrived?",
+   "vi": "Người viết cảm thấy thế nào khi nhận được thư?",
+   "o": [
+    "温かい気持ちになった",
+    "寂しくなった",
+    "面倒だと思った"
+   ],
+   "a": 0
+  }
+ }
+]

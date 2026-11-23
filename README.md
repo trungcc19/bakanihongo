@@ -83,3 +83,22 @@ Mở link bằng Chrome → menu ⋮ → "Cài đặt ứng dụng" (Install app
 - **Luyện viết**: dữ liệu nét chữ nằm sẵn trong `data/strokes.json` (578 ký tự, tải 1 lần, được service worker cache → dùng offline). Không còn tải từ CDN; nếu lỗi sẽ có nút "Thử lại".
 - **Ngữ pháp**: thẻ gập/mở, ô "Cấu trúc", mỗi mẫu có ≥3 ví dụ, phần ngữ pháp được tô màu/gạch chân bằng cú pháp `{…}`. Nguồn: `src/grammar-v2.txt` → `python3 tools/build_grammar.py`.
 - Dữ liệu nét chữ: KanjiVG © Ulrich Apel, giấy phép CC BY-SA 3.0 (https://kanjivg.tagaini.net). Phần dữ liệu `data/strokes.json` giữ nguyên giấy phép này.
+
+## v9: thẻ ngẫu nhiên, luyện viết theo romaji, lưu dữ liệu bền hơn, N4/N3 đầy đủ hơn
+- **Thẻ học ngẫu nhiên:** thẻ cần ôn và thẻ mới được lấy ngẫu nhiên, không theo thứ tự cố định. Nút **🔀 Ngẫu nhiên** để luyện tự do: xáo thẻ từ bộ lọc hiện tại (cấp, chủ đề), không giới hạn thẻ mới. Trong chế độ này, "Chưa nhớ" đưa thẻ về lịch ôn sớm, còn "Đã nhớ" không làm lùi lịch ôn. Khi ôn xong trong ngày cũng có nút để luyện tiếp.
+- **Luyện viết theo romaji:** đề bài hiện phiên âm romaji (Kanji: âm On IN HOA, âm Kun chữ thường) kèm nghĩa Việt/Anh. Không còn bảng chọn chữ. Chữ được bốc ngẫu nhiên theo cấp N5/N4/N3, ưu tiên chữ chưa viết. Có nút ← Trước, 🔀 Chữ khác và 👁 Xem đáp án. Chế độ "Không hướng dẫn" là mặc định và được ghi nhớ. Kanji phải xem đáp án hoặc sai từ 3 nét trở lên sẽ được đưa vào danh sách 🧠 Đã quên.
+- **Lưu dữ liệu:**
+  - Lưu 2 bản: localStorage và IndexedDB. Nếu một bản bị xóa, app tự khôi phục từ bản kia.
+  - Tự lưu ngay khi đóng hoặc chuyển app.
+  - Xin quyền bộ nhớ bền vững (persistent storage) để trình duyệt không tự xóa dữ liệu.
+  - Lịch sử học theo ngày (số lượt trả lời, số câu đúng, XP), có biểu đồ 14 ngày ở Trang chủ. Lịch sử này cũng được đồng bộ.
+  - File sao lưu có ngày trong tên. Khôi phục sẽ **gộp** vào tiến độ hiện tại, không ghi đè.
+  - Nhắc sao lưu nếu chưa bật đồng bộ và đã quá 7 ngày chưa sao lưu.
+  - ⚙️ Cài đặt có mục 💽 hiển thị trạng thái lưu trữ.
+- **Dữ liệu N4/N3:**
+  - Kanji: đủ danh sách N4 (178 chữ) và N3 (342 chữ), có âm Hán Việt. Có thêm 飲, 買, 魚 cho N5.
+  - Từ vựng: N4 265 từ, N3 210 từ, mỗi từ có câu ví dụ riêng.
+  - Ngữ pháp: N4 42 mẫu, N3 36 mẫu, mỗi mẫu 3 ví dụ.
+  - Bài đọc: thêm 5 bài cho mỗi cấp.
+  - Nét chữ của toàn bộ 625 Kanji đã có trong `data/strokes.json` nên luyện viết được khi offline.
+- Nguồn dữ liệu: `src/kanji-n4.tsv`, `src/kanji-n3.tsv`, `src/vocab-n4.txt`, `src/vocab-n3.txt` (dạng `từ|đọc|en|vi|câu|câu en|câu vi`, tách thành `src/vocab-nX.tsv` và `src/sent-nX.tsv` để nhập bằng `tools/import.mjs`), `src/grammar-v2.txt`, `src/reading-n4n3.json`.
