@@ -2,7 +2,7 @@
 const $=s=>document.querySelector(s),DAY=864e5,IV=[6e5,DAY,3*DAY,7*DAY,16*DAY,35*DAY];
 let S={};try{S=JSON.parse(localStorage.getItem("jp2"))||{}}catch(e){}
 S.ls=S.ls&&typeof S.ls=="object"?S.ls:{};
-Object.assign(S,{b:S.b||{},w:S.w||{},lang:S.lang||"vi",lv:S.lv===undefined?5:S.lv,lsn:S.lsn||0,mode:S.mode||"v",qm:S.qm||"w",xp:S.xp||0,st:S.st||0,day:S.day||"",td:S.td||0,nl:S.nl||10,nd:S.nd||"",nn:S.nn||0,xt:S.xt||0,sb:S.sb||{},fg:S.fg||{}});
+Object.assign(S,{b:S.b||{},w:S.w||{},lang:S.lang||"vi",lv:S.lv===undefined?5:S.lv,lsn:S.lsn||0,mode:S.mode||"v",qm:S.qm||"w",xp:S.xp||0,st:S.st||0,day:S.day||"",td:S.td||0,nl:S.nl||10,nd:S.nd||"",nn:S.nn||0,xt:S.xt||0,sb:S.sb||{},fg:S.fg||{},th:S.th||""});
 for(const k in S.b)if(typeof S.b[k]=="number")S.b[k]=[S.b[k],Date.now(),0];
 const state=()=>({b:S.b,w:S.w,ls:S.ls,fg:S.fg,xp:S.xp,st:S.st,day:S.day,td:S.td});
 let pt,sy="";

@@ -66,3 +66,13 @@ Mở link bằng Chrome → menu ⋮ → "Cài đặt ứng dụng" (Install app
 - N5 hiện có 697 từ vựng, 102 Kanji, 53 mẫu ngữ pháp, 449 câu ví dụ và 19 đoạn đọc. Gần như mọi từ N5 đều có ít nhất 1 câu ví dụ (hiện trên mặt sau thẻ, trong Đọc → Câu, Điền từ và Nghe).
 - Ba mục đếm 〜人, 〜本, 〜時間 dùng chung câu ví dụ với 人, 本, 時間.
 - File nguồn của từng đợt nằm trong `src/` (định dạng TSV, nhập lại được bằng `tools/import.mjs`).
+
+## v7: chủ đề, sửa lỗi kiểm tra nghe, luyện viết mới
+- **Chủ đề (thay cho ô "Bài" vô dụng trên thẻ):** từ vựng và Kanji được tự phân loại thành 20 chủ đề (chào hỏi, gia đình, số đếm, thời gian, động từ, tính từ, ăn uống, địa điểm, giao thông…). Chọn chủ đề ở Thẻ học, Kiểm tra (từ vựng, điền từ) và Nghe (từ). Mỗi thẻ hiện chủ đề của nó. Quy tắc phân loại nằm trong `js/themes.js`.
+- **Bài (giáo trình):** hàng nút "Bài" chỉ hiện khi bạn đã gắn nhãn bài trong ⚙️ Cài đặt, kèm số từ của mỗi bài.
+- **Kiểm tra → nút 🎧:** bật/tắt chế độ nghe không còn nhảy sang câu khác.
+- **Luyện viết:** 3 chế độ.
+  - Xem nét: chữ vẽ từng nét, có số.
+  - Có hướng dẫn: nét xám, số và chấm ở điểm bắt đầu mỗi nét.
+  - Không hướng dẫn: không có nét mẫu. Viết sai nét, sai chiều hoặc sai thứ tự thì nét nháy đỏ, bị xóa và app báo lý do (ví dụ "Sai thứ tự: đây là nét 2, cần viết nét 1 trước").
+- Khung viết tự co theo chiều cao màn hình để thấy cả thông báo lẫn khung viết trên iPhone nhỏ.
