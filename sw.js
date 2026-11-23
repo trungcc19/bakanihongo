@@ -1,2 +1,2 @@
-const C='nh9';self.addEventListener('install',()=>self.skipWaiting());
+const C='nh11';self.addEventListener('install',e=>{e.waitUntil(caches.open(C).then(c=>c.addAll(['./','index.html','css/style.css','js/store.js','js/verbs.js','js/themes.js','js/app.js','data/manifest.json','data/strokes.json']).catch(()=>{})));self.skipWaiting()});
 self.addEventListener('fetch',e=>{if(e.request.method!='GET')return;e.respondWith(caches.open(C).then(async c=>{const m=await c.match(e.request),n=fetch(e.request).then(r=>{if(r.ok)c.put(e.request,r.clone());return r}).catch(()=>m);return m||n}))});

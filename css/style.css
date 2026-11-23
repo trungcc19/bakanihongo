@@ -1,5 +1,5 @@
-:root{--bg:#faf7f2;--cd:#fff;--tx:#1d1b1a;--mu:#7a746d;--ac:#c8372d;--g:#2f6f5e;--bd:#e8e2d9;--gr:#aaa39a;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
-@media (prefers-color-scheme:dark){:root{color-scheme:dark;--bg:#161412;--cd:#221f1c;--tx:#f2ede6;--mu:#a29a90;--ac:#ef5a4e;--g:#5fb89f;--bd:#352f2a;--gr:#6f675f}}
+:root{--bg:#faf7f2;--cd:#fff;--tx:#1d1b1a;--mu:#7a746d;--ac:#c8372d;--g:#2f6f5e;--bd:#e8e2d9;--gr:#aaa39a;--hl:#fde4e1;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root{color-scheme:dark;--bg:#161412;--cd:#221f1c;--tx:#f2ede6;--mu:#a29a90;--ac:#ef5a4e;--g:#5fb89f;--bd:#352f2a;--gr:#6f675f;--hl:#4a2420}}
 html,body{margin:0;background:var(--bg);color:var(--tx);font:16px/1.5 -apple-system,"Hiragino Sans","Noto Sans JP",system-ui,sans-serif;-webkit-tap-highlight-color:transparent}
 header{display:flex;justify-content:space-between;align-items:center;padding:14px 16px 4px}
 h1{font-size:20px;margin:0}h1 b{color:var(--ac)}
@@ -28,7 +28,7 @@ nav button{flex:1;border:0;background:none;font-size:10px;color:var(--mu);paddin
 .sp.hn{opacity:1;stroke:var(--ac);stroke-width:4;stroke-dashoffset:1;animation:dr .9s forwards}
 @keyframes dr{to{stroke-dashoffset:0}}
 .nm circle{fill:var(--mu)}.nm text{font-size:6.4px;font-weight:700;fill:var(--tx);paint-order:stroke;stroke:var(--cd);stroke-width:1.5px}.nm.cur circle{fill:var(--ac)}.nm.cur text{fill:var(--ac)}
-.pk{display:flex;gap:6px;overflow-x:auto;padding:6px 0}.pk{margin:6px 0}.pk button{flex:none}.cp button{font-size:20px;padding:6px 12px}.pk .dn{border-color:var(--g)}
+.pk{display:flex;flex-wrap:wrap;gap:6px;padding:4px 0}.cp{max-height:190px;overflow-y:auto;margin:8px 0}.cp button{font-size:20px;padding:6px 12px;min-width:46px}.pk .dn{border-color:var(--g)}
 @media (prefers-reduced-motion:reduce){.w .sp,.sp.hn{animation-duration:.01s}}
 .two3{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}.two3 small{opacity:.8}
 input,select,textarea{font:inherit;color:inherit;background:var(--cd);border:1px solid var(--bd);border-radius:10px;padding:8px;box-sizing:border-box}
@@ -42,6 +42,15 @@ input:not([type=number]),textarea{width:100%}
 
 .stage.bad{border-color:#e53935;animation:flash .55s}
 @keyframes flash{0%,100%{box-shadow:none}20%,60%{box-shadow:0 0 0 4px #e53935,0 0 26px #e5393599}}
-.pk{scrollbar-width:thin}
 .seg{display:grid;grid-template-columns:repeat(3,1fr);gap:6px;margin:8px 0}.seg button{font-size:13px;padding:8px 4px;line-height:1.25;border-radius:12px}.seg .on{background:var(--ac);color:#fff;border-color:var(--ac)}
 #fb{min-height:2.5em;line-height:1.25;display:flex;align-items:center;justify-content:center;margin:0 0 6px;font-size:13px;text-align:center}
+
+.thp{margin:6px 0}.thb{width:100%;display:flex;justify-content:space-between;align-items:center;text-align:left;font-weight:600;background:var(--cd)}
+.thg{display:grid;grid-template-columns:repeat(2,1fr);gap:8px;margin-top:8px}.thg button{text-align:left;font-size:14px;padding:10px 12px}.thg .on{background:var(--ac);color:#fff;border-color:var(--ac)}
+mark{background:var(--hl);color:var(--ac);font-weight:700;border-radius:5px;padding:0 3px;text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:5px}
+.gc{background:var(--cd);border:1px solid var(--bd);border-radius:16px;margin:8px 0;overflow:hidden}.gc.open{border-color:var(--ac)}
+.gh{display:grid;grid-template-columns:auto 1fr auto;grid-template-areas:"b t x" "m m m";gap:2px 8px;align-items:center;width:100%;text-align:left;border:0;background:none;border-radius:0;padding:12px 14px}
+.gh .badge{grid-area:b;margin:0}.gt{grid-area:t;font-size:20px;font-weight:700}.gm{grid-area:m;color:var(--mu);font-size:14px}.gx{grid-area:x;color:var(--mu)}
+.gb{padding:0 14px 14px}.form{background:var(--hl);border-radius:12px;padding:10px 12px}.form b{font-size:17px;color:var(--ac)}
+.gex{display:flex;gap:10px;align-items:flex-start;padding:10px 0;border-top:1px solid var(--bd)}.gex:first-of-type{border-top:0}.gex .pill{flex:none;margin-top:6px}.gex .jp{font-size:20px;line-height:2.1}
+@media (min-width:720px){.thg{grid-template-columns:repeat(3,1fr)}.gt{font-size:22px}.gex .jp{font-size:24px}}

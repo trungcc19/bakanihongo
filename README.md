@@ -76,3 +76,10 @@ Mở link bằng Chrome → menu ⋮ → "Cài đặt ứng dụng" (Install app
   - Có hướng dẫn: nét xám, số và chấm ở điểm bắt đầu mỗi nét.
   - Không hướng dẫn: không có nét mẫu. Viết sai nét, sai chiều hoặc sai thứ tự thì nét nháy đỏ, bị xóa và app báo lý do (ví dụ "Sai thứ tự: đây là nét 2, cần viết nét 1 trước").
 - Khung viết tự co theo chiều cao màn hình để thấy cả thông báo lẫn khung viết trên iPhone nhỏ.
+
+## v8
+- **Chọn chủ đề**: nút thả xuống dạng lưới 2 cột (3 cột trên tablet), không còn cuộn ngang; chip bài học tự xuống dòng.
+- **Nút 🔊**: chỉ phát âm, không đổi chữ/câu hỏi; thẻ học có nút 🔊 riêng, chạm vào thẻ vẫn lật.
+- **Luyện viết**: dữ liệu nét chữ nằm sẵn trong `data/strokes.json` (578 ký tự, tải 1 lần, được service worker cache → dùng offline). Không còn tải từ CDN; nếu lỗi sẽ có nút "Thử lại".
+- **Ngữ pháp**: thẻ gập/mở, ô "Cấu trúc", mỗi mẫu có ≥3 ví dụ, phần ngữ pháp được tô màu/gạch chân bằng cú pháp `{…}`. Nguồn: `src/grammar-v2.txt` → `python3 tools/build_grammar.py`.
+- Dữ liệu nét chữ: KanjiVG © Ulrich Apel, giấy phép CC BY-SA 3.0 (https://kanjivg.tagaini.net). Phần dữ liệu `data/strokes.json` giữ nguyên giấy phép này.
