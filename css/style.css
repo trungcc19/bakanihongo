@@ -98,3 +98,9 @@ ul.pl,ol.pl{margin:8px 0 4px;padding-left:20px;line-height:1.5}ul.pl li,ol.pl li
 .qr{display:flex;justify-content:center;margin:8px auto;padding:10px;background:#fff;border-radius:10px;width:max-content}.qr:empty{display:none}
 pre.sql{white-space:pre-wrap;word-break:break-all;font-size:11px;background:var(--bg);border:1px solid var(--bd);border-radius:8px;padding:8px;margin:6px 0}
 details summary{cursor:pointer;padding:4px 0}
+/* toast notice + forgotten list */
+#toast{position:fixed;left:50%;bottom:84px;transform:translateX(-50%) translateY(20px);max-width:min(92vw,520px);background:var(--tx);color:var(--bg);padding:10px 16px;border-radius:12px;font-size:14px;opacity:0;pointer-events:none;transition:.25s;z-index:50;text-align:center}
+#toast.on{opacity:.95;transform:translateX(-50%)}
+.fgs{display:flex;justify-content:space-around;text-align:center}.fgs b{display:block;font-size:22px}.fgs span{font-size:12px}
+.fgl{margin-top:8px;max-height:50vh;overflow:auto}.fgi{display:flex;justify-content:space-between;gap:8px;padding:8px 0;border-top:1px solid var(--bd)}
+.fgc{margin-top:6px;font-size:13px;color:var(--ac)}

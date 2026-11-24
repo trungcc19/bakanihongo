@@ -147,3 +147,18 @@ Mở link bằng Chrome → menu ⋮ → "Cài đặt ứng dụng" (Install app
   - Máy thứ hai chỉ cần quét mã QR hoặc mở link từ máy thứ nhất.
   - Tự đồng bộ khi mở app, khi rời app và khi có mạng lại.
   - Lộ trình, việc đã làm hôm nay và số thẻ mới đã học hôm nay cũng được đồng bộ.
+
+## v13: "Đã quên" rõ ràng hơn, Kiểm tra từ vựng có 4 dạng câu hỏi
+- **🧠 Đã quên:**
+  - **Từ vào danh sách khi:**
+    - chọn "Quên" ở thẻ đã học;
+    - trả lời sai ở Kiểm tra (Từ vựng, Điền từ, Chia động từ, Nghe);
+    - viết Kanji không đạt ở chế độ Không hướng dẫn;
+    - hoặc tự bấm 🧠 trên mặt sau thẻ.
+  - Mỗi khi có từ vào hoặc ra khỏi danh sách, app hiện thông báo nhỏ ở cuối màn hình.
+  - **Từ ra khỏi danh sách** khi nhớ đúng 3 lần ●●●: lần 1 ngay, lần 2 sau ít nhất 1 giờ, lần 3 sau ít nhất 1 ngày. Sai thì quay về ○○○. Trả lời đúng ở thẻ hoặc ở Kiểm tra đều được tính.
+  - Chế độ 🧠 chỉ đưa ra các từ đã hết thời gian chờ. Phía trên có số từ sẵn sàng, đang chờ (kèm thời gian còn lại), số từ đã thuộc lại trong 7 ngày, phần "Cách hoạt động", và danh sách đầy đủ có nút ✓ Bỏ.
+  - Nút trên thẻ hiện (sẵn sàng/tổng). Lộ trình hôm nay có thêm mục ôn từ đã quên.
+- **Kiểm tra → Từ vựng:** mỗi từ có 4 dạng câu hỏi: Từ → Nghĩa, Nghĩa → Từ, Cách đọc (đáp án nhiễu ưu tiên từ có chung Kanji), và 🎧 Nghe → Nghĩa. Có thể trộn hoặc chọn từng dạng.
+- **Con số trong ô chủ đề** (ví dụ "697 từ") là số từ của cấp đang chọn, không phải số câu hỏi. Dưới mỗi bài có dòng cho biết tổng số câu hỏi: Điền từ N5 có 648 từ / khoảng 3200 câu, N4 có 405 từ / khoảng 1000 câu, N3 có 415 từ / khoảng 950 câu.
+- Điền từ chỉ hỏi những từ thuộc cấp đang chọn.
