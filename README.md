@@ -115,3 +115,12 @@ Mở link bằng Chrome → menu ⋮ → "Cài đặt ứng dụng" (Install app
   - Từ vựng: N4 thêm 143 từ (tổng 408), N3 thêm 208 từ (tổng 418), mỗi từ có câu ví dụ.
   - Ngữ pháp: N4 thêm 15 mẫu (tổng 57), N3 thêm 18 mẫu (tổng 54).
   - Nguồn: `src/vocab-n4-b2.txt`, `src/vocab-n3-b2.txt`, `src/grammar-v2.txt`.
+
+## v11: viết cả từ, ẩn nghĩa khi làm bài, Kana đầy đủ
+- **Kiểm tra → Điền từ / Ngữ pháp:** nghĩa của câu chỉ hiện sau khi đã chọn đáp án.
+- **Viết → Từ:** viết cả từ vựng có Kanji (ví dụ 学校, 食べ物), lần lượt từng chữ. App hiện cách đọc romaji và nghĩa của từ. N5 có 540 từ, N4 381 từ, N3 382 từ. Viết xong, app hiện cả từ dạng viết tay và độ chính xác chung. Ở chế độ Xem nét, chạm vào ô chữ để xem nét của chữ đó. N5 chỉ có khoảng 100 Kanji theo chuẩn JLPT (app có 105), nên chế độ này giúp có nhiều bài viết hơn.
+- **Nét chữ:** `data/strokes.json` có thêm 337 chữ (Kanji trong từ vựng, kana đục, kana nhỏ, ー), tổng 1155 chữ, dùng được khi offline.
+- **Kana:** bảng chữ có thêm âm đục (が, ぱ…) và âm ghép (きゃ…). Phần viết Hiragana/Katakana có thêm âm đục.
+- **Kiểm tra → Từ vựng:** đáp án nhiễu được lấy ở cấp gần với từ đang hỏi, cùng loại (động từ/không phải động từ) và không trùng nghĩa.
+- **Phím tắt khi Kiểm tra trên máy tính:** 1–4 để chọn đáp án, Enter để sang câu tiếp.
+- **Kanji N4:** thêm 立, 言, 公, là các chữ có trong danh sách N4 chuẩn nhưng trước đây bị thiếu.

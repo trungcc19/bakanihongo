@@ -79,3 +79,15 @@ button[disabled]{opacity:.4}
 .gn ul{margin:4px 0 0;padding-left:18px}.gn li{margin:3px 0}.gn p{margin:4px 0 0}
 .gs{font-size:11px;color:var(--mu);font-weight:400;margin-left:4px}.gs.ok{color:var(--g)}
 .kw{padding:5px 0;border-bottom:1px solid var(--bd);text-align:left;cursor:pointer}.kw:last-child{border-bottom:0}
+/* word writing: per-character progress boxes + multi-char handwriting answer */
+.wbx{display:flex;gap:6px;justify-content:center;margin-top:6px}
+.wbx span{min-width:34px;height:38px;line-height:38px;font-size:24px;border:1px dashed var(--bd);border-radius:8px;cursor:default}
+.wbx span.cur{border:2px solid var(--ac)}
+.wbx span.ok{color:var(--g);border-color:var(--g)}
+.hwb.hwv{display:flex;flex-wrap:wrap;background:none;border:none;gap:4px;justify-content:center}
+.hwb.hwv .hw{width:64px;height:64px;border:1px dashed var(--bd);border-radius:8px;background:linear-gradient(var(--bd),var(--bd)) center/1px 100% no-repeat,linear-gradient(var(--bd),var(--bd)) center/100% 1px no-repeat}
+.wp .ans:has(.hwv){flex-direction:column;gap:4px}
+.kh{font-size:15px;margin:16px 0 8px;color:var(--mu);font-weight:600}
+.kg.k3{grid-template-columns:repeat(3,1fr)}
+@media (min-width:720px){.kg.k3{grid-template-columns:repeat(9,1fr)}}
+.kb{display:none;font-size:12px;margin:0 0 6px}@media (min-width:720px) and (hover:hover){.kb{display:block}}
