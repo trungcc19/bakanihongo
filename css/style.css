@@ -66,3 +66,16 @@ button[disabled]{opacity:.4}
 .hc div{height:100%;display:flex;flex-direction:column;justify-content:flex-end;align-items:center}
 .hc i{display:block;width:100%;min-height:2px;background:var(--g);border-radius:4px 4px 0 0}
 .hc span{font-size:10px;color:var(--mu);margin-top:2px}
+/* v10: handwriting answer + comparison overlay */
+.wp .ans{display:flex;gap:12px;align-items:center;justify-content:center}
+.hwb{cursor:pointer;border:1px dashed var(--bd);border-radius:10px;background:linear-gradient(var(--bd),var(--bd)) center/1px 100% no-repeat,linear-gradient(var(--bd),var(--bd)) center/100% 1px no-repeat}
+.hw{width:92px;height:92px;display:block}
+.hw .sp{stroke-width:4}
+.hw.w .sp{animation:dr .4s forwards}
+.acc{font-weight:700;font-size:15px}
+#gs.dn .sp{opacity:.45;stroke:var(--g);stroke-width:7;stroke-dashoffset:0;animation:none}
+#gs.dn .nm{display:none!important}
+.gn{margin-top:10px;background:var(--bg);border:1px solid var(--bd);border-radius:12px;padding:8px 12px;font-size:14.5px;line-height:1.55}
+.gn ul{margin:4px 0 0;padding-left:18px}.gn li{margin:3px 0}.gn p{margin:4px 0 0}
+.gs{font-size:11px;color:var(--mu);font-weight:400;margin-left:4px}.gs.ok{color:var(--g)}
+.kw{padding:5px 0;border-bottom:1px solid var(--bd);text-align:left;cursor:pointer}.kw:last-child{border-bottom:0}

@@ -102,3 +102,16 @@ Mở link bằng Chrome → menu ⋮ → "Cài đặt ứng dụng" (Install app
   - Bài đọc: thêm 5 bài cho mỗi cấp.
   - Nét chữ của toàn bộ 625 Kanji đã có trong `data/strokes.json` nên luyện viết được khi offline.
 - Nguồn dữ liệu: `src/kanji-n4.tsv`, `src/kanji-n3.tsv`, `src/vocab-n4.txt`, `src/vocab-n3.txt` (dạng `từ|đọc|en|vi|câu|câu en|câu vi`, tách thành `src/vocab-nX.tsv` và `src/sent-nX.tsv` để nhập bằng `tools/import.mjs`), `src/grammar-v2.txt`, `src/reading-n4n3.json`.
+
+## v10: chấm nét chặt hơn, đáp án viết tay, ngữ pháp chi tiết, thêm dữ liệu
+- **Chấm nét mới:** mỗi nét được so về vị trí trung bình, điểm đầu, điểm cuối, độ dài và hướng đi (chia nét thành 8 đoạn). Nét nguệch ngoạc hoặc chồng vào giữa không còn được chấp nhận. Có 3 mức chấm 🎯 Dễ / Chuẩn / Khó (mặc định Chuẩn). Khi sai, app báo lý do: sai vị trí đầu/cuối, quá dài/ngắn, cong sai chỗ, sai chiều, sai thứ tự.
+- **Đáp án dạng viết tay:** viết xong, app hiện chữ chuẩn theo nét KanjiVG (đúng kiểu chữ dùng để chấm, không phải font máy), vẽ lại theo thứ tự nét, chạm để xem lại. Chữ chuẩn hiện mờ màu xanh dưới nét bạn viết để so sánh. Có điểm **độ chính xác %** cho mỗi chữ, được lưu và đồng bộ. Kanji dưới 60% sẽ vào danh sách 🧠 Đã quên.
+- **Ngữ pháp:**
+  - Mỗi mẫu có thêm mục **💡 Cách dùng**: hoàn cảnh dùng, mức lịch sự, lỗi hay gặp, phân biệt với mẫu giống nó. Nguồn: `src/grammar-notes.txt` (dạng `mẫu|tiếng Việt (các ý cách nhau bằng " • ")|English`).
+  - Có ô tìm kiếm mẫu ngữ pháp.
+  - **Kiểm tra → Ngữ pháp:** chọn phần ngữ pháp điền vào chỗ trống trong câu ví dụ. App ghi lại kết quả từng mẫu (✓đúng/tổng) và cho ra mẫu hay sai nhiều hơn. Nút "Luyện mẫu này" trong từng mẫu.
+- **Thẻ Kanji:** mặt sau liệt kê tối đa 6 từ vựng có chữ đó (ưu tiên cùng cấp).
+- **Dữ liệu thêm:**
+  - Từ vựng: N4 thêm 143 từ (tổng 408), N3 thêm 208 từ (tổng 418), mỗi từ có câu ví dụ.
+  - Ngữ pháp: N4 thêm 15 mẫu (tổng 57), N3 thêm 18 mẫu (tổng 54).
+  - Nguồn: `src/vocab-n4-b2.txt`, `src/vocab-n3-b2.txt`, `src/grammar-v2.txt`.
