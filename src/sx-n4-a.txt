@@ -1,0 +1,176 @@
+準備|旅行[りょこう]の準備[じゅんび]はもうできましたか。|Are you ready for the trip yet?|Bạn chuẩn bị cho chuyến du lịch xong chưa?
+経験|海外[かいがい]で働[はたら]いた経験[けいけん]があります。|I have experience working overseas.|Tôi có kinh nghiệm làm việc ở nước ngoài.
+心配|母[はは]はいつも私[わたし]のことを心配[しんぱい]しています。|My mother always worries about me.|Mẹ lúc nào cũng lo lắng cho tôi.
+特別|今日[きょう]は特別[とくべつ]な日[ひ]なので、ケーキを買[か]いました。|Today is a special day, so I bought a cake.|Hôm nay là ngày đặc biệt nên tôi đã mua bánh.
+習慣|寝[ね]る前[まえ]に本[ほん]を読[よ]むのが習慣[しゅうかん]です。|Reading before bed is my habit.|Đọc sách trước khi ngủ là thói quen của tôi.
+都合|明日[あした]のご都合[つごう]はいかがですか。|How is tomorrow for you?|Ngày mai anh có tiện không ạ?
+研究|兄[あに]は大学[だいがく]でロボットの研究[けんきゅう]をしています。|My older brother does research on robots at university.|Anh tôi nghiên cứu về rô-bốt ở trường đại học.
+研究|この研究[けんきゅう]には五年[ごねん]かかりました。|This research took five years.|Nghiên cứu này mất năm năm.
+届ける|この書類[しょるい]を部長[ぶちょう]に届[とど]けてください。|Please deliver these documents to the manager.|Hãy chuyển tài liệu này cho trưởng phòng.
+届ける|財布[さいふ]を拾[ひろ]ったので、交番[こうばん]に届[とど]けました。|I found a wallet, so I took it to the police box.|Tôi nhặt được ví nên đã mang đến đồn cảnh sát.
+比べる|去年[きょねん]と比[くら]べて、今年[ことし]は雪[ゆき]が少[すく]ないです。|Compared with last year, there is little snow this year.|So với năm ngoái, năm nay ít tuyết.
+比べる|二[ふた]つの値段[ねだん]を比[くら]べてから買[か]います。|I'll compare the two prices before buying.|Tôi so sánh giá hai cái rồi mới mua.
+気持ち|朝[あさ]の散歩[さんぽ]は気持[きも]ちがいいです。|A morning walk feels great.|Đi dạo buổi sáng thật dễ chịu.
+気持ち|相手[あいて]の気持[きも]ちを考[かんが]えて話[はな]しましょう。|Let's speak while thinking about the other person's feelings.|Hãy nói chuyện có nghĩ đến cảm xúc của người khác.
+親切|駅[えき]の人[ひと]が親切[しんせつ]に道[みち]を教[おし]えてくれました。|A station worker kindly showed me the way.|Nhân viên nhà ga đã tận tình chỉ đường cho tôi.
+親切|この町[まち]の人[ひと]はみんな親切[しんせつ]です。|Everyone in this town is kind.|Người ở thị trấn này ai cũng tốt bụng.
+続ける|日本語[にほんご]の勉強[べんきょう]を毎日[まいにち]続[つづ]けています。|I keep studying Japanese every day.|Tôi vẫn duy trì việc học tiếng Nhật mỗi ngày.
+趣味|父[ちち]の趣味[しゅみ]は釣[つ]りです。|My father's hobby is fishing.|Sở thích của bố tôi là câu cá.
+興味|弟[おとうと]は車[くるま]にとても興味[きょうみ]を持[も]っています。|My younger brother is very interested in cars.|Em trai tôi rất hứng thú với ô tô.
+予定|来月[らいげつ]、引[ひ]っ越[こ]しをする予定[よてい]です。|I plan to move next month.|Tháng sau tôi dự định chuyển nhà.
+計画|夏休[なつやす]みの旅行[りょこう]の計画[けいかく]を立[た]てました。|I made plans for a summer vacation trip.|Tôi đã lên kế hoạch du lịch kỳ nghỉ hè.
+会話|日本人[にほんじん]と会話[かいわ]の練習[れんしゅう]をしています。|I practice conversation with Japanese people.|Tôi luyện hội thoại với người Nhật.
+文化|お茶[ちゃ]は日本[にほん]の大切[たいせつ]な文化[ぶんか]の一[ひと]つです。|Tea is one of Japan's important cultural traditions.|Trà là một nét văn hóa quan trọng của Nhật.
+政治|若[わか]い人[ひと]も政治[せいじ]に関心[かんしん]を持[も]つべきです。|Young people should also be interested in politics.|Người trẻ cũng nên quan tâm đến chính trị.
+科学|科学[かがく]の進歩[しんぽ]で生活[せいかつ]が便利[べんり]になりました。|Progress in science has made life convenient.|Nhờ tiến bộ khoa học, cuộc sống trở nên tiện lợi.
+法律|法律[ほうりつ]を守[まも]らなければなりません。|You have to obey the law.|Phải tuân thủ pháp luật.
+規則|寮[りょう]の規則[きそく]はとても厳[きび]しいです。|The dormitory rules are very strict.|Nội quy ký túc xá rất nghiêm.
+原因|事故[じこ]の原因[げんいん]はまだわかりません。|The cause of the accident is still unknown.|Nguyên nhân vụ tai nạn vẫn chưa rõ.
+理由|日本語[にほんご]を勉強[べんきょう]している理由[りゆう]は何[なん]ですか。|What is your reason for studying Japanese?|Lý do bạn học tiếng Nhật là gì?
+意味|この文[ぶん]の意味[いみ]がよくわかりません。|I don't quite understand the meaning of this sentence.|Tôi không hiểu rõ ý nghĩa câu này.
+方法|もっと簡単[かんたん]な方法[ほうほう]はありませんか。|Isn't there an easier method?|Không có cách nào đơn giản hơn sao?
+相談|困[こま]った時[とき]は先生[せんせい]に相談[そうだん]します。|When I'm in trouble, I consult my teacher.|Khi gặp khó khăn tôi hỏi ý kiến thầy.
+返事|メールの返事[へんじ]がまだ来[き]ません。|I still haven't received a reply to my email.|Vẫn chưa có hồi âm email.
+招待|誕生日[たんじょうび]パーティーに友達[ともだち]を十人[じゅうにん]招待[しょうたい]しました。|I invited ten friends to my birthday party.|Tôi đã mời mười người bạn đến tiệc sinh nhật.
+紹介|新[あたら]しい先生[せんせい]を紹介[しょうかい]します。|Let me introduce our new teacher.|Tôi xin giới thiệu thầy giáo mới.
+案内|京都[きょうと]を案内[あんない]してもらいました。|Someone showed me around Kyoto.|Tôi được người ta dẫn đi tham quan Kyoto.
+注意|車[くるま]に注意[ちゅうい]して道[みち]を渡[わた]ってください。|Watch out for cars when crossing the road.|Hãy chú ý xe khi qua đường.
+遠慮|ここではたばこはご遠慮[えんりょ]ください。|Please refrain from smoking here.|Xin vui lòng không hút thuốc ở đây.
+失敗|一度[いちど]失敗[しっぱい]しても、諦[あきら]めないでください。|Even if you fail once, don't give up.|Dù thất bại một lần cũng đừng bỏ cuộc.
+成功|みんなのおかげで、パーティーは成功[せいこう]しました。|Thanks to everyone, the party was a success.|Nhờ mọi người mà bữa tiệc đã thành công.
+水泳|水泳[すいえい]は体[からだ]にいいです。|Swimming is good for your health.|Bơi lội tốt cho sức khỏe.
+季節|一番[いちばん]好[す]きな季節[きせつ]は春[はる]です。|My favorite season is spring.|Mùa tôi thích nhất là mùa xuân.
+警察|財布[さいふ]を盗[ぬす]まれたので、警察[けいさつ]に電話[でんわ]しました。|My wallet was stolen, so I called the police.|Bị trộm ví nên tôi đã gọi cảnh sát.
+泥棒|昨夜[ゆうべ]、隣[となり]の家[いえ]に泥棒[どろぼう]が入[はい]りました。|A thief broke into the house next door last night.|Tối qua nhà bên cạnh bị trộm vào.
+交通|この町[まち]は交通[こうつう]が便利[べんり]です。|Transportation in this town is convenient.|Giao thông ở thị trấn này thuận tiện.
+道具|料理[りょうり]の道具[どうぐ]をそろえました。|I got together a set of cooking tools.|Tôi đã sắm đủ dụng cụ nấu ăn.
+機械|この機械[きかい]の使[つか]い方[かた]を教[おし]えてください。|Please teach me how to use this machine.|Hãy chỉ tôi cách dùng máy này.
+技術|日本[にほん]で新[あたら]しい技術[ぎじゅつ]を学[まな]びたいです。|I want to learn new technology in Japan.|Tôi muốn học kỹ thuật mới ở Nhật.
+工場|この工場[こうじょう]では毎日[まいにち]パンを作[つく]っています。|They make bread at this factory every day.|Nhà máy này ngày nào cũng làm bánh mì.
+会場|コンサートの会場[かいじょう]は人[ひと]でいっぱいでした。|The concert venue was packed with people.|Địa điểm buổi hòa nhạc đông nghịt người.
+受付|まず一階[いっかい]の受付[うけつけ]で名前[なまえ]を書[か]いてください。|First, please write your name at the first-floor reception.|Trước tiên hãy ghi tên ở quầy lễ tân tầng một.
+売り場|おもちゃ売[う]り場[ば]はいつも子供[こども]でいっぱいです。|The toy section is always full of children.|Quầy đồ chơi lúc nào cũng đông trẻ em.
+屋上|会社[かいしゃ]の屋上[おくじょう]で昼[ひる]ご飯[はん]を食[た]べました。|I ate lunch on the roof of the office.|Tôi ăn trưa trên sân thượng công ty.
+建物|あの白[しろ]い建物[たてもの]は病院[びょういん]です。|That white building is a hospital.|Tòa nhà màu trắng kia là bệnh viện.
+美術館|日曜日[にちようび]に美術館[びじゅつかん]で絵[え]を見[み]ました。|I looked at paintings at the art museum on Sunday.|Chủ nhật tôi đi xem tranh ở bảo tàng mỹ thuật.
+動物園|動物園[どうぶつえん]でパンダを見[み]ました。|I saw a panda at the zoo.|Tôi đã xem gấu trúc ở sở thú.
+神社|お正月[しょうがつ]に神社[じんじゃ]へお参[まい]りに行[い]きました。|I visited a shrine at New Year.|Dịp Tết tôi đã đi lễ đền.
+湖|湖[みずうみ]のまわりを自転車[じてんしゃ]で走[はし]りました。|I rode a bicycle around the lake.|Tôi đạp xe vòng quanh hồ.
+坂|自転車[じてんしゃ]で急[きゅう]な坂[さか]を下[くだ]りました。|I rode my bicycle down a steep slope.|Tôi đạp xe xuống một con dốc đứng.
+橋|あの橋[はし]は百年[ひゃくねん]前[まえ]に作[つく]られました。|That bridge was built a hundred years ago.|Cây cầu kia được xây từ một trăm năm trước.
+角|その角[かど]に新[あたら]しいパン屋[や]ができました。|A new bakery opened on that corner.|Ở góc đó mới mở một tiệm bánh mì.
+信号|信号[しんごう]が青[あお]になってから渡[わた]りましょう。|Let's cross after the light turns green.|Đợi đèn xanh rồi hãy qua đường.
+駐車場|駐車場[ちゅうしゃじょう]に車[くるま]を止[と]めました。|I parked the car in the parking lot.|Tôi đã đỗ xe ở bãi đỗ.
+空気|山[やま]の空気[くうき]はきれいです。|The mountain air is clean.|Không khí trên núi trong lành.
+気分|音楽[おんがく]を聞[き]くと、気分[きぶん]がよくなります。|Listening to music puts me in a better mood.|Nghe nhạc là tâm trạng tôi khá lên.
+夢|私[わたし]の夢[ゆめ]は日本[にほん]で先生[せんせい]になることです。|My dream is to become a teacher in Japan.|Ước mơ của tôi là trở thành giáo viên ở Nhật.
+生活|一人[ひとり]での生活[せいかつ]は自由[じゆう]ですが、少[すこ]し寂[さび]しいです。|Living alone is free but a little lonely.|Sống một mình thì tự do nhưng hơi cô đơn.
+留学|来年[らいねん]、大阪[おおさか]の大学[だいがく]に留学[りゅうがく]します。|Next year I'll study abroad at a university in Osaka.|Năm sau tôi sẽ du học ở một trường đại học tại Osaka.
+卒業|姉[あね]は去年[きょねん]大学[だいがく]を卒業[そつぎょう]しました。|My older sister graduated from university last year.|Chị tôi đã tốt nghiệp đại học năm ngoái.
+入学|弟[おとうと]は四月[しがつ]に小学校[しょうがっこう]に入学[にゅうがく]しました。|My younger brother entered elementary school in April.|Em trai tôi vào tiểu học hồi tháng 4.
+教育|子供[こども]の教育[きょういく]にはお金[かね]がかかります。|Children's education costs money.|Giáo dục con cái tốn kém.
+先輩|サークルの先輩[せんぱい]にご飯[はん]をおごってもらいました。|A senior in my club treated me to a meal.|Tôi được đàn anh trong câu lạc bộ mời ăn.
+お客さん|今日[きょう]はお客[きゃく]さんが多[おお]くて忙[いそが]しかったです。|There were many customers today and it was busy.|Hôm nay nhiều khách nên bận rộn.
+夫|夫[おっと]は料理[りょうり]がとても上手[じょうず]です。|My husband is very good at cooking.|Chồng tôi nấu ăn rất giỏi.
+妻|妻[つま]と二人[ふたり]で旅行[りょこう]に行[い]きました。|I went on a trip with my wife.|Tôi đi du lịch cùng vợ.
+息子|息子[むすこ]は今年[ことし]から中学生[ちゅうがくせい]です。|My son starts junior high school this year.|Con trai tôi năm nay lên cấp hai.
+娘|娘[むすめ]の誕生日[たんじょうび]にケーキを焼[や]きました。|I baked a cake for my daughter's birthday.|Tôi nướng bánh cho sinh nhật con gái.
+赤ちゃん|赤[あか]ちゃんがよく寝[ね]ています。|The baby is sleeping soundly.|Em bé đang ngủ ngon.
+恋人|恋人[こいびと]と一緒[いっしょ]に花火[はなび]を見[み]ました。|I watched fireworks with my girlfriend.|Tôi đã xem pháo hoa cùng người yêu.
+お土産|京都[きょうと]のお土産[みやげ]にお菓子[かし]を買[か]いました。|I bought sweets as a souvenir from Kyoto.|Tôi mua bánh kẹo làm quà lưu niệm từ Kyoto.
+お見舞い|お見舞[みま]いに花[はな]を持[も]って行[い]きました。|I took flowers when visiting the sick person.|Tôi mang hoa đi thăm người ốm.
+退院|祖父[そふ]は来週[らいしゅう]退院[たいいん]できるそうです。|I hear my grandfather can leave the hospital next week.|Nghe nói tuần sau ông tôi được xuất viện.
+怪我|事故[じこ]で怪我[けが]をした人[ひと]はいませんでした。|Nobody was hurt in the accident.|Không có ai bị thương trong vụ tai nạn.
+具合|お母[かあ]さんの具合[ぐあい]はいかがですか。|How is your mother feeling?|Sức khỏe của mẹ bạn thế nào rồi?
+食料品|食料品[しょくりょうひん]は地下[ちか]一階[いっかい]で売[う]っています。|Groceries are sold on the first basement floor.|Thực phẩm được bán ở tầng hầm một.
+材料|ケーキの材料[ざいりょう]を買[か]いに行[い]きます。|I'm going to buy ingredients for a cake.|Tôi đi mua nguyên liệu làm bánh.
+匂い|雨[あめ]の後[あと]は土[つち]の匂[にお]いがします。|After rain, there's a smell of earth.|Sau mưa có mùi đất.
+景気|最近[さいきん]、景気[けいき]がよくなってきました。|The economy has been improving recently.|Gần đây tình hình kinh tế đã khá lên.
+給料|給料[きゅうりょう]が上[あ]がったら、新[あたら]しい車[くるま]を買[か]います。|When my salary goes up, I'll buy a new car.|Khi được tăng lương tôi sẽ mua ô tô mới.
+集める|弟[おとうと]は外国[がいこく]の切手[きって]を集[あつ]めています。|My younger brother collects foreign stamps.|Em trai tôi sưu tập tem nước ngoài.
+集まる|九時[くじ]に駅前[えきまえ]に集[あつ]まってください。|Please gather in front of the station at nine.|Chín giờ hãy tập trung trước ga.
+片付ける|遊[あそ]んだ後[あと]は、おもちゃを片付[かたづ]けなさい。|Put your toys away after playing.|Chơi xong thì dọn đồ chơi đi.
+調べる|わからないことはインターネットで調[しら]べます。|I look up things I don't know on the internet.|Điều gì không biết tôi tra trên mạng.
+決める|来年[らいねん]日本[にほん]へ行[い]くことに決[き]めました。|I decided to go to Japan next year.|Tôi đã quyết định năm sau đi Nhật.
+変える|髪型[かみがた]を変[か]えたら、気分[きぶん]も変[か]わりました。|When I changed my hairstyle, my mood changed too.|Đổi kiểu tóc xong tâm trạng cũng thay đổi.
+変わる|この町[まち]は十年[じゅうねん]で大[おお]きく変[か]わりました。|This town has changed a lot in ten years.|Thị trấn này đã thay đổi nhiều trong mười năm.
+減る|最近[さいきん]、子供[こども]の数[かず]が減[へ]っています。|The number of children has been decreasing lately.|Gần đây số trẻ em đang giảm.
+上がる|来月[らいげつ]から電車[でんしゃ]の料金[りょうきん]が上[あ]がります。|Train fares go up from next month.|Từ tháng sau giá vé tàu sẽ tăng.
+下がる|夜[よる]になって、気温[きおん]が下[さ]がりました。|The temperature dropped at night.|Về đêm nhiệt độ đã giảm.
+拾う|道[みち]で千[せん]円[えん]を拾[ひろ]いました。|I picked up a thousand yen on the street.|Tôi nhặt được một nghìn yên ngoài đường.
+捨てる|ごみは決[き]められた日[ひ]に捨[す]ててください。|Please throw out garbage on the designated days.|Hãy vứt rác vào đúng ngày quy định.
+壊す|おもちゃを壊[こわ]したのは誰[だれ]ですか。|Who broke the toy?|Ai đã làm hỏng đồ chơi?
+割れる|地震[じしん]で窓[まど]ガラスが割[わ]れました。|The window glass broke in the earthquake.|Kính cửa sổ bị vỡ vì động đất.
+治る|薬[くすり]を飲[の]んだら、風邪[かぜ]がすぐ治[なお]りました。|My cold got better soon after I took medicine.|Uống thuốc xong là khỏi cảm ngay.
+頑張る|明日[あした]の試合[しあい]、頑張[がんば]ってください。|Good luck in tomorrow's match.|Trận đấu ngày mai cố gắng lên nhé.
+似る|娘[むすめ]は母親[ははおや]によく似[に]ています。|My daughter looks a lot like her mother.|Con gái tôi rất giống mẹ.
+似合う|その帽子[ぼうし]、よく似合[にあ]っていますね。|That hat really suits you.|Cái mũ đó hợp với bạn lắm.
+運ぶ|引[ひ]っ越[こ]しの日[ひ]、友達[ともだち]が荷物[にもつ]を運[はこ]んでくれました。|On moving day, my friends carried my things.|Hôm chuyển nhà bạn bè đã khiêng đồ giúp tôi.
+動く|時計[とけい]が止[と]まって、動[うご]きません。|The clock has stopped and won't move.|Đồng hồ đã dừng, không chạy nữa.
+動く|電車[でんしゃ]が動[うご]き出[だ]しました。|The train started moving.|Tàu đã bắt đầu chạy.
+続く|雨[あめ]の日[ひ]が一週間[いっしゅうかん]続[つづ]いています。|Rainy days have continued for a week.|Trời mưa liên tục đã một tuần.
+迎える|空港[くうこう]まで友達[ともだち]を迎[むか]えに行[い]きます。|I'm going to the airport to pick up a friend.|Tôi ra sân bay đón bạn.
+謝る|悪[わる]いことをしたら、すぐ謝[あやま]りましょう。|If you do something wrong, apologize right away.|Làm sai thì hãy xin lỗi ngay.
+叱る|宿題[しゅくだい]を忘[わす]れて、先生[せんせい]に叱[しか]られました。|I forgot my homework and was scolded by the teacher.|Quên bài tập nên tôi bị thầy mắng.
+怒る|約束[やくそく]を忘[わす]れて、友達[ともだち]が怒[おこ]りました。|I forgot our promise and my friend got angry.|Quên lời hẹn nên bạn tôi đã giận.
+喜ぶ|プレゼントをあげたら、母[はは]はとても喜[よろこ]びました。|My mother was very happy when I gave her a present.|Tặng quà xong mẹ tôi rất vui.
+驚く|試験[しけん]の結果[けっか]を見[み]て驚[おどろ]きました。|I was surprised when I saw the exam results.|Xem kết quả thi tôi đã ngạc nhiên.
+眠る|赤[あか]ちゃんはお母[かあ]さんの腕[うで]の中[なか]で眠[ねむ]っています。|The baby is sleeping in its mother's arms.|Em bé đang ngủ trong vòng tay mẹ.
+眠る|疲[つか]れていたので、電車[でんしゃ]の中[なか]で眠[ねむ]ってしまいました。|I was tired, so I fell asleep on the train.|Mệt quá nên tôi đã ngủ thiếp trên tàu.
+育てる|ベランダでトマトを育[そだ]てています。|I'm growing tomatoes on the balcony.|Tôi đang trồng cà chua ở ban công.
+植える|庭[にわ]に桜[さくら]の木[き]を植[う]えました。|I planted a cherry tree in the garden.|Tôi đã trồng cây anh đào trong vườn.
+焼く|日曜日[にちようび]にパンを焼[や]きました。|I baked bread on Sunday.|Chủ nhật tôi đã nướng bánh mì.
+沸かす|お湯[ゆ]を沸[わ]かして、お茶[ちゃ]を入[い]れます。|I'll boil water and make tea.|Tôi đun nước rồi pha trà.
+冷える|夜[よる]は冷[ひ]えるので、上着[うわぎ]を持[も]って行[い]きます。|It gets cold at night, so I'll take a jacket.|Ban đêm trời lạnh nên tôi mang theo áo khoác.
+包む|残[のこ]った料理[りょうり]を紙[かみ]に包[つつ]んで持[も]って帰[かえ]りました。|I wrapped up the leftover food in paper and took it home.|Tôi gói đồ ăn thừa vào giấy mang về.
+飾る|玄関[げんかん]に家族[かぞく]の写真[しゃしん]を飾[かざ]っています。|Family photos are displayed in the entrance hall.|Ở lối vào tôi treo ảnh gia đình.
+踊る|音楽[おんがく]が始[はじ]まると、みんな踊[おど]り出[だ]しました。|When the music started, everyone began to dance.|Nhạc vừa nổi lên là mọi người bắt đầu nhảy.
+投げる|子供[こども]が公園[こうえん]でボールを投[な]げています。|A child is throwing a ball in the park.|Đứa trẻ đang ném bóng trong công viên.
+勝つ|昨日[きのう]の試合[しあい]はうちのチームが勝[か]ちました。|Our team won yesterday's match.|Trận hôm qua đội chúng tôi đã thắng.
+負ける|一点[いってん]差[さ]で負[ま]けてしまいました。|We lost by one point.|Chúng tôi đã thua một điểm.
+通る|毎朝[まいあさ]この公園[こうえん]を通[とお]って駅[えき]へ行[い]きます。|Every morning I go through this park to the station.|Sáng nào tôi cũng đi qua công viên này ra ga.
+通る|大学[だいがく]の試験[しけん]に通[とお]りました。|I passed the university exam.|Tôi đã đỗ kỳ thi đại học.
+戻る|席[せき]に戻[もど]って、仕事[しごと]を続[つづ]けました。|I went back to my seat and continued working.|Tôi quay về chỗ ngồi và tiếp tục làm việc.
+戻る|部長[ぶちょう]は三時[さんじ]に戻[もど]ります。|The manager will be back at three.|Trưởng phòng ba giờ sẽ quay lại.
+乗り換える|次[つぎ]の駅[えき]で地下鉄[ちかてつ]に乗[の]り換[か]えます。|I'll transfer to the subway at the next station.|Ở ga sau tôi sẽ chuyển sang tàu điện ngầm.
+見つける|やっといいアパートを見[み]つけました。|I finally found a good apartment.|Cuối cùng tôi đã tìm được căn hộ tốt.
+見つかる|仕事[しごと]がなかなか見[み]つかりません。|I just can't find a job.|Mãi mà không tìm được việc.
+無くす|大切[たいせつ]な指輪[ゆびわ]を無[な]くしてしまいました。|I lost an important ring.|Tôi đã làm mất chiếc nhẫn quý.
+亡くなる|有名[ゆうめい]な作家[さっか]が亡[な]くなりました。|A famous writer has passed away.|Một nhà văn nổi tiếng đã qua đời.
+生きる|祖母[そぼ]は百歳[ひゃくさい]まで生[い]きました。|My grandmother lived to a hundred.|Bà tôi đã sống đến một trăm tuổi.
+足りる|椅子[いす]が二[ふた]つ足[た]りません。|We're two chairs short.|Còn thiếu hai cái ghế.
+過ぎる|約束[やくそく]の時間[じかん]がもう過[す]ぎています。|The appointed time has already passed.|Đã quá giờ hẹn rồi.
+吹く|強[つよ]い風[かぜ]が吹[ふ]いています。|A strong wind is blowing.|Gió mạnh đang thổi.
+揺れる|地震[じしん]で家[いえ]が大[おお]きく揺[ゆ]れました。|The house shook hard in the earthquake.|Nhà rung lắc mạnh vì động đất.
+倒れる|暑[あつ]さで駅[えき]の前[まえ]で人[ひと]が倒[たお]れました。|Someone collapsed in front of the station from the heat.|Có người ngất xỉu trước ga vì nóng.
+滑る|雪[ゆき]の道[みち]で滑[すべ]って転[ころ]びました。|I slipped and fell on the snowy road.|Tôi trượt chân ngã trên đường tuyết.
+汚れる|料理[りょうり]をしたら、エプロンが汚[よご]れました。|My apron got dirty when I cooked.|Nấu ăn xong tạp dề bị bẩn.
+乾く|雨[あめ]の後[あと]、道[みち]がなかなか乾[かわ]きません。|After the rain, the road just won't dry.|Sau mưa đường mãi không khô.
+思い出す|この歌[うた]を聞[き]くと、子供[こども]の頃[ころ]を思[おも]い出[だ]します。|When I hear this song, I remember my childhood.|Nghe bài hát này tôi lại nhớ hồi nhỏ.
+伝える|田中[たなか]さんに「明日[あした]は休[やす]みです」と伝[つた]えてください。|Please tell Mr. Tanaka that tomorrow is a day off.|Hãy nhắn với anh Tanaka là ngày mai được nghỉ.
+訪ねる|久[ひさ]しぶりに故郷[ふるさと]の友達[ともだち]を訪[たず]ねました。|I visited a friend in my hometown for the first time in a long while.|Lâu lắm rồi tôi mới về thăm bạn ở quê.
+いらっしゃる|明日[あした]、社長[しゃちょう]がいらっしゃる予定[よてい]です。|The company president is scheduled to come tomorrow.|Ngày mai giám đốc dự kiến sẽ đến.
+いらっしゃる|先生[せんせい]が教室[きょうしつ]にいらっしゃる時[とき]は静[しず]かにしましょう。|Let's be quiet when the teacher is in the classroom.|Khi thầy ở trong lớp, chúng ta hãy giữ yên lặng.
+おっしゃる|先生[せんせい]のおっしゃる通[とお]りです。|It's just as you say, sir.|Đúng như thầy nói ạ.
+おっしゃる|部長[ぶちょう]のおっしゃることはよくわかります。|I understand well what the manager is saying.|Tôi hiểu rõ điều trưởng phòng nói.
+召し上がる|先生[せんせい]は何[なに]を召[め]し上[あ]がりますか。|What would you like to eat, sir?|Thầy dùng món gì ạ?
+申す|私[わたし]はグエンと申[もう]します。|My name is Nguyen.|Tôi tên là Nguyễn.
+拝見する|皆様[みなさま]のお写真[しゃしん]を拝見[はいけん]するのを楽[たの]しみにしています。|I'm looking forward to seeing everyone's photos.|Tôi rất mong được xem ảnh của mọi người.
+珍しい|彼[かれ]が遅刻[ちこく]するなんて珍[めずら]しいですね。|It's unusual for him to be late.|Anh ấy mà đi muộn thì hiếm thấy nhỉ.
+厳しい|父[ちち]は時間[じかん]にとても厳[きび]しいです。|My father is very strict about time.|Bố tôi rất nghiêm khắc về giờ giấc.
+寂しい|友達[ともだち]が国[くに]へ帰[かえ]って、寂[さび]しくなりました。|My friend went back to their country and I feel lonely.|Bạn tôi về nước nên tôi thấy buồn.
+恥ずかしい|名前[なまえ]を間違[まちが]えて、恥[は]ずかしかったです。|I got someone's name wrong and was embarrassed.|Nhầm tên người ta nên tôi rất xấu hổ.
+苦い|ブラックコーヒーは苦[にが]くて飲[の]めません。|Black coffee is too bitter for me to drink.|Cà phê đen đắng quá tôi không uống được.
+柔らかい|このパンは柔[やわ]らかくて美味[おい]しいです。|This bread is soft and tasty.|Bánh mì này mềm và ngon.
+硬い|このお肉[にく]は少[すこ]し硬[かた]いです。|This meat is a little tough.|Miếng thịt này hơi cứng.
+深い|この話[はなし]には深[ふか]い意味[いみ]があります。|This story has a deep meaning.|Câu chuyện này có ý nghĩa sâu sắc.
+浅い|子供[こども]は浅[あさ]いプールで遊[あそ]んでいます。|The children are playing in the shallow pool.|Bọn trẻ đang chơi ở hồ bơi nông.
+細かい|説明[せつめい]が細[こま]かくて、よくわかりました。|The explanation was detailed, so I understood it well.|Giải thích chi tiết nên tôi hiểu rõ.
+酷い|彼[かれ]は酷[ひど]い風邪[かぜ]をひいて、一週間[いっしゅうかん]休[やす]みました。|He caught a terrible cold and was off for a week.|Anh ấy bị cảm nặng nên nghỉ một tuần.
+素晴らしい|山[やま]の上[うえ]から見[み]た景色[けしき]は素晴[すば]らしかったです。|The view from the mountaintop was wonderful.|Cảnh nhìn từ đỉnh núi thật tuyệt vời.
+美しい|秋[あき]の京都[きょうと]はとても美[うつく]しいです。|Kyoto in autumn is very beautiful.|Kyoto mùa thu rất đẹp.
+必要|ビザの申請[しんせい]に写真[しゃしん]が二枚[にまい]必要[ひつよう]です。|Two photos are needed for the visa application.|Xin visa cần hai tấm ảnh.
+安全|子供[こども]が安全[あんぜん]に遊[あそ]べる公園[こうえん]です。|It's a park where children can play safely.|Đây là công viên trẻ em có thể chơi an toàn.
+危険|この川[かわ]で泳[およ]ぐのは危険[きけん]です。|It's dangerous to swim in this river.|Bơi ở con sông này rất nguy hiểm.
+自由|休[やす]みの日[ひ]は自由[じゆう]に過[す]ごしたいです。|I want to spend my days off freely.|Ngày nghỉ tôi muốn sống tự do thoải mái.
+丁寧|先生[せんせい]は丁寧[ていねい]に説明[せつめい]してくれました。|The teacher explained carefully.|Thầy đã giải thích rất cẩn thận.

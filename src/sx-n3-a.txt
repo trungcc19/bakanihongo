@@ -1,0 +1,186 @@
+目的|今回[こんかい]の旅行[りょこう]の目的[もくてき]は温泉[おんせん]に入[はい]ることです。|The purpose of this trip is to enjoy the hot springs.|Mục đích chuyến đi lần này là tắm suối nước nóng.
+状況|現在[げんざい]の状況[じょうきょう]を詳[くわ]しく説明[せつめい]してください。|Please explain the current situation in detail.|Hãy giải thích chi tiết tình hình hiện tại.
+特徴|この地方[ちほう]の料理[りょうり]は甘[あま]い味[あじ]が特徴[とくちょう]です。|The cuisine of this region is characterized by a sweet taste.|Đặc điểm món ăn vùng này là vị ngọt.
+特徴|犯人[はんにん]の特徴[とくちょう]を教[おし]えてください。|Please describe the culprit's features.|Hãy cho biết đặc điểm của thủ phạm.
+経済|経済[けいざい]が悪[わる]くなって、仕事[しごと]を探[さが]す人[ひと]が増[ふ]えました。|The economy got worse and more people are looking for work.|Kinh tế đi xuống nên số người tìm việc tăng lên.
+社会|大学[だいがく]を出[で]て、社会[しゃかい]に出[で]るのが少[すこ]し不安[ふあん]です。|I'm a bit anxious about leaving university and going out into society.|Ra trường bước vào xã hội tôi thấy hơi lo.
+社会|高齢化[こうれいか]は日本[にほん]の大[おお]きな社会[しゃかい]問題[もんだい]です。|The aging population is a big social issue in Japan.|Già hóa dân số là vấn đề xã hội lớn của Nhật.
+以前|以前[いぜん]、この辺[へん]に大[おお]きな本屋[ほんや]がありました。|There used to be a big bookstore around here.|Trước đây quanh đây có một hiệu sách lớn.
+条件|給料[きゅうりょう]より働[はたら]く条件[じょうけん]を大切[たいせつ]にしています。|I care more about working conditions than salary.|Tôi coi trọng điều kiện làm việc hơn tiền lương.
+条件|この仕事[しごと]は日本語[にほんご]ができることが条件[じょうけん]です。|Being able to speak Japanese is a requirement for this job.|Công việc này có điều kiện là phải biết tiếng Nhật.
+解決|みんなで話[はな]し合[あ]って、問題[もんだい]を解決[かいけつ]しました。|We talked it over together and solved the problem.|Mọi người cùng bàn bạc và đã giải quyết được vấn đề.
+確認|出発[しゅっぱつ]の時間[じかん]をもう一度[いちど]確認[かくにん]します。|I'll confirm the departure time once more.|Tôi sẽ xác nhận lại giờ xuất phát một lần nữa.
+比較|二[ふた]つの会社[かいしゃ]の値段[ねだん]を比較[ひかく]してみました。|I compared the prices of the two companies.|Tôi đã thử so sánh giá của hai công ty.
+印象|日本[にほん]の第一[だいいち]印象[いんしょう]は「きれい」でした。|My first impression of Japan was "clean."|Ấn tượng đầu tiên của tôi về Nhật là "sạch sẽ".
+感情|音楽[おんがく]は人[ひと]の感情[かんじょう]を豊[ゆた]かにします。|Music enriches people's emotions.|Âm nhạc làm phong phú cảm xúc con người.
+想像|十年[じゅうねん]後[ご]の自分[じぶん]を想像[そうぞう]してみてください。|Try to imagine yourself ten years from now.|Hãy thử tưởng tượng bản thân mười năm sau.
+経営|父[ちち]は小[ちい]さなレストランを経営[けいえい]しています。|My father runs a small restaurant.|Bố tôi kinh doanh một nhà hàng nhỏ.
+割引|学生[がくせい]は二割[にわり]の割引[わりびき]があります。|Students get a twenty percent discount.|Học sinh được giảm giá hai mươi phần trăm.
+家賃|駅[えき]に近[ちか]いと、家賃[やちん]が高[たか]くなります。|The closer to the station, the higher the rent.|Gần ga thì tiền thuê nhà sẽ đắt hơn.
+貯金|貯金[ちょきん]が少[すこ]しずつ増[ふ]えてきました。|My savings have been growing little by little.|Tiền tiết kiệm đã tăng dần.
+領収書|会社[かいしゃ]に出[だ]すので、領収書[りょうしゅうしょ]をください。|Please give me a receipt, since I'll submit it to my company.|Cho tôi hóa đơn vì tôi cần nộp cho công ty.
+締め切り|レポートの締[し]め切[き]りは来週[らいしゅう]の月曜日[げつようび]です。|The report deadline is next Monday.|Hạn chót nộp báo cáo là thứ Hai tuần sau.
+記事|新聞[しんぶん]で面白[おもしろ]い記事[きじ]を見[み]つけました。|I found an interesting article in the newspaper.|Tôi tìm thấy một bài báo thú vị.
+番組|この番組[ばんぐみ]は毎週[まいしゅう]見[み]ています。|I watch this program every week.|Chương trình này tuần nào tôi cũng xem.
+情報|この情報[じょうほう]は本当[ほんとう]かどうか、確[たし]かめてください。|Please check whether this information is true.|Hãy xác minh xem thông tin này có đúng không.
+報告|調査[ちょうさ]の結果[けっか]を部長[ぶちょう]に報告[ほうこく]しました。|I reported the survey results to the manager.|Tôi đã báo cáo kết quả điều tra cho trưởng phòng.
+記録|彼[かれ]は百[ひゃく]メートル走[そう]で新[しん]記録[きろく]を出[だ]しました。|He set a new record in the 100-meter dash.|Anh ấy đã lập kỷ lục mới ở nội dung chạy 100 mét.
+出来事|日本[にほん]に来[き]て一番[いちばん]嬉[うれ]しかった出来事[できごと]は何[なん]ですか。|What was the happiest event since you came to Japan?|Chuyện vui nhất từ khi bạn sang Nhật là gì?
+事件|駅前[えきまえ]で事件[じけん]があったそうです。|I heard there was an incident in front of the station.|Nghe nói trước ga đã xảy ra vụ việc.
+被害|台風[たいふう]で農家[のうか]に大[おお]きな被害[ひがい]が出[で]ました。|The typhoon caused heavy damage to farmers.|Bão đã gây thiệt hại lớn cho nông dân.
+責任|この失敗[しっぱい]の責任[せきにん]は私[わたし]にあります。|I am responsible for this failure.|Trách nhiệm về thất bại này thuộc về tôi.
+役割|チームの中[なか]で自分[じぶん]の役割[やくわり]を考[かんが]えましょう。|Let's think about our own role in the team.|Hãy nghĩ về vai trò của mình trong nhóm.
+立場|相手[あいて]の立場[たちば]になって考[かんが]えてみてください。|Try thinking from the other person's position.|Hãy thử đặt mình vào vị trí của người khác.
+才能|彼女[かのじょ]には音楽[おんがく]の才能[さいのう]があります。|She has a talent for music.|Cô ấy có tài năng âm nhạc.
+努力|毎日[まいにち]の努力[どりょく]が大切[たいせつ]です。|Daily effort is important.|Nỗ lực mỗi ngày là điều quan trọng.
+我慢|痛[いた]かったけれど、最後[さいご]まで我慢[がまん]しました。|It hurt, but I endured it until the end.|Đau nhưng tôi đã chịu đựng đến cùng.
+自信|今回[こんかい]の試験[しけん]には自信[じしん]があります。|I'm confident about this exam.|Tôi tự tin với kỳ thi lần này.
+勇気|失敗[しっぱい]を恐[おそ]れない勇気[ゆうき]が大切[たいせつ]です。|The courage not to fear failure is important.|Dũng khí không sợ thất bại là điều quan trọng.
+希望|入院[にゅういん]中[ちゅう]も彼[かれ]は希望[きぼう]を失[うしな]いませんでした。|Even in the hospital, he didn't lose hope.|Ngay cả khi nằm viện anh ấy cũng không mất hy vọng.
+不安|初[はじ]めての一人[ひとり]暮[ぐ]らしは不安[ふあん]でした。|Living alone for the first time made me anxious.|Lần đầu sống một mình tôi thấy bất an.
+緊張|初[はじ]めてのスピーチで、手[て]が震[ふる]えるほど緊張[きんちょう]しました。|At my first speech I was so nervous my hands shook.|Lần đầu phát biểu, tôi hồi hộp đến run tay.
+満足|このホテルのサービスに満足[まんぞく]しています。|I'm satisfied with this hotel's service.|Tôi hài lòng với dịch vụ của khách sạn này.
+感謝|支[ささ]えてくれた家族[かぞく]に感謝[かんしゃ]しています。|I'm grateful to my family for supporting me.|Tôi biết ơn gia đình đã luôn ủng hộ mình.
+尊敬|私[わたし]が一番[いちばん]尊敬[そんけい]している人[ひと]は父[ちち]です。|The person I respect most is my father.|Người tôi kính trọng nhất là bố.
+信用|あの店[みせ]は古[ふる]くから信用[しんよう]があります。|That shop has long been trusted.|Cửa hàng đó có uy tín từ lâu.
+期待|みんなの期待[きたい]に応[こた]えたいです。|I want to live up to everyone's expectations.|Tôi muốn đáp lại kỳ vọng của mọi người.
+資源|紙[かみ]は大切[たいせつ]な資源[しげん]なので、リサイクルしましょう。|Paper is a valuable resource, so let's recycle it.|Giấy là tài nguyên quý nên hãy tái chế.
+気温|明日[あした]は気温[きおん]が三十五度[さんじゅうごど]まで上[あ]がるそうです。|They say the temperature will rise to 35 degrees tomorrow.|Nghe nói ngày mai nhiệt độ lên tới ba mươi lăm độ.
+温度|部屋[へや]の温度[おんど]を二十五度[にじゅうごど]にしてください。|Please set the room temperature to 25 degrees.|Hãy để nhiệt độ phòng ở hai mươi lăm độ.
+湿度|日本[にほん]の夏[なつ]は湿度[しつど]が高[たか]くて蒸[む]し暑[あつ]いです。|Japanese summers are humid and muggy.|Mùa hè ở Nhật độ ẩm cao, nóng oi bức.
+汗|走[はし]ったら、汗[あせ]をたくさんかきました。|I sweated a lot after running.|Chạy xong tôi đổ rất nhiều mồ hôi.
+現れる|待[ま]ち合[あ]わせの時間[じかん]になっても、彼[かれ]は現[あらわ]れませんでした。|Even at the meeting time, he didn't show up.|Đến giờ hẹn mà anh ấy vẫn không xuất hiện.
+含む|この料金[りょうきん]には税金[ぜいきん]が含[ふく]まれています。|This price includes tax.|Giá này đã bao gồm thuế.
+加える|味[あじ]が薄[うす]かったら、塩[しお]を加[くわ]えてください。|If it tastes bland, add salt.|Nếu nhạt thì hãy thêm muối.
+受け取る|昨日[きのう]、荷物[にもつ]を受[う]け取[と]りました。|I received the package yesterday.|Hôm qua tôi đã nhận được bưu kiện.
+取り消す|一度[いちど]言[い]ったことは取[と]り消[け]せません。|You can't take back what you've said.|Lời đã nói ra thì không rút lại được.
+申し込む|日本語[にほんご]能力[のうりょく]試験[しけん]に申[もう]し込[こ]みました。|I applied for the Japanese Language Proficiency Test.|Tôi đã đăng ký kỳ thi năng lực tiếng Nhật.
+断る|彼[かれ]の頼[たの]みを断[ことわ]るのは難[むずか]しかったです。|It was hard to refuse his request.|Từ chối lời nhờ vả của anh ấy thật khó.
+認める|彼[かれ]はやっと自分[じぶん]の間違[まちが]いを認[みと]めました。|He finally admitted his mistake.|Cuối cùng anh ta cũng thừa nhận lỗi của mình.
+求める|多[おお]くの会社[かいしゃ]が経験[けいけん]のある人[ひと]を求[もと]めています。|Many companies are looking for experienced people.|Nhiều công ty đang tìm người có kinh nghiệm.
+悩む|進学[しんがく]するか就職[しゅうしょく]するか悩[なや]んでいます。|I'm torn between going on to further study and getting a job.|Tôi đang băn khoăn nên học tiếp hay đi làm.
+疑う|自分[じぶん]の目[め]を疑[うたが]いました。|I couldn't believe my eyes.|Tôi không tin vào mắt mình.
+信じる|あなたの言葉[ことば]を信[しん]じています。|I believe what you say.|Tôi tin lời bạn nói.
+争う|兄弟[きょうだい]でケーキの大[おお]きい方[ほう]を争[あらそ]いました。|The siblings fought over the bigger piece of cake.|Anh em tranh nhau miếng bánh to hơn.
+戦う|医者[いしゃ]たちは病気[びょうき]と戦[たたか]っています。|Doctors are fighting the disease.|Các bác sĩ đang chiến đấu với bệnh tật.
+守る|約束[やくそく]は必[かなら]ず守[まも]ってください。|Please be sure to keep your promise.|Hãy nhất định giữ lời hứa.
+破る|ルールを破[やぶ]った人[ひと]は試合[しあい]に出[で]られません。|Anyone who breaks the rules can't play in the match.|Ai phạm luật sẽ không được thi đấu.
+離れる|家族[かぞく]と離[はな]れて暮[く]らしています。|I live apart from my family.|Tôi sống xa gia đình.
+外す|部屋[へや]に入[はい]る時[とき]は帽子[ぼうし]を外[はず]してください。|Please take off your hat when you enter the room.|Khi vào phòng hãy bỏ mũ ra.
+外す|すみません、部長[ぶちょう]は今[いま]、席[せき]を外[はず]しています。|Sorry, the manager is away from his desk right now.|Xin lỗi, trưởng phòng hiện không có ở chỗ ngồi.
+外れる|天気[てんき]予報[よほう]が外[はず]れて、雨[あめ]が降[ふ]りました。|The weather forecast was wrong and it rained.|Dự báo thời tiết sai, trời đã mưa.
+越える|国境[こっきょう]を越[こ]えて、隣[となり]の国[くに]へ行[い]きました。|I crossed the border into the neighboring country.|Tôi đã vượt qua biên giới sang nước láng giềng.
+超える|参加者[さんかしゃ]は千人[せんにん]を超[こ]えました。|The number of participants exceeded a thousand.|Số người tham gia đã vượt quá một nghìn.
+通じる|日本語[にほんご]が通[つう]じて、嬉[うれ]しかったです。|I was happy that my Japanese was understood.|Tôi vui vì nói tiếng Nhật người ta hiểu.
+感じる|最近[さいきん]、疲[つか]れを感[かん]じやすいです。|Lately I feel tired easily.|Gần đây tôi dễ cảm thấy mệt.
+混ぜる|小麦粉[こむぎこ]と卵[たまご]をよく混[ま]ぜてください。|Mix the flour and eggs well.|Hãy trộn đều bột mì và trứng.
+溶ける|暑[あつ]さでアイスクリームが溶[と]けてしまいました。|The ice cream melted in the heat.|Kem bị chảy vì nóng.
+燃える|このごみは燃[も]えるごみの日[ひ]に出[だ]してください。|Put this garbage out on burnable trash day.|Hãy bỏ rác này vào ngày rác cháy được.
+冷める|コーヒーが冷[さ]めてしまいました。|The coffee has gone cold.|Cà phê đã nguội mất rồi.
+伸びる|子供[こども]の背[せ]がずいぶん伸[の]びました。|The child has grown quite a bit taller.|Đứa bé đã cao lên nhiều.
+延ばす|出発[しゅっぱつ]を二日[ふつか]延[の]ばすことにしました。|We decided to postpone our departure by two days.|Chúng tôi quyết định hoãn ngày khởi hành thêm hai ngày.
+祝う|みんなで先生[せんせい]の誕生日[たんじょうび]を祝[いわ]いました。|We all celebrated our teacher's birthday.|Mọi người đã cùng chúc mừng sinh nhật thầy.
+稼ぐ|兄[あに]は一生懸命[いっしょうけんめい]働[はたら]いてお金[かね]を稼[かせ]いでいます。|My older brother works hard to earn money.|Anh tôi làm việc chăm chỉ để kiếm tiền.
+預ける|旅行[りょこう]の間[あいだ]、犬[いぬ]を友達[ともだち]に預[あず]けました。|I left my dog with a friend during the trip.|Trong thời gian đi du lịch tôi gửi chó cho bạn.
+預かる|お荷物[にもつ]をお預[あず]かりしましょうか。|Shall I keep your luggage for you?|Để tôi giữ hành lý giúp quý khách nhé?
+貯める|お金[かね]を貯[た]めて、車[くるま]を買[か]いたいです。|I want to save money and buy a car.|Tôi muốn để dành tiền mua ô tô.
+支える|家族[かぞく]が私[わたし]を支[ささ]えてくれました。|My family supported me.|Gia đình đã luôn ủng hộ tôi.
+任せる|料理[りょうり]は母[はは]に任[まか]せて、私[わたし]は掃除[そうじ]をしました。|I left the cooking to my mother and did the cleaning.|Tôi để mẹ nấu ăn còn mình thì dọn dẹp.
+頼る|いつまでも親[おや]に頼[たよ]ってはいけません。|You can't rely on your parents forever.|Không thể dựa dẫm vào bố mẹ mãi được.
+慌てる|慌[あわ]てて家[いえ]を出[で]たので、財布[さいふ]を忘[わす]れました。|I left home in a hurry and forgot my wallet.|Vội vàng ra khỏi nhà nên tôi quên ví.
+諦める|夢[ゆめ]を諦[あきら]めないでください。|Don't give up on your dreams.|Đừng từ bỏ ước mơ.
+目指す|彼[かれ]はプロのサッカー選手[せんしゅ]を目指[めざ]しています。|He is aiming to become a professional soccer player.|Anh ấy đang hướng tới trở thành cầu thủ chuyên nghiệp.
+確かめる|ドアに鍵[かぎ]がかかっているか確[たし]かめました。|I checked whether the door was locked.|Tôi đã kiểm tra xem cửa đã khóa chưa.
+繰り返す|大切[たいせつ]な言葉[ことば]は何度[なんど]も繰[く]り返[かえ]して練習[れんしゅう]します。|I practice important words over and over.|Từ quan trọng thì tôi luyện đi luyện lại nhiều lần.
+間違える|電車[でんしゃ]を間違[まちが]えて、反対[はんたい]の方[ほう]へ行[い]ってしまいました。|I took the wrong train and went in the opposite direction.|Tôi lên nhầm tàu nên đã đi ngược chiều.
+片付く|やっと部屋[へや]が片付[かたづ]きました。|The room is finally tidied up.|Cuối cùng phòng cũng đã dọn xong.
+付き合う|彼[かれ]と付[つ]き合[あ]って、もう三年[さんねん]になります。|It's been three years since I started dating him.|Tôi hẹn hò với anh ấy đã ba năm rồi.
+落ち着く|深呼吸[しんこきゅう]をすると、気持[きも]ちが落[お]ち着[つ]きます。|Taking a deep breath calms me down.|Hít thở sâu là tâm trạng sẽ bình tĩnh lại.
+詳しい|彼[かれ]はパソコンにとても詳[くわ]しいです。|He knows a lot about computers.|Anh ấy rất rành về máy tính.
+激しい|夜中[よなか]に激[はげ]しい雨[あめ]が降[ふ]りました。|There was heavy rain in the middle of the night.|Nửa đêm trời mưa dữ dội.
+貧しい|祖父[そふ]は貧[まず]しい家[いえ]に生[う]まれました。|My grandfather was born into a poor family.|Ông tôi sinh ra trong một gia đình nghèo.
+悔しい|一点[いってん]差[さ]で負[ま]けて、とても悔[くや]しいです。|I'm so frustrated that we lost by one point.|Thua một điểm, thật cay cú.
+怪しい|このメールは怪[あや]しいので、開[あ]けないほうがいいです。|This email looks suspicious, so you'd better not open it.|Email này đáng ngờ, tốt nhất đừng mở.
+賢い|この犬[いぬ]はとても賢[かしこ]くて、言葉[ことば]がわかるようです。|This dog is very smart and seems to understand words.|Con chó này rất thông minh, như hiểu được lời nói.
+幼い|幼[おさな]い頃[ころ]、よくこの公園[こうえん]で遊[あそ]びました。|When I was little, I often played in this park.|Hồi nhỏ tôi hay chơi ở công viên này.
+親しい|親[した]しい友達[ともだち]だけを結婚式[けっこんしき]に呼[よ]びました。|I invited only close friends to the wedding.|Tôi chỉ mời bạn thân đến đám cưới.
+恐ろしい|昨夜[ゆうべ]、恐[おそ]ろしい夢[ゆめ]を見[み]ました。|I had a terrifying dream last night.|Tối qua tôi đã gặp một giấc mơ đáng sợ.
+騒がしい|駅前[えきまえ]は夜[よる]遅[おそ]くまで騒[さわ]がしいです。|The area in front of the station is noisy until late at night.|Trước ga ồn ào đến tận khuya.
+重要|これは重要[じゅうよう]な書類[しょるい]なので、なくさないでください。|This is an important document, so don't lose it.|Đây là tài liệu quan trọng, đừng làm mất.
+確実|この方法[ほうほう]なら、確実[かくじつ]に間[ま]に合[あ]います。|With this method, we'll definitely make it in time.|Cách này thì chắc chắn sẽ kịp.
+正確|時間[じかん]を正確[せいかく]に測[はか]ってください。|Please measure the time accurately.|Hãy đo thời gian thật chính xác.
+平気|少[すこ]しぐらい寒[さむ]くても平気[へいき]です。|I don't mind a little cold.|Lạnh một chút cũng không sao.
+新鮮|この店[みせ]の魚[さかな]はいつも新鮮[しんせん]です。|The fish at this shop is always fresh.|Cá ở cửa hàng này lúc nào cũng tươi.
+素直|子供[こども]は素直[すなお]に「ごめんなさい」と言[い]いました。|The child honestly said, "I'm sorry."|Đứa trẻ ngoan ngoãn nói "Con xin lỗi".
+正直|正直[しょうじき]に話[はな]してくれて、ありがとう。|Thank you for telling me honestly.|Cảm ơn vì đã nói thật với tôi.
+意外|彼[かれ]が料理[りょうり]が上手[じょうず]なのは意外[いがい]でした。|It was unexpected that he's good at cooking.|Thật bất ngờ là anh ấy nấu ăn giỏi.
+当然|約束[やくそく]を守[まも]るのは当然[とうぜん]のことです。|Keeping promises is a matter of course.|Giữ lời hứa là điều đương nhiên.
+面倒|毎日[まいにち]料理[りょうり]するのは面倒[めんどう]です。|Cooking every day is a hassle.|Ngày nào cũng nấu ăn thật phiền phức.
+贅沢|たまには贅沢[ぜいたく]な食事[しょくじ]をしたいです。|I want to have a luxurious meal once in a while.|Thỉnh thoảng tôi muốn ăn một bữa xa xỉ.
+地味|面接[めんせつ]には地味[じみ]な色[いろ]の服[ふく]を着[き]て行[い]きます。|I'll wear plain-colored clothes to the interview.|Đi phỏng vấn tôi mặc quần áo màu giản dị.
+派手|彼女[かのじょ]はいつも派手[はで]な服[ふく]を着[き]ています。|She always wears flashy clothes.|Cô ấy lúc nào cũng mặc đồ sặc sỡ.
+確かに|確[たし]かに、この店[みせ]のラーメンは美味[おい]しいですね。|You're right, the ramen at this shop is delicious.|Đúng là mì ramen quán này ngon thật.
+次第に|夜[よる]になると、次第[しだい]に寒[さむ]くなってきました。|As night fell, it gradually got colder.|Về đêm trời dần dần lạnh hơn.
+相変わらず|この店[みせ]は相変[あいか]わらず人気[にんき]があります。|This shop is as popular as ever.|Cửa hàng này vẫn đông khách như mọi khi.
+いきなり|知[し]らない人[ひと]がいきなり話[はな]しかけてきました。|A stranger suddenly started talking to me.|Một người lạ đột ngột bắt chuyện với tôi.
+偶然|駅[えき]で偶然[ぐうぜん]、昔[むかし]の友達[ともだち]に会[あ]いました。|I ran into an old friend at the station by chance.|Tôi tình cờ gặp lại bạn cũ ở ga.
+うっかり|うっかり電車[でんしゃ]に傘[かさ]を忘[わす]れてしまいました。|I carelessly left my umbrella on the train.|Tôi sơ ý để quên ô trên tàu.
+はっきり|自分[じぶん]の意見[いけん]をはっきり言[い]ったほうがいいです。|You should state your opinion clearly.|Nên nói rõ ý kiến của mình.
+すっかり|病気[びょうき]はすっかり良[よ]くなりました。|I've completely recovered from my illness.|Bệnh của tôi đã khỏi hẳn.
+ようやく|長[なが]い冬[ふゆ]が終[お]わって、ようやく春[はる]が来[き]ました。|The long winter is over and spring has finally come.|Mùa đông dài qua đi, cuối cùng mùa xuân đã đến.
+さらに|来年[らいねん]から税金[ぜいきん]がさらに上[あ]がるそうです。|They say taxes will rise even more from next year.|Nghe nói từ năm sau thuế còn tăng hơn nữa.
+ますます|日本語[にほんご]の勉強[べんきょう]がますます楽[たの]しくなりました。|Studying Japanese has become more and more fun.|Việc học tiếng Nhật ngày càng thú vị.
+結構|この映画[えいが]は結構[けっこう]面白[おもしろ]かったです。|This movie was pretty interesting.|Bộ phim này khá hay.
+せっかく|せっかく作[つく]ったのに、誰[だれ]も食[た]べてくれませんでした。|I went to all the trouble of making it, but nobody ate it.|Mất công nấu mà chẳng ai ăn.
+一応|一応[いちおう]、明日[あした]の予定[よてい]を確認[かくにん]しておきます。|I'll double-check tomorrow's schedule just in case.|Cho chắc tôi sẽ kiểm tra lại lịch ngày mai.
+まるで|彼[かれ]の日本語[にほんご]はまるで日本人[にほんじん]のようです。|His Japanese is just like a native speaker's.|Tiếng Nhật của anh ấy cứ như người Nhật.
+まさか|まさか彼[かれ]が会社[かいしゃ]を辞[や]めるとは思[おも]いませんでした。|I never imagined he would quit the company.|Không ngờ anh ấy lại nghỉ việc.
+たとえ|たとえ失敗[しっぱい]しても、後悔[こうかい]はしません。|Even if I fail, I won't regret it.|Cho dù thất bại tôi cũng không hối hận.
+いったい|いったい誰[だれ]がこんなことをしたんですか。|Who on earth did this?|Rốt cuộc là ai đã làm chuyện này?
+たまたま|たまたま入[はい]った店[みせ]がとても美味[おい]しかったです。|The restaurant I happened to walk into was really good.|Quán tôi tình cờ ghé vào lại rất ngon.
+就職|大学[だいがく]を出[で]て、銀行[ぎんこう]に就職[しゅうしょく]しました。|After university, I got a job at a bank.|Ra trường tôi đã vào làm ở ngân hàng.
+残業|今週[こんしゅう]は毎日[まいにち]残業[ざんぎょう]で、疲[つか]れました。|I worked overtime every day this week and I'm tired.|Tuần này ngày nào cũng làm thêm giờ, mệt quá.
+出張|父[ちち]は出張[しゅっちょう]で一週間[いっしゅうかん]家[いえ]にいません。|My father is away on a business trip for a week.|Bố tôi đi công tác một tuần không ở nhà.
+休暇|休暇[きゅうか]を取[と]って、国[くに]の家族[かぞく]に会[あ]いに行[い]きます。|I'll take time off and go see my family back home.|Tôi sẽ xin nghỉ phép về thăm gia đình ở quê.
+上司|上司[じょうし]に仕事[しごと]のやり方[かた]を相談[そうだん]しました。|I consulted my boss about how to do the work.|Tôi đã hỏi ý kiến cấp trên về cách làm việc.
+部下|部長[ぶちょう]は部下[ぶか]にとても優[やさ]しいです。|The manager is very kind to his subordinates.|Trưởng phòng rất tốt với cấp dưới.
+同僚|仕事[しごと]の後[あと]、同僚[どうりょう]と食事[しょくじ]に行[い]きました。|After work I went out to eat with coworkers.|Sau giờ làm tôi đi ăn với đồng nghiệp.
+取引|あの会社[かいしゃ]とは十年[じゅうねん]以上[いじょう]取引[とりひき]があります。|We've done business with that company for over ten years.|Chúng tôi giao dịch với công ty đó hơn mười năm rồi.
+商品|この商品[しょうひん]は若[わか]い人[ひと]に人気[にんき]があります。|This product is popular with young people.|Sản phẩm này được giới trẻ ưa chuộng.
+製品|日本[にほん]の製品[せいひん]は品質[ひんしつ]がいいと言[い]われています。|Japanese products are said to be of high quality.|Người ta nói sản phẩm Nhật chất lượng tốt.
+輸入|このワインはフランスから輸入[ゆにゅう]されたものです。|This wine was imported from France.|Rượu vang này được nhập khẩu từ Pháp.
+輸出|この工場[こうじょう]の車[くるま]は外国[がいこく]へ輸出[ゆしゅつ]されます。|Cars from this factory are exported abroad.|Ô tô của nhà máy này được xuất khẩu ra nước ngoài.
+都市|東京[とうきょう]は世界[せかい]で一番[いちばん]大[おお]きな都市[とし]の一[ひと]つです。|Tokyo is one of the largest cities in the world.|Tokyo là một trong những đô thị lớn nhất thế giới.
+地域|この地域[ちいき]では毎年[まいとし]夏[なつ]に祭[まつ]りがあります。|There is a festival in this area every summer.|Khu vực này năm nào cũng có lễ hội vào mùa hè.
+国際|将来[しょうらい]、国際[こくさい]的[てき]な仕事[しごと]がしたいです。|In the future I want an international job.|Sau này tôi muốn làm công việc mang tính quốc tế.
+世代|若[わか]い世代[せだい]は新聞[しんぶん]をあまり読[よ]みません。|The younger generation doesn't read newspapers much.|Thế hệ trẻ ít đọc báo giấy.
+伝統|この町[まち]には古[ふる]い伝統[でんとう]が残[のこ]っています。|Old traditions remain in this town.|Thị trấn này vẫn giữ những truyền thống xưa.
+宗教|宗教[しゅうきょう]によって食[た]べられない物[もの]があります。|Depending on religion, there are foods people can't eat.|Tùy tôn giáo mà có những thứ không ăn được.
+戦争|祖父[そふ]は戦争[せんそう]の話[はなし]をよくしてくれました。|My grandfather often told me about the war.|Ông tôi hay kể chuyện chiến tranh.
+選挙|十八歳[じゅうはっさい]になったら、選挙[せんきょ]で投票[とうひょう]できます。|When you turn eighteen, you can vote in elections.|Đủ mười tám tuổi là có thể bỏ phiếu bầu cử.
+制度|会社[かいしゃ]に新[あたら]しい休暇[きゅうか]の制度[せいど]ができました。|The company introduced a new leave system.|Công ty đã có chế độ nghỉ phép mới.
+権利|誰[だれ]でも教育[きょういく]を受[う]ける権利[けんり]があります。|Everyone has the right to an education.|Ai cũng có quyền được giáo dục.
+義務|税金[ぜいきん]を払[はら]うのは国民[こくみん]の義務[ぎむ]です。|Paying taxes is a citizen's duty.|Nộp thuế là nghĩa vụ của công dân.
+道路|雪[ゆき]で道路[どうろ]が通[とお]れなくなりました。|The road became impassable due to snow.|Đường bị tuyết chặn không đi được.
+交差点|次[つぎ]の交差点[こうさてん]を左[ひだり]に曲[ま]がってください。|Please turn left at the next intersection.|Hãy rẽ trái ở ngã tư tiếp theo.
+渋滞|事故[じこ]で高速[こうそく]道路[どうろ]が渋滞[じゅうたい]しています。|The expressway is jammed because of an accident.|Đường cao tốc đang tắc vì tai nạn.
+往復|会社[かいしゃ]までの往復[おうふく]に二時間[にじかん]かかります。|The round trip to work takes two hours.|Đi về công ty mất hai tiếng.
+片道|空港[くうこう]までは片道[かたみち]千[せん]円[えん]です。|It's a thousand yen one way to the airport.|Đến sân bay một chiều là một nghìn yên.
+到着|飛行機[ひこうき]の到着[とうちゃく]が一時間[いちじかん]遅[おく]れました。|The plane's arrival was delayed by an hour.|Máy bay đến muộn một tiếng.
+症状|風邪[かぜ]の症状[しょうじょう]があったら、無理[むり]をしないでください。|If you have cold symptoms, don't push yourself.|Nếu có triệu chứng cảm thì đừng cố quá sức.
+治療|歯[は]の治療[ちりょう]に三[さん]か月[げつ]かかりました。|My dental treatment took three months.|Điều trị răng mất ba tháng.
+手術|祖母[そぼ]の手術[しゅじゅつ]は無事[ぶじ]に終[お]わりました。|My grandmother's operation went well.|Ca phẫu thuật của bà tôi đã thành công.
+栄養|子供[こども]には栄養[えいよう]のある食事[しょくじ]が必要[ひつよう]です。|Children need nutritious meals.|Trẻ em cần những bữa ăn đủ dinh dưỡng.
+体重|毎朝[まいあさ]体重[たいじゅう]を測[はか]っています。|I weigh myself every morning.|Sáng nào tôi cũng cân.
+睡眠|健康[けんこう]のためには十分[じゅうぶん]な睡眠[すいみん]が大切[たいせつ]です。|Enough sleep is important for your health.|Để khỏe mạnh, ngủ đủ giấc rất quan trọng.
+ストレス|ストレスがたまったら、カラオケで歌[うた]います。|When stress builds up, I sing at karaoke.|Khi căng thẳng tôi đi hát karaoke.
+アドバイス|先輩[せんぱい]からいいアドバイスをもらいました。|I got good advice from a senior.|Tôi đã nhận được lời khuyên hay từ đàn anh.
+イメージ|日本[にほん]に来[く]る前[まえ]のイメージとずいぶん違[ちが]いました。|It was quite different from the image I had before coming to Japan.|Khác hẳn với hình dung của tôi trước khi sang Nhật.
+チャンス|これは日本[にほん]で働[はたら]くいいチャンスです。|This is a good chance to work in Japan.|Đây là cơ hội tốt để làm việc ở Nhật.
+ルール|ルールを守[まも]って、楽[たの]しく遊[あそ]びましょう。|Let's follow the rules and have fun.|Hãy tuân thủ luật lệ và chơi vui vẻ.
+意識|事故[じこ]の後[あと]、彼[かれ]はしばらく意識[いしき]がありませんでした。|After the accident, he was unconscious for a while.|Sau tai nạn, anh ấy bất tỉnh một lúc.
+位置|地図[ちず]で駅[えき]の位置[いち]を確認[かくにん]しました。|I checked the station's location on the map.|Tôi đã xác nhận vị trí nhà ga trên bản đồ.
+一般|この施設[しせつ]は一般[いっぱん]の人[ひと]も利用[りよう]できます。|The general public can also use this facility.|Cơ sở này người dân bình thường cũng sử dụng được.
+印刷|プリンターが壊[こわ]れて、印刷[いんさつ]できません。|The printer is broken, so I can't print.|Máy in hỏng nên không in được.
+汚染|川[かわ]の汚染[おせん]が大[おお]きな問題[もんだい]になっています。|River pollution has become a big problem.|Ô nhiễm sông đang trở thành vấn đề lớn.
+演奏|彼[かれ]のピアノの演奏[えんそう]はすばらしかったです。|His piano performance was wonderful.|Màn biểu diễn piano của anh ấy thật tuyệt vời.

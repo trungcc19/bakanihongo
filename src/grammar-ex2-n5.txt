@@ -1,0 +1,159 @@
+〜は〜です|兄[あに]{は}医者[いしゃ]{です}。|My older brother is a doctor.|Anh trai tôi là bác sĩ.
+〜は〜です|今日[きょう]{は}月曜日[げつようび]{です}。|Today is Monday.|Hôm nay là thứ Hai.
+〜は〜です|あそこ{は}郵便局[ゆうびんきょく]{です}。|That over there is the post office.|Chỗ kia là bưu điện.
+〜たいです|新[あたら]しい靴[くつ]を買[か]い{たいです}。|I want to buy new shoes.|Tôi muốn mua giày mới.
+〜たいです|週末[しゅうまつ]はゆっくり寝[ね]{たいです}。|I want to sleep in on the weekend.|Cuối tuần tôi muốn ngủ thật đã.
+〜たいです|将来[しょうらい]、先生[せんせい]になり{たいです}。|In the future I want to become a teacher.|Sau này tôi muốn trở thành giáo viên.
+〜ています|弟[おとうと]は部屋[へや]でゲームをし{ています}。|My younger brother is playing games in his room.|Em trai tôi đang chơi game trong phòng.
+〜ています|雨[あめ]が降[ふ]っ{ています}。|It is raining.|Trời đang mưa.
+〜ています|父[ちち]は銀行[ぎんこう]で働[はたら]い{ています}。|My father works at a bank.|Bố tôi làm việc ở ngân hàng.
+〜ません|私[わたし]はたばこを吸[す]い{ません}。|I don't smoke.|Tôi không hút thuốc.
+〜ません|土曜日[どようび]は会社[かいしゃ]へ行[い]き{ません}。|I don't go to the office on Saturdays.|Thứ Bảy tôi không đi làm.
+〜ません|朝[あさ]はテレビを見[み]{ません}。|I don't watch TV in the morning.|Buổi sáng tôi không xem tivi.
+〜から|時間[じかん]がない{から}、タクシーで行[い]きます。|I have no time, so I'll go by taxi.|Không có thời gian nên tôi đi taxi.
+〜から|明日[あした]は休[やす]みです{から}、遊[あそ]びに行[い]きましょう。|Tomorrow is a holiday, so let's go out and have fun.|Ngày mai được nghỉ nên đi chơi đi.
+〜から|頭[あたま]が痛[いた]い{から}、早[はや]く寝[ね]ます。|I have a headache, so I'll go to bed early.|Đau đầu nên tôi đi ngủ sớm.
+〜が好きです|私[わたし]は夏[なつ]{が好[す]きです}。|I like summer.|Tôi thích mùa hè.
+〜が好きです|父[ちち]はサッカー{が好[す]きです}。|My father likes soccer.|Bố tôi thích bóng đá.
+〜が好きです|子供[こども]たちはアイスクリーム{が好[す]きです}。|Children like ice cream.|Bọn trẻ thích kem.
+〜ましょう|駅[えき]まで歩[ある]き{ましょう}。|Let's walk to the station.|Hãy đi bộ đến ga nào.
+〜ましょう|もう遅[おそ]いですから、帰[かえ]り{ましょう}。|It's late, so let's go home.|Muộn rồi, về thôi.
+〜ましょう|みんなで歌[うた]を歌[うた]い{ましょう}。|Let's all sing a song together.|Mọi người cùng hát nào.
+〜を|毎朝[まいあさ]コーヒー{を}飲[の]みます。|I drink coffee every morning.|Sáng nào tôi cũng uống cà phê.
+〜を|図書館[としょかん]で本[ほん]{を}借[か]りました。|I borrowed a book from the library.|Tôi đã mượn sách ở thư viện.
+〜を|週末[しゅうまつ]に部屋[へや]{を}掃除[そうじ]します。|I clean my room on weekends.|Cuối tuần tôi dọn phòng.
+〜に行きます|デパートへ服[ふく]を買[か]い{に行[い]きます}。|I'm going to the department store to buy clothes.|Tôi đi trung tâm thương mại để mua quần áo.
+〜に行きます|日曜日[にちようび]に海[うみ]へ泳[およ]ぎ{に行[い]きます}。|On Sunday I'm going to the sea to swim.|Chủ nhật tôi đi biển bơi.
+〜に行きます|昼[ひる]ご飯[はん]を食[た]べ{に行[い]きます}。|I'm going to go eat lunch.|Tôi đi ăn trưa.
+〜があります／います|冷蔵庫[れいぞうこ]に牛乳[ぎゅうにゅう]{があります}。|There is milk in the fridge.|Trong tủ lạnh có sữa.
+〜があります／います|教室[きょうしつ]に学生[がくせい]が十人[じゅうにん]{います}。|There are ten students in the classroom.|Trong lớp có mười học sinh.
+〜があります／います|明日[あした]、テスト{があります}。|There is a test tomorrow.|Ngày mai có bài kiểm tra.
+〜でした／〜ました|昨日[きのう]は日曜日[にちようび]{でした}。|Yesterday was Sunday.|Hôm qua là Chủ nhật.
+〜でした／〜ました|週末[しゅうまつ]に友達[ともだち]と会[あ]い{ました}。|I met a friend on the weekend.|Cuối tuần tôi đã gặp bạn.
+〜でした／〜ました|夜[よる]十一時[じゅういちじ]に寝[ね]{ました}。|I went to bed at eleven last night.|Tối qua tôi ngủ lúc mười một giờ.
+〜ない|明日[あした]は雨[あめ]だから、出[で]かけ{ない}。|It'll rain tomorrow, so I won't go out.|Mai trời mưa nên tôi không ra ngoài.
+〜ない|弟[おとうと]は野菜[やさい]を全然[ぜんぜん]食[た]べ{ない}。|My younger brother doesn't eat vegetables at all.|Em trai tôi hoàn toàn không ăn rau.
+〜ない|その話[はなし]は誰[だれ]にも言[い]わ{ない}。|I won't tell anyone about that.|Chuyện đó tôi không nói với ai.
+〜の|これは誰[だれ]{の}傘[かさ]ですか。|Whose umbrella is this?|Đây là ô của ai?
+〜の|私[わたし]は東京[とうきょう]大学[だいがく]{の}学生[がくせい]です。|I'm a student at the University of Tokyo.|Tôi là sinh viên Đại học Tokyo.
+〜の|机[つくえ]の上[うえ]に先生[せんせい]{の}かばんがあります。|The teacher's bag is on the desk.|Trên bàn có cặp của thầy giáo.
+〜で|自転車[じてんしゃ]{で}会社[かいしゃ]へ行[い]きます。|I go to work by bicycle.|Tôi đi làm bằng xe đạp.
+〜で|公園[こうえん]{で}子供[こども]が遊[あそ]んでいます。|Children are playing in the park.|Bọn trẻ đang chơi trong công viên.
+〜で|日本語[にほんご]{で}手紙[てがみ]を書[か]きました。|I wrote a letter in Japanese.|Tôi đã viết thư bằng tiếng Nhật.
+〜をください|このシャツの赤[あか]いの{をください}。|I'll take the red one of this shirt, please.|Cho tôi cái áo sơ mi màu đỏ này.
+〜をください|すみません、メニュー{をください}。|Excuse me, may I have the menu?|Xin lỗi, cho tôi xem thực đơn.
+〜をください|切手[きって]を五枚[ごまい]{ください}。|Five stamps, please.|Cho tôi năm con tem.
+〜より|東京[とうきょう]は大阪[おおさか]{より}大[おお]きいです。|Tokyo is bigger than Osaka.|Tokyo lớn hơn Osaka.
+〜より|兄[あに]は私[わたし]{より}背[せ]が高[たか]いです。|My older brother is taller than me.|Anh tôi cao hơn tôi.
+〜より|夏[なつ]は冬[ふゆ]{より}日[ひ]が長[なが]いです。|Days are longer in summer than in winter.|Mùa hè ngày dài hơn mùa đông.
+〜ませんか|今晩[こんばん]、一緒[いっしょ]に食事[しょくじ]をし{ませんか}。|Would you like to have dinner together tonight?|Tối nay đi ăn cùng không?
+〜ませんか|週末[しゅうまつ]、テニスをし{ませんか}。|How about playing tennis this weekend?|Cuối tuần chơi tennis không?
+〜ませんか|少[すこ]し休[やす]み{ませんか}。|Shall we take a little break?|Nghỉ một chút không?
+〜ましょうか|荷物[にもつ]を持[も]ち{ましょうか}。|Shall I carry your bags?|Để tôi xách hành lý giúp nhé?
+〜ましょうか|駅[えき]まで送[おく]り{ましょうか}。|Shall I take you to the station?|Để tôi đưa bạn ra ga nhé?
+〜ましょうか|どこで会[あ]い{ましょうか}。|Where shall we meet?|Chúng ta gặp nhau ở đâu nhé?
+〜から〜まで|家[いえ]{から}駅[えき]{まで}自転車[じてんしゃ]で行[い]きます。|I go from home to the station by bicycle.|Từ nhà đến ga tôi đi xe đạp.
+〜から〜まで|夏休[なつやす]みは七月[しちがつ]{から}八月[はちがつ]{まで}です。|Summer vacation is from July to August.|Nghỉ hè từ tháng 7 đến tháng 8.
+〜から〜まで|銀行[ぎんこう]は九時[くじ]{から}三時[さんじ]{まで}です。|The bank is open from nine to three.|Ngân hàng mở từ chín giờ đến ba giờ.
+〜と〜|朝[あさ]はパン{と}卵[たまご]を食[た]べます。|I eat bread and eggs in the morning.|Buổi sáng tôi ăn bánh mì và trứng.
+〜と〜|私[わたし]{と}妹[いもうと]は同[おな]じ学校[がっこう]です。|My younger sister and I go to the same school.|Tôi và em gái học cùng trường.
+〜と〜|ペン{と}ノートを持[も]ってきてください。|Please bring a pen and a notebook.|Hãy mang theo bút và vở.
+〜も|明日[あした]{も}雨[あめ]が降[ふ]るそうです。|They say it will rain tomorrow too.|Nghe nói ngày mai cũng mưa.
+〜も|田中[たなか]さん{も}パーティーに来[き]ます。|Mr. Tanaka is coming to the party too.|Anh Tanaka cũng đến bữa tiệc.
+〜も|私[わたし]はお酒[さけ]{も}たばこ{も}やりません。|I neither drink nor smoke.|Tôi không uống rượu cũng không hút thuốc.
+〜がほしいです|誕生日[たんじょうび]に新[あたら]しいかばん{がほしいです}。|I want a new bag for my birthday.|Sinh nhật tôi muốn có một cái túi mới.
+〜がほしいです|もっと大[おお]きい部屋[へや]{がほしいです}。|I want a bigger room.|Tôi muốn có căn phòng rộng hơn.
+〜がほしいです|休[やす]み{がほしいです}。|I want a holiday.|Tôi muốn được nghỉ.
+〜てください|窓[まど]を閉[し]め{てください}。|Please close the window.|Hãy đóng cửa sổ.
+〜てください|もう一度[いちど]言[い]っ{てください}。|Please say it once more.|Hãy nói lại một lần nữa.
+〜てください|この漢字[かんじ]の読[よ]み方[かた]を教[おし]え{てください}。|Please teach me how to read this kanji.|Hãy chỉ tôi cách đọc chữ Hán này.
+〜てから|仕事[しごと]が終[お]わっ{てから}、飲[の]みに行[い]きます。|After work, I'll go for a drink.|Xong việc tôi sẽ đi uống.
+〜てから|シャワーを浴[あ]び{てから}、寝[ね]ます。|I take a shower and then go to bed.|Tắm xong rồi tôi đi ngủ.
+〜てから|日本[にほん]に来[き]{てから}、日本語[にほんご]の勉強[べんきょう]を始[はじ]めました。|I started studying Japanese after coming to Japan.|Từ khi sang Nhật tôi mới bắt đầu học tiếng Nhật.
+〜前に|旅行[りょこう]に行[い]く{前[まえ]に}、ホテルを予約[よやく]します。|I book a hotel before going on a trip.|Trước khi đi du lịch tôi đặt khách sạn.
+〜前に|試験[しけん]の{前[まえ]に}、よく復習[ふくしゅう]しましょう。|Let's review well before the exam.|Trước kỳ thi hãy ôn tập kỹ.
+〜前に|家[いえ]を出[で]る{前[まえ]に}、天気[てんき]予報[よほう]を見[み]ます。|I check the weather forecast before leaving home.|Trước khi ra khỏi nhà tôi xem dự báo thời tiết.
+〜くないです|このかばんは重[おも]{くないです}。|This bag isn't heavy.|Cái túi này không nặng.
+〜くないです|私[わたし]の部屋[へや]は広[ひろ]{くないです}。|My room isn't spacious.|Phòng tôi không rộng.
+〜くないです|今日[きょう]の宿題[しゅくだい]は難[むずか]し{くないです}。|Today's homework isn't difficult.|Bài tập hôm nay không khó.
+〜は何ですか|あの建物[たてもの]は{何[なん]ですか}。|What is that building?|Tòa nhà kia là gì?
+〜は何ですか|日本語[にほんご]で「thank you」は{何[なん]ですか}。|What is "thank you" in Japanese?|"Thank you" tiếng Nhật là gì?
+〜は何ですか|今日[きょう]の晩[ばん]ご飯[はん]は{何[なん]ですか}。|What's for dinner today?|Bữa tối hôm nay là món gì?
+〜はどこですか|郵便局[ゆうびんきょく]は{どこですか}。|Where is the post office?|Bưu điện ở đâu?
+〜はどこですか|すみません、出口[でぐち]は{どこですか}。|Excuse me, where is the exit?|Xin lỗi, lối ra ở đâu?
+〜はどこですか|お国[くに]は{どこですか}。|Where are you from?|Bạn là người nước nào?
+〜でしょう|午後[ごご]は晴[は]れる{でしょう}。|It will probably clear up in the afternoon.|Buổi chiều có lẽ trời sẽ nắng.
+〜でしょう|あの人[ひと]は学生[がくせい]{でしょう}。|That person is probably a student.|Người kia chắc là học sinh.
+〜でしょう|この問題[もんだい]は難[むずか]しい{でしょう}。|This problem is probably difficult.|Bài này chắc là khó.
+〜が、〜|この部屋[へや]は狭[せま]い{ですが}、静[しず]かです。|This room is small, but quiet.|Phòng này chật nhưng yên tĩnh.
+〜が、〜|日曜日[にちようび]です{が}、会社[かいしゃ]へ行[い]きます。|It's Sunday, but I'm going to the office.|Hôm nay là Chủ nhật nhưng tôi vẫn đi làm.
+〜が、〜|漢字[かんじ]は難[むずか]しい{ですが}、楽[たの]しいです。|Kanji is difficult, but fun.|Chữ Hán khó nhưng vui.
+この／その／あの|{この}ケーキはとても美味[おい]しいです。|This cake is very delicious.|Cái bánh này rất ngon.
+この／その／あの|{その}帽子[ぼうし]はどこで買[か]いましたか。|Where did you buy that hat?|Cái mũ đó bạn mua ở đâu?
+この／その／あの|{あの}建物[たてもの]は図書館[としょかん]です。|That building over there is the library.|Tòa nhà kia là thư viện.
+〜に（時間・場所）|毎晩[まいばん]十時[じゅうじ]{に}寝[ね]ます。|I go to bed at ten every night.|Tối nào tôi cũng ngủ lúc mười giờ.
+〜に（時間・場所）|日曜日[にちようび]{に}友達[ともだち]が来[き]ます。|A friend is coming on Sunday.|Chủ nhật bạn tôi sẽ đến.
+〜に（時間・場所）|兄[あに]は大阪[おおさか]{に}住[す]んでいます。|My older brother lives in Osaka.|Anh tôi sống ở Osaka.
+〜へ|夏休[なつやす]みに国[くに]{へ}帰[かえ]ります。|I'll go back to my country for summer vacation.|Nghỉ hè tôi sẽ về nước.
+〜へ|来週[らいしゅう]、京都[きょうと]{へ}行[い]きます。|I'm going to Kyoto next week.|Tuần sau tôi đi Kyoto.
+〜へ|みんなで公園[こうえん]{へ}行[い]きました。|We all went to the park.|Mọi người đã cùng đi công viên.
+〜と一緒に|母[はは]{と一緒[いっしょ]に}買[か]い物[もの]に行[い]きました。|I went shopping with my mother.|Tôi đi mua sắm cùng mẹ.
+〜と一緒に|犬[いぬ]{と一緒[いっしょ]に}散歩[さんぽ]します。|I take a walk with my dog.|Tôi đi dạo cùng con chó.
+〜と一緒に|クラスの友達[ともだち]{と一緒[いっしょ]に}勉強[べんきょう]しました。|I studied with my classmates.|Tôi đã học cùng các bạn trong lớp.
+〜や〜|かばんの中[なか]に財布[さいふ]{や}鍵[かぎ]があります。|There's a wallet, keys and so on in the bag.|Trong túi có ví, chìa khóa, v.v.
+〜や〜|休[やす]みの日[ひ]は掃除[そうじ]{や}洗濯[せんたく]をします。|On days off I do cleaning, laundry and such.|Ngày nghỉ tôi dọn dẹp, giặt giũ, v.v.
+〜や〜|スーパーで肉[にく]{や}野菜[やさい]を買[か]いました。|I bought meat, vegetables and other things at the supermarket.|Tôi đã mua thịt, rau, v.v. ở siêu thị.
+〜だけ|私[わたし]はひらがな{だけ}読[よ]めます。|I can only read hiragana.|Tôi chỉ đọc được hiragana.
+〜だけ|クラスで男[おとこ]の人[ひと]は私[わたし]{だけ}です。|I'm the only man in the class.|Trong lớp chỉ có tôi là nam.
+〜だけ|朝[あさ]はコーヒー{だけ}飲[の]みます。|In the morning I only drink coffee.|Buổi sáng tôi chỉ uống cà phê.
+〜ませんでした|昨日[きのう]は雨[あめ]が降[ふ]り{ませんでした}。|It didn't rain yesterday.|Hôm qua trời không mưa.
+〜ませんでした|パーティーで誰[だれ]とも話[はな]し{ませんでした}。|I didn't talk to anyone at the party.|Ở bữa tiệc tôi không nói chuyện với ai cả.
+〜ませんでした|週末[しゅうまつ]はどこへも行[い]き{ませんでした}。|I didn't go anywhere on the weekend.|Cuối tuần tôi không đi đâu cả.
+〜かったです|旅行[りょこう]はとても楽[たの]し{かったです}。|The trip was a lot of fun.|Chuyến du lịch rất vui.
+〜かったです|昨日[きのう]の試験[しけん]は難[むずか]し{かったです}。|Yesterday's exam was difficult.|Bài thi hôm qua khó.
+〜かったです|子供[こども]の時[とき]、髪[かみ]が長[なが]{かったです}。|When I was a child, my hair was long.|Hồi nhỏ tóc tôi dài.
+〜くて|この部屋[へや]は暗[くら]{くて}寒[さむ]いです。|This room is dark and cold.|Phòng này tối và lạnh.
+〜くて|妹[いもうと]は明[あか]る{くて}優[やさ]しいです。|My younger sister is cheerful and kind.|Em gái tôi vui vẻ và hiền lành.
+〜くて|この本[ほん]は面白[おもしろ]{くて}、一晩[ひとばん]で読[よ]みました。|This book was interesting, so I read it in one night.|Quyển sách này hay nên tôi đọc hết trong một đêm.
+〜で（名詞・な形容詞）|この公園[こうえん]は有名[ゆうめい]{で}、人[ひと]が多[おお]いです。|This park is famous and crowded.|Công viên này nổi tiếng và đông người.
+〜で（名詞・な形容詞）|姉[あね]は会社員[かいしゃいん]{で}、二十五歳[にじゅうごさい]です。|My older sister is an office worker and is 25.|Chị tôi là nhân viên công ty, hai mươi lăm tuổi.
+〜で（名詞・な形容詞）|この町[まち]は便利[べんり]{で}、住[す]みやすいです。|This town is convenient and easy to live in.|Thị trấn này tiện lợi và dễ sống.
+〜て（動詞の連結）|家[いえ]に帰[かえ]っ{て}、晩[ばん]ご飯[はん]を作[つく]ります。|I go home and make dinner.|Tôi về nhà rồi nấu bữa tối.
+〜て（動詞の連結）|デパートへ行[い]っ{て}、靴[くつ]を買[か]いました。|I went to the department store and bought shoes.|Tôi đến trung tâm thương mại và mua giày.
+〜て（動詞の連結）|シャワーを浴[あ]び{て}、着替[きが]えて、出[で]かけます。|I take a shower, change clothes and go out.|Tôi tắm, thay quần áo rồi ra ngoài.
+〜てはいけません|図書館[としょかん]で話[はな]し{てはいけません}。|You must not talk in the library.|Không được nói chuyện trong thư viện.
+〜てはいけません|お酒[さけ]を飲[の]んで運転[うんてん]し{てはいけません}。|You must not drive after drinking.|Không được lái xe sau khi uống rượu.
+〜てはいけません|テストの時[とき]、辞書[じしょ]を使[つか]っ{てはいけません}。|You mustn't use a dictionary during the test.|Khi làm bài kiểm tra không được dùng từ điển.
+〜ないでください|ここに荷物[にもつ]を置[お]か{ないでください}。|Please don't leave luggage here.|Xin đừng để hành lý ở đây.
+〜ないでください|授業[じゅぎょう]に遅[おく]れ{ないでください}。|Please don't be late for class.|Đừng đến lớp muộn.
+〜ないでください|このことは誰[だれ]にも言[い]わ{ないでください}。|Please don't tell anyone about this.|Đừng nói chuyện này với ai.
+〜が分かります|私[わたし]は英語[えいご]{が分[わ]かります}。|I understand English.|Tôi hiểu tiếng Anh.
+〜が分かります|この言葉[ことば]の意味[いみ]{が分[わ]かりません}。|I don't understand the meaning of this word.|Tôi không hiểu nghĩa từ này.
+〜が分かります|駅[えき]への道[みち]{が分[わ]かりますか}。|Do you know the way to the station?|Bạn có biết đường đến ga không?
+〜の中で〜が一番|季節[きせつ]{の中[なか]で}春[はる]{が一番[いちばん]}好[す]きです。|Of all the seasons, I like spring best.|Trong các mùa tôi thích mùa xuân nhất.
+〜の中で〜が一番|家族[かぞく]{の中[なか]で}父[ちち]{が一番[いちばん]}早[はや]く起[お]きます。|In my family, my father gets up the earliest.|Trong nhà, bố tôi dậy sớm nhất.
+〜の中で〜が一番|日本料理[にほんりょうり]{の中[なか]で}何[なに]{が一番[いちばん]}好[す]きですか。|Which Japanese dish do you like best?|Trong các món Nhật bạn thích món nào nhất?
+〜をあげます／もらいます|誕生日[たんじょうび]に父[ちち]に時計[とけい]を{もらいました}。|I got a watch from my father for my birthday.|Sinh nhật tôi được bố tặng đồng hồ.
+〜をあげます／もらいます|妹[いもうと]にお菓子[かし]を{あげました}。|I gave sweets to my younger sister.|Tôi đã cho em gái bánh kẹo.
+〜をあげます／もらいます|先生[せんせい]に辞書[じしょ]を{もらいました}。|I received a dictionary from my teacher.|Tôi được thầy tặng từ điển.
+〜は〜にあります|私[わたし]の家[いえ]は駅[えき]の近[ちか]く{にあります}。|My house is near the station.|Nhà tôi ở gần ga.
+〜は〜にあります|トイレは二階[にかい]{にあります}。|The toilet is on the second floor.|Nhà vệ sinh ở tầng hai.
+〜は〜にあります|田中[たなか]さんは会議室[かいぎしつ]{にいます}。|Mr. Tanaka is in the meeting room.|Anh Tanaka đang ở phòng họp.
+〜ね|この花[はな]はきれいです{ね}。|These flowers are pretty, aren't they?|Hoa này đẹp nhỉ.
+〜ね|日本語[にほんご]が上手[じょうず]です{ね}。|Your Japanese is good, isn't it?|Tiếng Nhật của bạn giỏi nhỉ.
+〜ね|明日[あした]は休[やす]みです{ね}。|Tomorrow is a day off, right?|Ngày mai được nghỉ nhỉ.
+〜よ|電車[でんしゃ]がもう来[き]ました{よ}。|The train has already come, you know.|Tàu đến rồi đấy.
+〜よ|あそこにコンビニがあります{よ}。|There's a convenience store over there.|Ở đằng kia có cửa hàng tiện lợi đấy.
+〜よ|その映画[えいが]はとても面白[おもしろ]いです{よ}。|That movie is really interesting, you know.|Bộ phim đó hay lắm đấy.
+いくらですか|このりんごは一[ひと]つ{いくらですか}。|How much is one of these apples?|Táo này bao nhiêu tiền một quả?
+いくらですか|東京[とうきょう]までの切符[きっぷ]は{いくらですか}。|How much is a ticket to Tokyo?|Vé đi Tokyo bao nhiêu tiền?
+いくらですか|あの赤[あか]い傘[かさ]は{いくらですか}。|How much is that red umbrella?|Cái ô đỏ kia bao nhiêu tiền?
+〜か〜|ペン{か}鉛筆[えんぴつ]で書[か]いてください。|Please write with a pen or pencil.|Hãy viết bằng bút mực hoặc bút chì.
+〜か〜|夏休[なつやす]みは海[うみ]{か}山[やま]へ行[い]きたいです。|For summer vacation I want to go to the sea or the mountains.|Nghỉ hè tôi muốn đi biển hoặc lên núi.
+〜か〜|ご飯[はん]{か}パンを選[えら]んでください。|Please choose rice or bread.|Hãy chọn cơm hoặc bánh mì.
+〜はどうですか|日本[にほん]の生活[せいかつ]は{どうですか}。|How is life in Japan?|Cuộc sống ở Nhật thế nào?
+〜はどうですか|この赤[あか]いシャツは{どうですか}。|How about this red shirt?|Cái áo sơ mi đỏ này thì sao?
+〜はどうですか|来週[らいしゅう]の金曜日[きんようび]は{どうですか}。|How about next Friday?|Thứ Sáu tuần sau thì sao?
+〜ぐらい／〜ごろ|毎晩[まいばん]十一時[じゅういちじ]{ごろ}寝[ね]ます。|I go to bed around eleven every night.|Tối nào tôi cũng ngủ khoảng mười một giờ.
+〜ぐらい／〜ごろ|ここから駅[えき]まで歩[ある]いて五分[ごふん]{ぐらい}です。|It's about five minutes' walk from here to the station.|Từ đây đến ga đi bộ khoảng năm phút.
+〜ぐらい／〜ごろ|日本[にほん]に一年[いちねん]{ぐらい}住[す]んでいました。|I lived in Japan for about a year.|Tôi đã sống ở Nhật khoảng một năm.

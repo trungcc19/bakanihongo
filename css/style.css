@@ -91,3 +91,10 @@ button[disabled]{opacity:.4}
 .kg.k3{grid-template-columns:repeat(3,1fr)}
 @media (min-width:720px){.kg.k3{grid-template-columns:repeat(9,1fr)}}
 .kb{display:none;font-size:12px;margin:0 0 6px}@media (min-width:720px) and (hover:hover){.kb{display:block}}
+/* study plan: today's checklist rows */
+.td{display:flex;width:100%;align-items:center;gap:10px;text-align:left;margin-top:6px;padding:9px 12px}
+.td .tl{flex:1}.td.ok{opacity:.6}.td.ok .tl{text-decoration:line-through}
+ul.pl,ol.pl{margin:8px 0 4px;padding-left:20px;line-height:1.5}ul.pl li,ol.pl li{margin:4px 0}
+.qr{display:flex;justify-content:center;margin:8px auto;padding:10px;background:#fff;border-radius:10px;width:max-content}.qr:empty{display:none}
+pre.sql{white-space:pre-wrap;word-break:break-all;font-size:11px;background:var(--bg);border:1px solid var(--bd);border-radius:8px;padding:8px;margin:6px 0}
+details summary{cursor:pointer;padding:4px 0}

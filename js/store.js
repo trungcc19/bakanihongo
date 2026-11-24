@@ -5,7 +5,7 @@ S.ls=S.ls&&typeof S.ls=="object"?S.ls:{};
 Object.assign(S,{b:S.b||{},w:S.w||{},lang:S.lang||"vi",lv:S.lv===undefined?5:S.lv,lsn:S.lsn||0,mode:S.mode||"v",qm:S.qm||"w",xp:S.xp||0,st:S.st||0,day:S.day||"",td:S.td||0,nl:S.nl||10,nd:S.nd||"",nn:S.nn||0,xt:S.xt||0,sb:S.sb||{},fg:S.fg||{},th:S.th||"",h:S.h||{},lb:S.lb||0,ts:S.ts||0});
 for(const k in S.b)if(typeof S.b[k]=="number")S.b[k]=[S.b[k],Date.now(),0];
 /* Progress fields only (what gets synced, backed up and merged) */
-const state=()=>({b:S.b,w:S.w,wq:S.wq||{},gs:S.gs||{},ls:S.ls,fg:S.fg,xp:S.xp,st:S.st,day:S.day,td:S.td,h:S.h});
+const state=()=>({b:S.b,w:S.w,wq:S.wq||{},gs:S.gs||{},ls:S.ls,fg:S.fg,xp:S.xp,st:S.st,day:S.day,td:S.td,h:S.h,pl:S.pl,dt:S.dt,nd:S.nd,nn:S.nn});
 let pt,it,sy="";
 /* ---- IndexedDB mirror: survives a cleared/corrupted localStorage and is the larger, more durable store ---- */
 const idb=()=>new Promise((ok,no)=>{try{const r=indexedDB.open("nihongo",1);r.onupgradeneeded=()=>r.result.createObjectStore("kv");r.onsuccess=()=>ok(r.result);r.onerror=()=>no(r.error)}catch(e){no(e)}});
@@ -25,6 +25,9 @@ for(const k in r.w||{})S.w[k]=Math.max(S.w[k]||0,r.w[k]);S.gs=S.gs||{};for(const
 for(const k in r.ls||{}){const a=S.ls[k],b=r.ls[k];if(!a||b[1]>a[1])S.ls[k]=b}
 for(const k in r.fg||{}){const a=S.fg[k],b=r.fg[k];if(!a||b[1]>a[1])S.fg[k]=b}
 for(const k in r.h||{}){const a=S.h[k]||[0,0,0],b=r.h[k];S.h[k]=a.map((v,i)=>Math.max(v,b[i]||0))}
+if(r.pl&&(!S.pl||(r.pl.t||0)>(S.pl.t||0)))S.pl=r.pl;
+if(r.dt){if(!S.dt||r.dt.d>S.dt.d)S.dt=r.dt;else if(r.dt.d==S.dt.d)for(const k in r.dt)if(k!="d")S.dt[k]=Math.max(S.dt[k]||0,r.dt[k]||0)}
+if(r.nd){const a=new Date(S.nd||0),b=new Date(r.nd);if(b>a){S.nd=r.nd;S.nn=r.nn||0}else if(+a==+b)S.nn=Math.max(S.nn||0,r.nn||0)}
 S.xp=Math.max(S.xp,r.xp||0);const dl=new Date(S.day||0),dr=new Date(r.day||0);
 if(dr>dl){S.st=r.st;S.day=r.day;S.td=r.td}else if(+dr==+dl){S.st=Math.max(S.st,r.st||0);S.td=Math.max(S.td,r.td||0)}}
 async function sync(){if(!(S.sb.url&&S.sb.key&&S.sb.code))return;try{sy="⏳";const g=await fetch(api()+"?id=eq."+encodeURIComponent(S.sb.code)+"&select=data",{headers:hd()});if(!g.ok)throw 0;merge((await g.json())[0]?.data);
@@ -32,4 +35,6 @@ const p=await fetch(api(),{method:"POST",headers:{...hd(),Prefer:"resolution=mer
 sy="✅ "+new Date().toLocaleTimeString();S.ls0=Date.now();try{localStorage.setItem("jp2",JSON.stringify(S))}catch(e){}idbPut(JSON.parse(JSON.stringify(S)))}catch(e){sy="⚠️ sync error"}
 if(typeof render=="function"&&["home","set"].includes(tab))render()}
 /* Save immediately when the app is hidden/closed so nothing typed in the last seconds is lost. */
-addEventListener("visibilitychange",()=>{if(document.visibilityState=="hidden"){try{localStorage.setItem("jp2",JSON.stringify(S))}catch(e){}idbPut(JSON.parse(JSON.stringify(S)))}});
+/* ...and sync: push when leaving, pull when coming back (the other device may have studied meanwhile). */
+addEventListener("visibilitychange",()=>{if(document.visibilityState=="hidden"){try{localStorage.setItem("jp2",JSON.stringify(S))}catch(e){}idbPut(JSON.parse(JSON.stringify(S)));clearTimeout(pt);sync()}else sync()});
+addEventListener("online",()=>sync());

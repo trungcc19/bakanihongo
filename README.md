@@ -42,8 +42,9 @@ alter table progress enable row level security;
 create policy "anon all" on progress for all to anon using (true) with check (true);
 ```
 2. Vào Project Settings → API, lấy **Project URL** và **anon / publishable key**.
-3. Trên thiết bị thứ nhất: ⚙️ Cài đặt → dán URL và key → bấm "Tạo mã" → "Lưu và đồng bộ". Ghi lại mã đồng bộ.
-4. Trên thiết bị thứ hai: nhập đúng URL, key và mã đó. Tiến độ được gộp theo thời gian của từng thẻ, nên học ở cả hai máy không bị mất.
+3. Trên thiết bị thứ nhất: ⚙️ Cài đặt → Đồng bộ → mở "Máy thứ nhất" → dán URL và key → bấm "Kết nối và đồng bộ". Mã đồng bộ được tạo tự động nếu để trống.
+4. Trên thiết bị thứ hai: không cần nhập gì. Trên máy thứ nhất bấm 📲 **Kết nối máy khác**, rồi dùng camera của máy thứ hai quét mã QR (hoặc gửi link cho chính mình và mở trên máy thứ hai). Tiến độ của hai máy được gộp theo thời gian của từng thẻ, nên học ở cả hai máy không bị mất.
+5. App tự đồng bộ khi mở, vài giây sau khi học, khi chuyển sang app khác hoặc tắt màn hình, và khi có mạng lại.
 
 Lưu ý bảo mật: URL, key và mã chỉ lưu trong trình duyệt của bạn, không nằm trong mã nguồn site. Mã đồng bộ đóng vai trò mật khẩu, nên đừng chia sẻ. Đây là cách đơn giản cho một người dùng, không phải hệ thống tài khoản.
 
@@ -124,3 +125,25 @@ Mở link bằng Chrome → menu ⋮ → "Cài đặt ứng dụng" (Install app
 - **Kiểm tra → Từ vựng:** đáp án nhiễu được lấy ở cấp gần với từ đang hỏi, cùng loại (động từ/không phải động từ) và không trùng nghĩa.
 - **Phím tắt khi Kiểm tra trên máy tính:** 1–4 để chọn đáp án, Enter để sang câu tiếp.
 - **Kanji N4:** thêm 立, 言, 公, là các chữ có trong danh sách N4 chuẩn nhưng trước đây bị thiếu.
+
+## v12: lộ trình học, thêm câu cho Điền từ và Ngữ pháp, đồng bộ dễ hơn
+- **🎯 Lộ trình học** (Trang chủ → Chi tiết):
+  - Chọn cấp đang học (N5/N4/N3) và tốc độ: Nhẹ / Vừa / Nhanh. N5 mất 4/3/2 tháng, N4 6/4/3 tháng, N3 9/6/4 tháng.
+  - App tính số từ mới và Kanji mới mỗi ngày từ phần còn lại và số ngày còn lại, rồi tự đặt số thẻ mới mỗi ngày theo đó. Nếu bị chậm, số này tự tăng (tối đa 40).
+  - Trang chủ có danh sách **Hôm nay**: Kana (chỉ ở N5, khi chưa viết hết), ôn thẻ đến hạn, thẻ mới, viết, ngữ pháp, điền từ, đọc/nghe. Mỗi mục bấm vào là đến đúng phần cần học.
+  - Trang Lộ trình có tiến độ của từ vựng, Kanji và ngữ pháp, cho biết bạn đang đúng hay chậm tiến độ, ngày dự kiến xong, thứ tự một buổi học, và những gì nên tập trung ở từng cấp.
+- **Kiểm tra → Điền từ:**
+  - Thêm 1124 câu ví dụ mới (`src/sx-n*-*.txt`, dạng `từ|câu|en|vi`). Gần như mọi từ có từ 2 câu trở lên.
+  - Các câu ví dụ ngữ pháp cũng được dùng làm câu điền từ.
+  - Động từ và tính từ đã chia cũng được hỏi (ví dụ 食べました → chọn 食べる).
+  - Mỗi từ lần lượt dùng hết các câu của nó rồi mới lặp lại; từ vừa hỏi không bị hỏi lại ngay.
+- **Ngữ pháp:** mỗi mẫu có thêm 3 câu, tổng 6 câu (`src/grammar-ex2-n*.txt`). Phần Kiểm tra dùng hết các câu của một mẫu rồi mới lặp lại.
+- **Kiểm tra dữ liệu:**
+  - `node tools/check_sx.mjs src/sx-*.txt` kiểm tra furigana, câu có chứa từ, và cách đọc có khớp với dữ liệu không.
+  - `node tools/check_gex.mjs src/grammar-ex2-n*.txt` kiểm tra câu ngữ pháp.
+  - Build: `node tools/build_sx.mjs` và `python tools/build_grammar.py`.
+- **Nhận diện từ trong câu:** phân biệt được 外す với 外, 渡す với 渡る, 足す với 足… dựa vào đuôi chia phía sau.
+- **Đồng bộ:**
+  - Máy thứ hai chỉ cần quét mã QR hoặc mở link từ máy thứ nhất.
+  - Tự đồng bộ khi mở app, khi rời app và khi có mạng lại.
+  - Lộ trình, việc đã làm hôm nay và số thẻ mới đã học hôm nay cũng được đồng bộ.

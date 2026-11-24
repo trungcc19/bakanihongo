@@ -1,0 +1,171 @@
+〜てもいいです|このペンを使[つか]っ{てもいいですか}。|May I use this pen?|Tôi dùng cây bút này được không?
+〜てもいいです|疲[つか]れたら、少[すこ]し休[やす]ん{でもいいです}よ。|If you're tired, you can rest a little.|Mệt thì nghỉ một chút cũng được.
+〜てもいいです|ここに座[すわ]っ{てもいいですか}。|May I sit here?|Tôi ngồi đây được không?
+〜ので|道[みち]が混[こ]んでいた{ので}、遅[おく]れました。|The roads were crowded, so I was late.|Đường đông nên tôi đến muộn.
+〜ので|明日[あした]は早[はや]い{ので}、今日[きょう]はもう寝[ね]ます。|I have an early start tomorrow, so I'll go to bed now.|Mai phải dậy sớm nên hôm nay tôi đi ngủ đây.
+〜ので|この部屋[へや]は静[しず]かな{ので}、勉強[べんきょう]しやすいです。|This room is quiet, so it's easy to study in.|Phòng này yên tĩnh nên dễ học.
+〜たことがある|私[わたし]は着物[きもの]を着[き]{たことがあります}。|I have worn a kimono.|Tôi đã từng mặc kimono.
+〜たことがある|北海道[ほっかいどう]へ行[い]っ{たことがありますか}。|Have you ever been to Hokkaido?|Bạn đã từng đến Hokkaido chưa?
+〜たことがある|一度[いちど]も馬[うま]に乗[の]っ{たことがありません}。|I have never ridden a horse.|Tôi chưa từng cưỡi ngựa lần nào.
+〜なければならない|明日[あした]までにレポートを出[だ]さ{なければなりません}。|I have to submit the report by tomorrow.|Tôi phải nộp báo cáo trước ngày mai.
+〜なければならない|病院[びょういん]では静[しず]かにし{なければならない}。|You must be quiet in the hospital.|Ở bệnh viện phải giữ yên lặng.
+〜なければならない|毎月[まいつき]家賃[やちん]を払[はら]わ{なければなりません}。|I have to pay rent every month.|Hằng tháng tôi phải trả tiền nhà.
+〜たら|駅[えき]に着[つ]い{たら}、電話[でんわ]してください。|Please call me when you get to the station.|Đến ga thì gọi điện cho tôi nhé.
+〜たら|お金[かね]があっ{たら}、世界[せかい]旅行[りょこう]がしたいです。|If I had money, I'd like to travel around the world.|Nếu có tiền tôi muốn đi du lịch vòng quanh thế giới.
+〜たら|暇[ひま]だっ{たら}、一緒[いっしょ]に映画[えいが]を見[み]ませんか。|If you're free, would you like to watch a movie together?|Nếu rảnh thì cùng xem phim không?
+〜そうだ|このケーキは甘[あま]{そうです}ね。|This cake looks sweet.|Cái bánh này trông có vẻ ngọt nhỉ.
+〜そうだ|今[いま]にも雨[あめ]が降[ふ]り{そうです}。|It looks like it's going to rain any minute.|Trời có vẻ sắp mưa đến nơi.
+〜そうだ|あの子[こ]は楽[たの]し{そうに}遊[あそ]んでいます。|That child is playing happily.|Đứa bé kia đang chơi có vẻ rất vui.
+〜ために|日本語[にほんご]を勉強[べんきょう]する{ために}、日本[にほん]へ来[き]ました。|I came to Japan to study Japanese.|Tôi sang Nhật để học tiếng Nhật.
+〜ために|子供[こども]の{ために}、大[おお]きい家[いえ]を買[か]いました。|I bought a big house for my children.|Tôi đã mua ngôi nhà lớn vì các con.
+〜ために|試験[しけん]に合格[ごうかく]する{ために}、毎日[まいにち]三時間[さんじかん]勉強[べんきょう]しています。|I study three hours every day to pass the exam.|Để đỗ kỳ thi, ngày nào tôi cũng học ba tiếng.
+〜てはいけない|美術館[びじゅつかん]で写真[しゃしん]を撮[と]っ{てはいけません}。|You must not take photos in the art museum.|Không được chụp ảnh trong bảo tàng mỹ thuật.
+〜てはいけない|子供[こども]はお酒[さけ]を飲[の]ん{ではいけません}。|Children must not drink alcohol.|Trẻ em không được uống rượu.
+〜てはいけない|ここにごみを捨[す]て{てはいけない}。|You must not throw garbage here.|Không được vứt rác ở đây.
+〜なくてもいい|今日[きょう]は宿題[しゅくだい]をし{なくてもいいです}。|You don't have to do homework today.|Hôm nay không cần làm bài tập cũng được.
+〜なくてもいい|急[いそ]が{なくてもいいです}よ。まだ時間[じかん]があります。|You don't need to hurry. There's still time.|Không cần vội đâu. Vẫn còn thời gian.
+〜なくてもいい|この書類[しょるい]には名前[なまえ]を書[か]か{なくてもいいです}。|You don't have to write your name on this form.|Giấy này không cần ghi tên cũng được.
+〜ことができる|この公園[こうえん]では泳[およ]ぐ{ことができます}。|You can swim in this park.|Ở công viên này có thể bơi.
+〜ことができる|妹[いもうと]は三[さん]か国語[こくご]を話[はな]す{ことができます}。|My younger sister can speak three languages.|Em gái tôi có thể nói ba thứ tiếng.
+〜ことができる|カードで払[はら]う{ことができますか}。|Can I pay by card?|Có thể trả bằng thẻ không?
+〜つもりだ|夏休[なつやす]みに国[くに]へ帰[かえ]る{つもりです}。|I intend to go back to my country during summer vacation.|Nghỉ hè tôi định về nước.
+〜つもりだ|大学[だいがく]を出[で]たら、日本[にほん]の会社[かいしゃ]で働[はたら]く{つもりです}。|After university I intend to work at a Japanese company.|Ra trường tôi định làm việc ở công ty Nhật.
+〜つもりだ|もうたばこは吸[す]わない{つもりです}。|I intend not to smoke anymore.|Tôi định không hút thuốc nữa.
+〜(よ)うと思う|来年[らいねん]、N3を受[う]け{ようと思[おも]います}。|I'm thinking of taking N3 next year.|Năm sau tôi định thi N3.
+〜(よ)うと思う|週末[しゅうまつ]は部屋[へや]を片付[かたづ]け{ようと思[おも]います}。|I'm thinking of tidying my room on the weekend.|Cuối tuần tôi định dọn phòng.
+〜(よ)うと思う|毎朝[まいあさ]ジョギングをし{ようと思[おも]っています}。|I'm thinking of jogging every morning.|Tôi đang định chạy bộ mỗi sáng.
+〜ながら|歩[ある]き{ながら}スマホを見[み]ないでください。|Please don't look at your phone while walking.|Đừng vừa đi vừa xem điện thoại.
+〜ながら|コーヒーを飲[の]み{ながら}、新聞[しんぶん]を読[よ]みます。|I read the newspaper while drinking coffee.|Tôi vừa uống cà phê vừa đọc báo.
+〜ながら|歌[うた]を歌[うた]い{ながら}料理[りょうり]をしています。|I'm cooking while singing.|Tôi vừa hát vừa nấu ăn.
+〜し、〜し|この部屋[へや]は広[ひろ]い{し}、駅[えき]にも近[ちか]い{し}、いいですね。|This room is spacious and close to the station, so it's nice.|Phòng này vừa rộng vừa gần ga, tốt nhỉ.
+〜し、〜し|今日[きょう]は疲[つか]れた{し}、もう寝[ね]ます。|I'm tired today, so I'll go to bed.|Hôm nay mệt rồi nên tôi đi ngủ đây.
+〜し、〜し|彼[かれ]は優[やさ]しい{し}、面白[おもしろ]い{し}、人気[にんき]があります。|He's kind and funny, so he's popular.|Anh ấy vừa tốt bụng vừa vui tính nên được yêu mến.
+〜ば|この薬[くすり]を飲[の]め{ば}、すぐ治[なお]りますよ。|If you take this medicine, you'll get better soon.|Uống thuốc này là khỏi ngay.
+〜ば|天気[てんき]がよけれ{ば}、富士山[ふじさん]が見[み]えます。|If the weather is good, you can see Mt. Fuji.|Nếu trời đẹp thì nhìn thấy núi Phú Sĩ.
+〜ば|練習[れんしゅう]すれ{ば}、誰[だれ]でも上手[じょうず]になります。|Anyone can get good if they practice.|Luyện tập thì ai cũng giỏi lên.
+〜と（条件）|この道[みち]をまっすぐ行[い]く{と}、銀行[ぎんこう]があります。|Go straight along this road and you'll find a bank.|Đi thẳng con đường này là có ngân hàng.
+〜と（条件）|冬[ふゆ]になる{と}、この湖[みずうみ]は凍[こお]ります。|When winter comes, this lake freezes.|Cứ đến mùa đông là hồ này đóng băng.
+〜と（条件）|お酒[さけ]を飲[の]む{と}、顔[かお]が赤[あか]くなります。|When I drink alcohol, my face turns red.|Hễ uống rượu là mặt tôi đỏ lên.
+〜なら|日本語[にほんご]を勉強[べんきょう]する{なら}、この本[ほん]がいいですよ。|If you're going to study Japanese, this book is good.|Nếu học tiếng Nhật thì quyển sách này tốt đấy.
+〜なら|すし{なら}、駅前[えきまえ]の店[みせ]が美味[おい]しいです。|If it's sushi you want, the shop by the station is good.|Nếu là sushi thì quán trước ga ngon.
+〜なら|眠[ねむ]い{なら}、先[さき]に寝[ね]てもいいですよ。|If you're sleepy, you can go to bed first.|Nếu buồn ngủ thì cứ đi ngủ trước.
+〜ても|何度[なんど]電話[でんわ]し{ても}、出[で]ません。|No matter how many times I call, nobody answers.|Gọi bao nhiêu lần cũng không ai nghe máy.
+〜ても|暑[あつ]く{ても}、エアコンは使[つか]いません。|Even if it's hot, I don't use the air conditioner.|Dù nóng tôi cũng không dùng điều hòa.
+〜ても|大人[おとな]になっ{ても}、両親[りょうしん]は大切[たいせつ]です。|Even after you grow up, your parents are important.|Dù đã lớn, bố mẹ vẫn là người quan trọng.
+〜のに|一生懸命[いっしょうけんめい]走[はし]った{のに}、電車[でんしゃ]に間[ま]に合[あ]いませんでした。|I ran as hard as I could, but I didn't make the train.|Đã chạy hết sức vậy mà vẫn lỡ tàu.
+〜のに|もう春[はる]な{のに}、まだ寒[さむ]いです。|Even though it's already spring, it's still cold.|Đã sang xuân rồi mà vẫn lạnh.
+〜のに|高[たか]かった{のに}、すぐ壊[こわ]れました。|Even though it was expensive, it broke right away.|Đắt thế mà hỏng ngay.
+〜てしまう|大切[たいせつ]な書類[しょるい]をなくし{てしまいました}。|I lost an important document.|Tôi lỡ làm mất tài liệu quan trọng.
+〜てしまう|この本[ほん]は一晩[ひとばん]で読[よ]ん{でしまいました}。|I finished reading this book in one night.|Quyển sách này tôi đọc hết trong một đêm.
+〜てしまう|寝坊[ねぼう]して、バスに遅[おく]れ{てしまいました}。|I overslept and missed the bus.|Ngủ quên nên tôi đã lỡ xe buýt.
+〜ておく|お客[きゃく]さんが来[く]る前[まえ]に、部屋[へや]を掃除[そうじ]し{ておきます}。|I'll clean the room before the guests come.|Trước khi khách đến tôi dọn phòng sẵn.
+〜ておく|旅行[りょこう]の前[まえ]に、お金[かね]を換[か]え{ておきました}。|I exchanged money before the trip.|Trước chuyến đi tôi đã đổi tiền sẵn.
+〜ておく|使[つか]ったら、元[もと]の場所[ばしょ]に戻[もど]し{ておいてください}。|After using it, please put it back where it was.|Dùng xong hãy để lại chỗ cũ.
+〜てみる|この靴[くつ]を履[は]い{てみてもいいですか}。|May I try on these shoes?|Tôi đi thử đôi giày này được không?
+〜てみる|初[はじ]めて納豆[なっとう]を食[た]べ{てみました}。|I tried natto for the first time.|Lần đầu tôi ăn thử natto.
+〜てみる|分[わ]からない言葉[ことば]は辞書[じしょ]で調[しら]べ{てみてください}。|Try looking up words you don't know in a dictionary.|Từ không hiểu thì hãy thử tra từ điển.
+〜てある|冷蔵庫[れいぞうこ]にビールが冷[ひ]やし{てあります}。|There's beer chilling in the fridge.|Bia đã được để lạnh sẵn trong tủ.
+〜てある|カレンダーに予定[よてい]が書[か]い{てあります}。|The schedule is written on the calendar.|Lịch đã được ghi trên tờ lịch.
+〜てある|窓[まど]が開[あ]け{てあります}から、涼[すず]しいです。|The window has been left open, so it's cool.|Cửa sổ đã được mở sẵn nên mát.
+〜てあげる／くれる／もらう|私[わたし]は祖母[そぼ]の荷物[にもつ]を持[も]っ{てあげました}。|I carried my grandmother's bags for her.|Tôi đã xách đồ giúp bà.
+〜てあげる／くれる／もらう|姉[あね]が髪[かみ]を切[き]っ{てくれました}。|My older sister cut my hair for me.|Chị gái đã cắt tóc cho tôi.
+〜てあげる／くれる／もらう|友達[ともだち]に引[ひ]っ越[こ]しを手伝[てつだ]っ{てもらいました}。|I had my friends help me move.|Tôi được bạn giúp chuyển nhà.
+〜やすい／〜にくい|この町[まち]は静[しず]かで住[す]み{やすい}です。|This town is quiet and easy to live in.|Thị trấn này yên tĩnh, dễ sống.
+〜やすい／〜にくい|この字[じ]は小[ちい]さくて読[よ]み{にくい}です。|These letters are small and hard to read.|Chữ này nhỏ nên khó đọc.
+〜やすい／〜にくい|このコップは割[わ]れ{にくい}です。|This glass doesn't break easily.|Cái cốc này khó vỡ.
+〜すぎる|昨日[きのう]は食[た]べ{すぎて}、お腹[なか]が痛[いた]いです。|I ate too much yesterday and my stomach hurts.|Hôm qua ăn nhiều quá nên tôi đau bụng.
+〜すぎる|このスープは辛[から]{すぎます}。|This soup is too spicy.|Món súp này cay quá.
+〜すぎる|この部屋[へや]は静[しず]か{すぎて}、少[すこ]し寂[さび]しいです。|This room is too quiet, it's a little lonely.|Phòng này yên tĩnh quá nên hơi buồn.
+〜ようだ／〜みたいだ|隣[となり]の部屋[へや]に誰[だれ]か来[き]た{ようです}。|It seems someone has come to the next room.|Hình như có ai đó đến phòng bên.
+〜ようだ／〜みたいだ|この料理[りょうり]は少[すこ]し塩[しお]が多[おお]い{みたいです}。|This dish seems to have a bit too much salt.|Món này có vẻ hơi nhiều muối.
+〜ようだ／〜みたいだ|彼女[かのじょ]は何[なに]か心配[しんぱい]している{ようです}。|She seems to be worried about something.|Có vẻ cô ấy đang lo lắng điều gì đó.
+〜らしい|田中[たなか]さんは来月[らいげつ]国[くに]へ帰[かえ]る{らしい}です。|I hear Mr. Tanaka is going back to his country next month.|Nghe nói tháng sau anh Tanaka về nước.
+〜らしい|あの映画[えいが]はとても怖[こわ]い{らしい}ですよ。|I hear that movie is really scary.|Nghe nói bộ phim đó rất đáng sợ.
+〜らしい|新[あたら]しい先生[せんせい]は厳[きび]しい人[ひと]{らしい}です。|The new teacher seems to be a strict person.|Nghe nói thầy giáo mới là người nghiêm khắc.
+〜そうだ（伝聞）|ニュースによると、昨日[きのう]大[おお]きな地震[じしん]があった{そうです}。|According to the news, there was a big earthquake yesterday.|Theo tin tức thì hôm qua đã có trận động đất lớn.
+〜そうだ（伝聞）|山田[やまだ]さんの赤[あか]ちゃんが生[う]まれた{そうです}。|I heard Mr. Yamada's baby was born.|Nghe nói em bé nhà anh Yamada đã chào đời.
+〜そうだ（伝聞）|来週[らいしゅう]から電車[でんしゃ]の料金[りょうきん]が上[あ]がる{そうです}。|I hear train fares go up from next week.|Nghe nói từ tuần sau giá vé tàu sẽ tăng.
+〜かもしれない|道[みち]が混[こ]んでいるので、遅[おく]れる{かもしれません}。|The roads are crowded, so I might be late.|Đường đông nên có thể tôi sẽ đến muộn.
+〜かもしれない|財布[さいふ]は車[くるま]の中[なか]にある{かもしれません}。|The wallet might be in the car.|Ví có thể ở trong xe.
+〜かもしれない|明日[あした]は雪[ゆき]{かもしれません}。|It might snow tomorrow.|Ngày mai có thể có tuyết.
+〜れる／られる（受身）|弟[おとうと]にケーキを食[た]べ{られました}。|My younger brother ate my cake.|Tôi bị em trai ăn mất bánh.
+〜れる／られる（受身）|雨[あめ]に降[ふ]ら{れて}、服[ふく]がぬれました。|I got caught in the rain and my clothes got wet.|Bị mưa nên quần áo tôi ướt hết.
+〜れる／られる（受身）|この歌[うた]は世界中[せかいじゅう]で歌[うた]わ{れています}。|This song is sung all over the world.|Bài hát này được hát trên khắp thế giới.
+〜せる／させる（使役）|先生[せんせい]は学生[がくせい]に教科書[きょうかしょ]を読[よ]ま{せました}。|The teacher had the students read the textbook.|Thầy giáo bắt học sinh đọc sách giáo khoa.
+〜せる／させる（使役）|父[ちち]は私[わたし]に車[くるま]を運転[うんてん]{させてくれました}。|My father let me drive the car.|Bố đã cho tôi lái ô tô.
+〜せる／させる（使役）|すみません、ここで少[すこ]し休[やす]ま{せてください}。|Excuse me, please let me rest here a little.|Xin lỗi, cho tôi nghỉ ở đây một chút.
+〜ことにする|健康[けんこう]のために、毎日[まいにち]歩[ある]く{ことにしました}。|For my health, I decided to walk every day.|Vì sức khỏe tôi quyết định ngày nào cũng đi bộ.
+〜ことにする|今日[きょう]は雨[あめ]なので、出[で]かけない{ことにします}。|It's raining today, so I've decided not to go out.|Hôm nay mưa nên tôi quyết định không ra ngoài.
+〜ことにする|来月[らいげつ]から一人[ひとり]で住[す]む{ことにしました}。|I've decided to live alone from next month.|Tôi đã quyết định từ tháng sau sống một mình.
+〜ことになる|四月[しがつ]から東京[とうきょう]の本社[ほんしゃ]で働[はたら]く{ことになりました}。|It's been decided that I'll work at the Tokyo head office from April.|Từ tháng 4 tôi sẽ làm việc ở trụ sở chính tại Tokyo.
+〜ことになる|雨[あめ]のため、試合[しあい]は中止[ちゅうし]する{ことになりました}。|It was decided to cancel the match because of rain.|Vì mưa nên trận đấu đã bị hủy.
+〜ことになる|来週[らいしゅう]、新[あたら]しい部長[ぶちょう]が来[く]る{ことになっています}。|A new manager is scheduled to come next week.|Theo quyết định, tuần sau trưởng phòng mới sẽ đến.
+〜ところだ|これから会議[かいぎ]が始[はじ]まる{ところです}。|The meeting is just about to start.|Cuộc họp sắp bắt đầu.
+〜ところだ|今[いま]、レポートを書[か]いている{ところです}。|I'm in the middle of writing a report.|Tôi đang viết báo cáo.
+〜ところだ|ちょうど晩[ばん]ご飯[はん]を食[た]べた{ところです}。|I've just finished eating dinner.|Tôi vừa ăn tối xong.
+〜たばかり|この靴[くつ]は先週[せんしゅう]買[か]った{ばかりです}。|I just bought these shoes last week.|Đôi giày này tôi vừa mua tuần trước.
+〜たばかり|日本語[にほんご]を習[なら]い始[はじ]めた{ばかり}なので、まだ下手[へた]です。|I've only just started learning Japanese, so I'm still bad at it.|Tôi mới bắt đầu học tiếng Nhật nên vẫn còn kém.
+〜たばかり|さっき昼[ひる]ご飯[はん]を食[た]べた{ばかりです}。|I just had lunch a little while ago.|Tôi vừa mới ăn trưa lúc nãy.
+〜かどうか|このレストランが美味[おい]しい{かどうか}、分[わ]かりません。|I don't know whether this restaurant is good.|Tôi không biết nhà hàng này có ngon không.
+〜かどうか|パーティーに行[い]く{かどうか}、まだ決[き]めていません。|I haven't decided whether to go to the party yet.|Tôi chưa quyết định có đi tiệc hay không.
+〜かどうか|サイズが合[あ]う{かどうか}、着[き]てみてください。|Please try it on to see whether the size fits.|Hãy mặc thử xem có vừa cỡ không.
+〜までに|十時[じゅうじ]{までに}家[いえ]に帰[かえ]ってきなさい。|Come home by ten.|Về nhà trước mười giờ nhé.
+〜までに|来週[らいしゅう]の月曜日[げつようび]{までに}本[ほん]を返[かえ]してください。|Please return the book by next Monday.|Hãy trả sách trước thứ Hai tuần sau.
+〜までに|卒業[そつぎょう]する{までに}、N3に合格[ごうかく]したいです。|I want to pass N3 before I graduate.|Tôi muốn đỗ N3 trước khi tốt nghiệp.
+〜ようにする|毎晩[まいばん]十二時[じゅうにじ]前[まえ]に寝[ね]る{ようにしています}。|I try to go to bed before midnight every night.|Tối nào tôi cũng cố gắng ngủ trước mười hai giờ.
+〜ようにする|甘[あま]い物[もの]はあまり食[た]べない{ようにしています}。|I try not to eat many sweets.|Tôi cố không ăn nhiều đồ ngọt.
+〜ようにする|毎日[まいにち]新[あたら]しい単語[たんご]を十[じゅう]覚[おぼ]える{ようにしています}。|I make a point of memorizing ten new words every day.|Ngày nào tôi cũng cố nhớ mười từ mới.
+〜てほしい|もう少[すこ]し静[しず]かにし{てほしいです}。|I'd like you to be a little quieter.|Tôi muốn bạn yên lặng hơn một chút.
+〜てほしい|母[はは]にずっと元気[げんき]でい{てほしいです}。|I want my mother to stay healthy forever.|Tôi mong mẹ mãi khỏe mạnh.
+〜てほしい|この写真[しゃしん]を彼[かれ]に見[み]せ{てほしいんですが}。|I'd like you to show him this photo.|Tôi muốn bạn cho anh ấy xem bức ảnh này.
+お〜になる（尊敬語）|先生[せんせい]は何時[なんじ]に{お}着[つ]き{になりますか}。|What time will the teacher arrive?|Thầy sẽ đến lúc mấy giờ ạ?
+お〜になる（尊敬語）|部長[ぶちょう]はもう{お}帰[かえ]り{になりました}。|The manager has already gone home.|Trưởng phòng đã về rồi ạ.
+お〜になる（尊敬語）|この本[ほん]をもう{お}読[よ]み{になりましたか}。|Have you already read this book?|Ông đã đọc quyển sách này chưa ạ?
+お〜する（謙譲語）|明日[あした]、資料[しりょう]を{お}送[おく]り{します}。|I will send you the materials tomorrow.|Ngày mai tôi sẽ gửi tài liệu ạ.
+お〜する（謙譲語）|傘[かさ]を{お}貸[か]し{しましょうか}。|Shall I lend you an umbrella?|Để tôi cho ông mượn ô nhé?
+お〜する（謙譲語）|会議室[かいぎしつ]まで{お}連[つ]れ{します}。|I'll take you to the meeting room.|Tôi xin dẫn ông đến phòng họp.
+〜がる|子供[こども]が犬[いぬ]を怖[こわ]{がっています}。|The child is scared of the dog.|Đứa trẻ đang sợ con chó.
+〜がる|弟[おとうと]は新[あたら]しい自転車[じてんしゃ]を欲[ほ]し{がっています}。|My younger brother wants a new bicycle.|Em trai tôi đang muốn có xe đạp mới.
+〜がる|妹[いもうと]は一人[ひとり]で寂[さび]し{がっています}。|My younger sister is feeling lonely by herself.|Em gái tôi ở một mình có vẻ buồn.
+〜(ら)れる（可能形）|私[わたし]は日本語[にほんご]の新聞[しんぶん]が少[すこ]し読[よ]{めます}。|I can read Japanese newspapers a little.|Tôi đọc được báo tiếng Nhật một chút.
+〜(ら)れる（可能形）|納豆[なっとう]は食[た]べ{られますか}。|Can you eat natto?|Bạn ăn được natto không?
+〜(ら)れる（可能形）|ここから富士山[ふじさん]が見[み]{られます}。|You can see Mt. Fuji from here.|Từ đây có thể ngắm núi Phú Sĩ.
+〜ように言う／頼む|医者[いしゃ]にお酒[さけ]を飲[の]まない{ように言[い]われました}。|The doctor told me not to drink alcohol.|Bác sĩ dặn tôi không được uống rượu.
+〜ように言う／頼む|田中[たなか]さんに会議[かいぎ]の資料[しりょう]をコピーする{ように頼[たの]みました}。|I asked Mr. Tanaka to copy the meeting materials.|Tôi đã nhờ anh Tanaka photo tài liệu cuộc họp.
+〜ように言う／頼む|子供[こども]たちに静[しず]かにする{ように言[い]いました}。|I told the children to be quiet.|Tôi bảo bọn trẻ giữ yên lặng.
+〜場合は|雨[あめ]の{場合[ばあい]は}、運動会[うんどうかい]は中止[ちゅうし]です。|In case of rain, the sports day will be canceled.|Trường hợp trời mưa, hội thao sẽ bị hủy.
+〜場合は|使[つか]い方[かた]が分[わ]からない{場合[ばあい]は}、係[かかり]の人[ひと]に聞[き]いてください。|If you don't know how to use it, ask the staff.|Trường hợp không biết cách dùng, hãy hỏi người phụ trách.
+〜場合は|熱[ねつ]が下[さ]がらない{場合[ばあい]は}、もう一度[いちど]病院[びょういん]に来[き]てください。|If the fever doesn't go down, please come to the hospital again.|Nếu không hạ sốt thì hãy quay lại bệnh viện.
+〜間／〜間に|電車[でんしゃ]に乗[の]っている{間[あいだ]}、ずっと本[ほん]を読[よ]んでいました。|I read a book the whole time I was on the train.|Suốt thời gian ngồi tàu tôi đọc sách.
+〜間／〜間に|子供[こども]が寝[ね]ている{間[あいだ]に}、晩[ばん]ご飯[はん]を作[つく]ります。|I make dinner while the children are asleep.|Trong lúc con ngủ tôi nấu bữa tối.
+〜間／〜間に|休[やす]みの{間[あいだ]に}、たくさん本[ほん]を読[よ]みたいです。|I want to read a lot of books during the holidays.|Trong kỳ nghỉ tôi muốn đọc thật nhiều sách.
+〜始める／〜終わる／〜続ける|急[きゅう]に雨[あめ]が降[ふ]り{始[はじ]めました}。|It suddenly started to rain.|Trời đột nhiên bắt đầu mưa.
+〜始める／〜終わる／〜続ける|晩[ばん]ご飯[はん]を食[た]べ{終[お]わったら}、散歩[さんぽ]しましょう。|Let's take a walk after we finish dinner.|Ăn tối xong rồi đi dạo nhé.
+〜始める／〜終わる／〜続ける|十年[じゅうねん]この会社[かいしゃ]で働[はたら]き{続[つづ]けています}。|I've kept working at this company for ten years.|Tôi đã làm việc liên tục ở công ty này mười năm.
+〜ないで|辞書[じしょ]を使[つか]わ{ないで}、この文[ぶん]を読[よ]んでください。|Please read this sentence without using a dictionary.|Hãy đọc câu này mà không dùng từ điển.
+〜ないで|昨夜[ゆうべ]は寝[ね]{ないで}勉強[べんきょう]しました。|I studied without sleeping last night.|Tối qua tôi học mà không ngủ.
+〜ないで|砂糖[さとう]を入[い]れ{ないで}コーヒーを飲[の]みます。|I drink coffee without sugar.|Tôi uống cà phê không cho đường.
+〜ていく／〜てくる|雨[あめ]が降[ふ]りそうなので、傘[かさ]を持[も]っ{ていきます}。|It looks like rain, so I'll take an umbrella.|Trời có vẻ sắp mưa nên tôi mang ô đi.
+〜ていく／〜てくる|最近[さいきん]、日本語[にほんご]が分[わ]かるようになっ{てきました}。|Recently I've come to understand Japanese.|Gần đây tôi đã bắt đầu hiểu tiếng Nhật.
+〜ていく／〜てくる|子供[こども]の数[かず]はこれから減[へ]っ{ていく}でしょう。|The number of children will probably keep decreasing.|Số trẻ em có lẽ sẽ tiếp tục giảm từ nay về sau.
+〜という|「ハチ」{という}犬[いぬ]の話[はなし]を知[し]っていますか。|Do you know the story of a dog called Hachi?|Bạn có biết câu chuyện về chú chó tên Hachi không?
+〜という|これは「着物[きもの]」{という}日本[にほん]の服[ふく]です。|This is Japanese clothing called a kimono.|Đây là trang phục Nhật gọi là kimono.
+〜という|昨日[きのう]、「春[はる]」{という}レストランで食事[しょくじ]しました。|Yesterday I ate at a restaurant called "Haru."|Hôm qua tôi đã ăn ở nhà hàng tên là "Haru".
+〜ことがある|仕事[しごと]が多[おお]い時[とき]は、夜[よる]十時[じゅうじ]まで働[はたら]く{ことがあります}。|When there's a lot of work, I sometimes work until ten at night.|Khi nhiều việc, có lúc tôi làm đến mười giờ tối.
+〜ことがある|この電車[でんしゃ]は雪[ゆき]で止[と]まる{ことがあります}。|This train sometimes stops because of snow.|Tàu này đôi khi dừng vì tuyết.
+〜ことがある|たまに朝[あさ]ご飯[はん]を食[た]べない{ことがあります}。|I occasionally skip breakfast.|Thỉnh thoảng có hôm tôi không ăn sáng.
+〜なさい|もう遅[おそ]いから、早[はや]く寝[ね]{なさい}。|It's late, so go to bed now.|Muộn rồi, đi ngủ mau.
+〜なさい|ご飯[はん]の前[まえ]に手[て]を洗[あら]い{なさい}。|Wash your hands before eating.|Rửa tay trước khi ăn đi.
+〜なさい|正[ただ]しい答[こた]えを選[えら]び{なさい}。|Choose the correct answer.|Hãy chọn câu trả lời đúng.
+疑問詞 + か|次[つぎ]のバスが何時[なんじ]に来[く]る{か}、調[しら]べてください。|Please check what time the next bus comes.|Hãy tra xem chuyến xe buýt tiếp theo mấy giờ đến.
+疑問詞 + か|誰[だれ]がこの絵[え]を描[か]いた{か}、知[し]っていますか。|Do you know who painted this picture?|Bạn có biết ai đã vẽ bức tranh này không?
+疑問詞 + か|プレゼントに何[なに]を買[か]えばいい{か}、分[わ]かりません。|I don't know what to buy as a present.|Tôi không biết nên mua gì làm quà.
+〜しか〜ない|この店[みせ]は現金[げんきん]{しか}使[つか]え{ません}。|This shop only takes cash.|Cửa hàng này chỉ dùng được tiền mặt.
+〜しか〜ない|クラスに男[おとこ]の子[こ]は二人[ふたり]{しか}い{ません}。|There are only two boys in the class.|Trong lớp chỉ có hai bạn nam.
+〜しか〜ない|ひらがな{しか}書[か]け{ません}。|I can only write hiragana.|Tôi chỉ viết được hiragana.
+〜ばよかった|もっと早[はや]く家[いえ]を出[で]れ{ばよかった}。|I should have left home earlier.|Giá mà ra khỏi nhà sớm hơn thì tốt rồi.
+〜ばよかった|あの時[とき]、彼[かれ]に本当[ほんとう]のことを言[い]え{ばよかった}。|I wish I had told him the truth back then.|Giá mà lúc đó tôi nói thật với anh ấy.
+〜ばよかった|こんなに高[たか]いなら、買[か]わなけれ{ばよかった}。|If it was this expensive, I shouldn't have bought it.|Đắt thế này thì giá đừng mua.
+〜させられる（使役受身）|小[ちい]さい頃[ころ]、毎日[まいにち]ピアノを練習[れんしゅう]{させられました}。|When I was small, I was made to practice piano every day.|Hồi nhỏ ngày nào tôi cũng bị bắt tập piano.
+〜させられる（使役受身）|会社[かいしゃ]の飲[の]み会[かい]で歌[うた]を歌[うた]わ{されました}。|I was made to sing at the company drinking party.|Tôi bị bắt hát ở buổi nhậu của công ty.
+〜させられる（使役受身）|一時間[いちじかん]も待[ま]た{されました}。|I was kept waiting for a whole hour.|Tôi bị bắt đợi cả tiếng đồng hồ.
